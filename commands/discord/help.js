@@ -8,6 +8,7 @@ module.exports = {
 			const embed = new Discord.MessageEmbed()
 				.setColor('#fddf93')
 				.setAuthor('Commandes de Coco', 'https://i.imgur.com/YvCY3gc.png')
+				.setThumbnail('https://www.horizons-fan.fr/villageois/319.jpg')
 				.addFields(
 					{
 						name: 'Informations d\'un habitant',
@@ -24,10 +25,22 @@ module.exports = {
 						value: '`!maison <nom habitant>`',
 						inline: true,
 					},
+				)
+				.addFields(
 					{
 						name: 'Citation aléatoire de Pascal',
 						value: '`!pascal`',
-						inline: false,
+						inline: true,
+					},
+					{
+						name: '\u200b',
+						value: '\u200b',
+						inline: true,
+					},
+					{
+						name: 'Citation aléatoire d\'Albin',
+						value: '`!albin`',
+						inline: true,
 					},
 				);
 
