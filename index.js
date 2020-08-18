@@ -36,10 +36,19 @@ fs.readdir('./commands/', (err, folders) => {
 });
 
 client.once('ready', () => {
-	console.log('Ready!');
+	client.user.setPresence({ activity: { name: 'attraper Neferti' } });
+	const cron = require('node-cron');
+	cron.schedule('*/10 * * * *', () => {
+		let status = fs.readFileSync('./resources/bot/status.json');
+		status = JSON.parse(status);
+		status = Object.values(status);
+		const random = Math.floor((Math.random() * status.length) + 1) - 1;
+		client.user.setPresence({ activity: { name: status[random].text } });
+	});
 });
 
 client.on('message', message => {
+
 	if (!message.content.startsWith(prefix) || message.author.bot) return;
 
 	const args = message.content.slice(prefix.length).trim().split(/ +/);
