@@ -12,6 +12,7 @@
   "dependencies": {
     "app-root-path": "^3.0.0",
     "discord.js": "^12.3.1",
-    "eslint": "^7.7.0"
+    "eslint": "^7.7.0",
+    "node-cron": "^2.0.3"
   }
 }
