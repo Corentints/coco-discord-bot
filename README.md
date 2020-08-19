@@ -12,6 +12,8 @@ Pour inviter le bot sur votre serveur, il suffit de [cliquer ici](https://discor
 * `!h <nom habitant>` ➡️ Affiche les données d'un habitant (personnalité, anniversaire, accroche, espèce, hobby)
 * `!maison <nom habitant>` ➡️ Affiche la photo de la façade d'un habitant
 
+* `!info` ➡️ Génère une anecdote aléatoire d'Animal Crossing
+
 * `!albin` ➡️ Génère une phrase aléatoire d'Albin
 * `!marie` ➡️ Génère une phrase aléatoire de Marie
 * `!pascal` ➡️ Génère une phrase aléatoire de Pascal
