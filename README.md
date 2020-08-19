@@ -4,7 +4,7 @@ Coco est un bot discord français qui va améliorer votre expérience Animal Cro
 
 # Inviter le bot sur mon serveur
 
-Pour inviter le bot sur votre serveur, il suffit de [Cliquer ici](https://discord.com/oauth2/authorize?client_id=744613409865334794&scope=bot)
+Pour inviter le bot sur votre serveur, il suffit de [cliquer ici](https://discord.com/oauth2/authorize?client_id=744613409865334794&scope=bot)
 
 # Liste des commandes
 * `!coco help` ➡️ Affiche toutes les commandes disponibles
