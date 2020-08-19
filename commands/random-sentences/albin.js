@@ -10,7 +10,7 @@ module.exports = {
 		const embed = new Discord.MessageEmbed()
 			.setColor('#ffef37')
 			.setThumbnail('https://cdn.discordapp.com/emojis/703356211742900224.png?v=1')
-			.setDescription(generateRandomSentence('./resources/albin.json', 7));
+			.setDescription(generateRandomSentence('./resources/albin.json', 6));
 
 		return message.channel.send(embed);
 	},
