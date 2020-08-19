@@ -1,4 +1,3 @@
-const root = require('app-root-path');
 const fs = require('fs');
 const Discord = require('discord.js');
 
