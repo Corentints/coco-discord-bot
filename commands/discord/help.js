@@ -26,28 +26,37 @@ module.exports = {
 						inline: true,
 					},
 				)
-				.addFields(
-					{
-						name: 'Citation aléatoire de Pascal',
-						value: '`!pascal`',
-						inline: true,
-					},
-					{
-						name: '\u200b',
-						value: '\u200b',
-						inline: true,
-					},
-					{
-						name: 'Citation aléatoire d\'Albin',
-						value: '`!albin`',
-						inline: true,
-					},
-					{
-						name: 'Citation aléatoire de Marie',
-						value: '`!marie`',
-						inline: false,
-					},
-				);
+				.addFields({
+					name: 'Anecdote aléatoire Animal Crossing',
+					value: '`!info`',
+					inline: true,
+				},
+				{
+					name: '\u200b',
+					value: '\u200b',
+					inline: true,
+				},
+				{
+					name: 'Citation aléatoire de Pascal',
+					value: '`!pascal`',
+					inline: true,
+				},
+				)
+				.addFields({
+					name: 'Citation aléatoire d\'Albin',
+					value: '`!albin`',
+					inline: true,
+				},
+				{
+					name: '\u200b',
+					value: '\u200b',
+					inline: true,
+				},
+				{
+					name: 'Citation aléatoire de Marie',
+					value: '`!marie`',
+					inline: true,
+				});
 
 			return message.channel.send(embed);
 		}
