@@ -9,23 +9,14 @@ module.exports = {
 		villagers = JSON.parse(villagers);
 		villagers = Object.values(villagers);
 
-		let villagersHouse = fs.readFileSync('./resources/villagers-2.json');
-		villagersHouse = JSON.parse(villagersHouse);
-		villagersHouse = Object.values(villagersHouse);
-
+		// houseImage
 		villagers.forEach(function(villager) {
-		    if (villager['name']['name-EUfr'] === args[0]) {
-				const villagerName = villager['name']['name-USen'];
-
-				villagersHouse.forEach(function(v) {
-					if (v.name === villagerName) {
-						const embed = new Discord.MessageEmbed()
-							.setColor(villager['bubble-color'])
-							.setAuthor('Maison de ' + villager['name']['name-EUfr'], v.photoImage)
-							.setImage(v.houseImage);
-						return message.channel.send(embed);
-					}
-				});
+			if (villager['name']['name-EUfr'] === args[0]) {
+				const embed = new Discord.MessageEmbed()
+					.setColor(villager['bubble-color'])
+					.setAuthor('Maison de ' + villager['name']['name-EUfr'], villager['icon_uri'])
+					.setImage(villager['house']);
+				return message.channel.send(embed);
 			}
 		});
 	},
