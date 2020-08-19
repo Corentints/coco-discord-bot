@@ -20,3 +20,7 @@ Et d'autres fonctionnalités qui arriveront plus tard !
 2. Le remplir à l'aide de `config.example.json` (rentrer le token de votre bot)
 3. `npm install`
 4. `node index.js`
+
+# Crédits
+
+Toutes les informations & images liées à Animal Crossing proviennent de [ACNHAPI](https://github.com/alexislours/ACNHAPI) & [ACNH spreadsheets](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/)
