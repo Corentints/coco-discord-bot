@@ -42,6 +42,11 @@ module.exports = {
 						value: '`!albin`',
 						inline: true,
 					},
+					{
+						name: 'Citation aléatoire de Marie',
+						value: '`!marie`',
+						inline: false,
+					},
 				);
 
 			return message.channel.send(embed);
