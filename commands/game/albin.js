@@ -4,11 +4,11 @@ module.exports = {
 	name: 'albin',
 	description: '',
 	args: false,
-	execute(message, args) {
+	execute(message) {
 		let pascalSentences = fs.readFileSync('./resources/albin.json');
 		pascalSentences = JSON.parse(pascalSentences);
 		pascalSentences = Object.values(pascalSentences);
-		const random = Math.floor((Math.random() * 7) - 1);
+		const random = Math.floor((Math.random() * 8));
 		const desc = pascalSentences[random].text;
 
 		const embed = new Discord.MessageEmbed()
