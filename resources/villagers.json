@@ -1,5 +1,5 @@
-{
-  "ant00": {
+[
+  {
     "id": 1,
     "file-name": "ant00",
     "name": {
@@ -46,9 +46,10 @@
       "catch-JPja": "でごわす",
       "catch-KRko": "임돠",
       "catch-EUru": "апчхи"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ant00_12_Cyrano.png"
   },
-  "ant01": {
+  {
     "id": 2,
     "file-name": "ant01",
     "name": {
@@ -95,9 +96,10 @@
       "catch-JPja": "ホントに",
       "catch-KRko": "진짜로",
       "catch-EUru": "го-го-го"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ant01_13_Antonio.png"
   },
-  "ant02": {
+  {
     "id": 3,
     "file-name": "ant02",
     "name": {
@@ -144,9 +146,10 @@
       "catch-JPja": "だっしー",
       "catch-KRko": "라지요",
       "catch-EUru": "снуф-снуф"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ant02_14_Pango.png"
   },
-  "ant03": {
+  {
     "id": 4,
     "file-name": "ant03",
     "name": {
@@ -193,9 +196,10 @@
       "catch-JPja": "マジでー",
       "catch-KRko": "정말",
       "catch-EUru": "хрум-хрум"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ant03_15_Anabelle.png"
   },
-  "ant06": {
+  {
     "id": 5,
     "file-name": "ant06",
     "name": {
@@ -242,9 +246,10 @@
       "catch-JPja": "たもれ",
       "catch-KRko": "추릅",
       "catch-EUru": "шмыг"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ant06_16_Snooty.png"
   },
-  "ant08": {
+  {
     "id": 6,
     "file-name": "ant08",
     "name": {
@@ -291,9 +296,10 @@
       "catch-JPja": "をかし",
       "catch-KRko": "하양하양",
       "catch-EUru": "жуй-жуй"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ant08_17_Annalisa.png"
   },
-  "ant09": {
+  {
     "id": 7,
     "file-name": "ant09",
     "name": {
@@ -340,9 +346,10 @@
       "catch-JPja": "ムーチョ",
       "catch-KRko": "무쵸",
       "catch-EUru": "уф-уф"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ant09_18_Olaf.png"
   },
-  "bea00": {
+  {
     "id": 8,
     "file-name": "bea00",
     "name": {
@@ -389,9 +396,10 @@
       "catch-JPja": "ですたい",
       "catch-KRko": "입네다",
       "catch-EUru": "быр-быр"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea00_19_Teddy.png"
   },
-  "bea01": {
+  {
     "id": 9,
     "file-name": "bea01",
     "name": {
@@ -438,9 +446,10 @@
       "catch-JPja": "わぉ",
       "catch-KRko": "와",
       "catch-EUru": "ну и ну"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea01_20_Pinky.png"
   },
-  "bea02": {
+  {
     "id": 10,
     "file-name": "bea02",
     "name": {
@@ -487,9 +496,10 @@
       "catch-JPja": "ウム",
       "catch-KRko": "음",
       "catch-EUru": "махрово"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea02_388_Curt.png"
   },
-  "bea03": {
+  {
     "id": 11,
     "file-name": "bea03",
     "name": {
@@ -536,9 +546,10 @@
       "catch-JPja": "アルヨ",
       "catch-KRko": "그럼",
       "catch-EUru": "ай-яй"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea03_21_Chow.png"
   },
-  "bea05": {
+  {
     "id": 12,
     "file-name": "bea05",
     "name": {
@@ -585,9 +596,10 @@
       "catch-JPja": "んだ",
       "catch-KRko": "힘내",
       "catch-EUru": "спа-а-ать"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea05_22_Nate.png"
   },
-  "bea06": {
+  {
     "id": 13,
     "file-name": "bea06",
     "name": {
@@ -634,9 +646,10 @@
       "catch-JPja": "ワォー",
       "catch-KRko": "어쩌라구",
       "catch-EUru": "бур-бур"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea06_23_Groucho.png"
   },
-  "bea07": {
+  {
     "id": 14,
     "file-name": "bea07",
     "name": {
@@ -683,9 +696,10 @@
       "catch-JPja": "ファイト",
       "catch-KRko": "사르르",
       "catch-EUru": "ме-е-ед"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea07_24_Tutu.png"
   },
-  "bea08": {
+  {
     "id": 15,
     "file-name": "bea08",
     "name": {
@@ -732,9 +746,10 @@
       "catch-JPja": "やーねぇ",
       "catch-KRko": "그라지",
       "catch-EUru": "гррум"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea08_25_Ursala.png"
   },
-  "bea09": {
+  {
     "id": 16,
     "file-name": "bea09",
     "name": {
@@ -781,9 +796,10 @@
       "catch-JPja": "だクマ",
       "catch-KRko": "냅둬",
       "catch-EUru": "грр"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea09_26_Grizzly.png"
   },
-  "bea10": {
+  {
     "id": 17,
     "file-name": "bea10",
     "name": {
@@ -830,9 +846,10 @@
       "catch-JPja": "ヤッホー",
       "catch-KRko": "야호야호",
       "catch-EUru": "йодль"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea10_27_Paula.png"
   },
-  "bea11": {
+  {
     "id": 18,
     "file-name": "bea11",
     "name": {
@@ -879,9 +896,10 @@
       "catch-JPja": "ボウズ",
       "catch-KRko": "터프",
       "catch-EUru": "гарр-сон"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea11_28_Ike.png"
   },
-  "bea12": {
+  {
     "id": 19,
     "file-name": "bea12",
     "name": {
@@ -928,9 +946,10 @@
       "catch-JPja": "よいしょ",
       "catch-KRko": "으랏차차",
       "catch-EUru": "ого-го"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea12_29_Charlise.png"
   },
-  "bea13": {
+  {
     "id": 20,
     "file-name": "bea13",
     "name": {
@@ -977,9 +996,10 @@
       "catch-JPja": "オッホン",
       "catch-KRko": "오홍홍",
       "catch-EUru": "усы мои"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea13_30_Beardo.png"
   },
-  "bea14": {
+  {
     "id": 21,
     "file-name": "bea14",
     "name": {
@@ -1026,9 +1046,10 @@
       "catch-JPja": "オパー",
       "catch-KRko": "라저",
       "catch-EUru": "штрудель"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea14_31_Klaus.png"
   },
-  "bea15": {
+  {
     "id": 22,
     "file-name": "bea15",
     "name": {
@@ -1075,9 +1096,10 @@
       "catch-JPja": "ぺろ",
       "catch-KRko": "낼름",
       "catch-EUru": "сладенько"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea15_32_Megan.png"
   },
-  "brd00": {
+  {
     "id": 23,
     "file-name": "brd00",
     "name": {
@@ -1124,9 +1146,10 @@
       "catch-JPja": "でおます",
       "catch-KRko": "그쵸",
       "catch-EUru": "хей-хей"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd00_33_Jay.png"
   },
-  "brd01": {
+  {
     "id": 24,
     "file-name": "brd01",
     "name": {
@@ -1173,9 +1196,10 @@
       "catch-JPja": "さ",
       "catch-KRko": "글쎄",
       "catch-EUru": "ля-ля-ля"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd01_34_Robin.png"
   },
-  "brd02": {
+  {
     "id": 25,
     "file-name": "brd02",
     "name": {
@@ -1222,9 +1246,10 @@
       "catch-JPja": "でシ",
       "catch-KRko": "이어라",
       "catch-EUru": "чик-чирик"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd02_35_Anchovy.png"
   },
-  "brd03": {
+  {
     "id": 26,
     "file-name": "brd03",
     "name": {
@@ -1271,9 +1296,10 @@
       "catch-JPja": "ッピ",
       "catch-KRko": "크",
       "catch-EUru": "тю-вить"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd03_36_Twiggy.png"
   },
-  "brd04": {
+  {
     "id": 27,
     "file-name": "brd04",
     "name": {
@@ -1320,9 +1346,10 @@
       "catch-JPja": "だニョ",
       "catch-KRko": "삼바",
       "catch-EUru": "бзе-е-ерт"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd04_37_Jitters.png"
   },
-  "brd05": {
+  {
     "id": 28,
     "file-name": "brd05",
     "name": {
@@ -1369,9 +1396,10 @@
       "catch-JPja": "けどー",
       "catch-KRko": "허나",
       "catch-EUru": "чики-чик"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd05_38_Piper.png"
   },
-  "brd06": {
+  {
     "id": 29,
     "file-name": "brd06",
     "name": {
@@ -1418,9 +1446,10 @@
       "catch-JPja": "ってか",
       "catch-KRko": "오예",
       "catch-EUru": "чиф-чиф"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd06_39_Admiral.png"
   },
-  "brd08": {
+  {
     "id": 30,
     "file-name": "brd08",
     "name": {
@@ -1467,9 +1496,10 @@
       "catch-JPja": "キョン",
       "catch-KRko": "핑그르르",
       "catch-EUru": "тви-тви"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd08_40_Midge.png"
   },
-  "brd11": {
+  {
     "id": 31,
     "file-name": "brd11",
     "name": {
@@ -1516,9 +1546,10 @@
       "catch-JPja": "っつーの",
       "catch-KRko": "그거야",
       "catch-EUru": "чуррп"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd11_41_Jakey.png"
   },
-  "brd15": {
+  {
     "id": 32,
     "file-name": "brd15",
     "name": {
@@ -1565,9 +1596,10 @@
       "catch-JPja": "カァー",
       "catch-KRko": "까아악",
       "catch-EUru": "кар-ко"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd15_42_Lucha.png"
   },
-  "brd16": {
+  {
     "id": 33,
     "file-name": "brd16",
     "name": {
@@ -1614,9 +1646,10 @@
       "catch-JPja": "チェケラ",
       "catch-KRko": "체키라웃",
       "catch-EUru": "фу ты"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd16_43_Jacques.png"
   },
-  "brd17": {
+  {
     "id": 34,
     "file-name": "brd17",
     "name": {
@@ -1663,9 +1696,10 @@
       "catch-JPja": "ブン",
       "catch-KRko": "츠츠츠",
       "catch-EUru": "тук-тук"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd17_44_Peck.png"
   },
-  "brd18": {
+  {
     "id": 35,
     "file-name": "brd18",
     "name": {
@@ -1712,9 +1746,10 @@
       "catch-JPja": "だチュン",
       "catch-KRko": "섭섭",
       "catch-EUru": "так-так"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd18_45_Sparro.png"
   },
-  "bul00": {
+  {
     "id": 36,
     "file-name": "bul00",
     "name": {
@@ -1761,9 +1796,10 @@
       "catch-JPja": "ふふ",
       "catch-KRko": "후후",
       "catch-EUru": "макму-у-у"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/bul00_46_Angus.png"
   },
-  "bul01": {
+  {
     "id": 37,
     "file-name": "bul01",
     "name": {
@@ -1810,9 +1846,10 @@
       "catch-JPja": "さすがに",
       "catch-KRko": "디용",
       "catch-EUru": "ковбой"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/bul01_47_Rodeo.png"
   },
-  "bul03": {
+  {
     "id": 38,
     "file-name": "bul03",
     "name": {
@@ -1859,9 +1896,10 @@
       "catch-JPja": "だなっす",
       "catch-KRko": "알것소",
       "catch-EUru": "му-у"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/bul03_48_Stu.png"
   },
-  "bul05": {
+  {
     "id": 39,
     "file-name": "bul05",
     "name": {
@@ -1908,9 +1946,10 @@
       "catch-JPja": "だっぺ",
       "catch-KRko": "워메에",
       "catch-EUru": "бычок"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/bul05_49_T-Bone.png"
   },
-  "bul07": {
+  {
     "id": 40,
     "file-name": "bul07",
     "name": {
@@ -1957,9 +1996,10 @@
       "catch-JPja": "ジョリッ",
       "catch-KRko": "땅땅",
       "catch-EUru": "раз-два"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/bul07_50_Coach.png"
   },
-  "bul08": {
+  {
     "id": 41,
     "file-name": "bul08",
     "name": {
@@ -2006,9 +2046,10 @@
       "catch-JPja": "モイ",
       "catch-KRko": "뭐임",
       "catch-EUru": "полундра"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/bul08_51_Vic.png"
   },
-  "cat00": {
+  {
     "id": 42,
     "file-name": "cat00",
     "name": {
@@ -2055,9 +2096,10 @@
       "catch-JPja": "ネコ",
       "catch-KRko": "고양이",
       "catch-EUru": "кх-кх-кх"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat00_52_Bob.png"
   },
-  "cat01": {
+  {
     "id": 43,
     "file-name": "cat01",
     "name": {
@@ -2104,9 +2146,10 @@
       "catch-JPja": "ニャー",
       "catch-KRko": "야～옹",
       "catch-EUru": "мяу-мяу"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat01_53_Mitzi.png"
   },
-  "cat02": {
+  {
     "id": 44,
     "file-name": "cat02",
     "name": {
@@ -2153,9 +2196,10 @@
       "catch-JPja": "チェキ",
       "catch-KRko": "헤이",
       "catch-EUru": "рыбка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat02_54_Rosie.png"
   },
-  "cat03": {
+  {
     "id": 45,
     "file-name": "cat03",
     "name": {
@@ -2202,9 +2246,10 @@
       "catch-JPja": "なんやん",
       "catch-KRko": "머냐",
       "catch-EUru": "мур-мяу"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat03_55_Olivia.png"
   },
-  "cat04": {
+  {
     "id": 46,
     "file-name": "cat04",
     "name": {
@@ -2251,9 +2296,10 @@
       "catch-JPja": "だニ",
       "catch-KRko": "뭐라지요",
       "catch-EUru": "кисуля"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat04_56_Kiki.png"
   },
-  "cat05": {
+  {
     "id": 47,
     "file-name": "cat05",
     "name": {
@@ -2300,9 +2346,10 @@
       "catch-JPja": "みかん",
       "catch-KRko": "귤귤",
       "catch-EUru": "фруктик"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat05_57_Tangy.png"
   },
-  "cat06": {
+  {
     "id": 48,
     "file-name": "cat06",
     "name": {
@@ -2349,9 +2396,10 @@
       "catch-JPja": "だのら",
       "catch-KRko": "노라줘",
       "catch-EUru": "отдыхаем"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat06_389_Punchy.png"
   },
-  "cat07": {
+  {
     "id": 49,
     "file-name": "cat07",
     "name": {
@@ -2398,9 +2446,10 @@
       "catch-JPja": "ふんっ",
       "catch-KRko": "냠",
       "catch-EUru": "кис-кис"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat07_58_Purrl.png"
   },
-  "cat08": {
+  {
     "id": 50,
     "file-name": "cat08",
     "name": {
@@ -2447,9 +2496,10 @@
       "catch-JPja": "な",
       "catch-KRko": "그치",
       "catch-EUru": "мяу-а-а-а"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat08_59_Moe.png"
   },
-  "cat09": {
+  {
     "id": 51,
     "file-name": "cat09",
     "name": {
@@ -2496,9 +2546,10 @@
       "catch-JPja": "ぃよぉー",
       "catch-KRko": "꺄",
       "catch-EUru": "мя-я-яу"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat09_60_Kabuki.png"
   },
-  "cat10": {
+  {
     "id": 52,
     "file-name": "cat10",
     "name": {
@@ -2545,9 +2596,10 @@
       "catch-JPja": "とぉっ",
       "catch-KRko": "얍",
       "catch-EUru": "шш"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat10_61_Kid%20Cat.png"
   },
-  "cat11": {
+  {
     "id": 53,
     "file-name": "cat11",
     "name": {
@@ -2594,9 +2646,10 @@
       "catch-JPja": "ウフーン",
       "catch-KRko": "우",
       "catch-EUru": "фи-фи"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat11_62_Monique.png"
   },
-  "cat12": {
+  {
     "id": 54,
     "file-name": "cat12",
     "name": {
@@ -2643,9 +2696,10 @@
       "catch-JPja": "にゃは",
       "catch-KRko": "삐뽀",
       "catch-EUru": "мя-ого"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat12_63_Tabby.png"
   },
-  "cat13": {
+  {
     "id": 55,
     "file-name": "cat13",
     "name": {
@@ -2692,9 +2746,10 @@
       "catch-JPja": "ダァーッ",
       "catch-KRko": "아뵤",
       "catch-EUru": "фу-у-у"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat13_64_Stinky.png"
   },
-  "cat14": {
+  {
     "id": 56,
     "file-name": "cat14",
     "name": {
@@ -2741,9 +2796,10 @@
       "catch-JPja": "フフ",
       "catch-KRko": "자갸",
       "catch-EUru": "мр-мр-мр"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat14_65_Kitty.png"
   },
-  "cat15": {
+  {
     "id": 57,
     "file-name": "cat15",
     "name": {
@@ -2790,9 +2846,10 @@
       "catch-JPja": "ナックル",
       "catch-KRko": "쳇",
       "catch-EUru": "мя-я-яоза"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat15_66_Tom.png"
   },
-  "cat16": {
+  {
     "id": 58,
     "file-name": "cat16",
     "name": {
@@ -2839,9 +2896,10 @@
       "catch-JPja": "にゃん",
       "catch-KRko": "냥냥",
       "catch-EUru": "мяуи-и-и"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat16_67_Merry.png"
   },
-  "cat17": {
+  {
     "id": 59,
     "file-name": "cat17",
     "name": {
@@ -2888,9 +2946,10 @@
       "catch-JPja": "ね",
       "catch-KRko": "우앙",
       "catch-EUru": "ми-ми-ми"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat17_68_Felicity.png"
   },
-  "cat18": {
+  {
     "id": 60,
     "file-name": "cat18",
     "name": {
@@ -2937,9 +2996,10 @@
       "catch-JPja": "あのね",
       "catch-KRko": "퐁퐁",
       "catch-EUru": "конфетка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat18_69_Lolly.png"
   },
-  "cat19": {
+  {
     "id": 61,
     "file-name": "cat19",
     "name": {
@@ -2986,9 +3046,10 @@
       "catch-JPja": "クフフ",
       "catch-KRko": "파트라",
       "catch-EUru": "ми-мяу"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat19_70_Ankha.png"
   },
-  "cat20": {
+  {
     "id": 62,
     "file-name": "cat20",
     "name": {
@@ -3035,9 +3096,10 @@
       "catch-JPja": "とかナ",
       "catch-KRko": "그러거나",
       "catch-EUru": "шмяк"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat20_71_Rudy.png"
   },
-  "cat21": {
+  {
     "id": 63,
     "file-name": "cat21",
     "name": {
@@ -3084,9 +3146,10 @@
       "catch-JPja": "じゃね",
       "catch-KRko": "휘리릭",
       "catch-EUru": "хор-р-рошо"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat21_72_Katt.png"
   },
-  "cat23": {
+  {
     "id": 64,
     "file-name": "cat23",
     "name": {
@@ -3133,9 +3196,10 @@
       "catch-JPja": "キリッ",
       "catch-KRko": "우쭐",
       "catch-EUru": "стильненько"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat23_73_Raymond.png"
   },
-  "cbr00": {
+  {
     "id": 65,
     "file-name": "cbr00",
     "name": {
@@ -3182,9 +3246,10 @@
       "catch-JPja": "キュン",
       "catch-KRko": "두근",
       "catch-EUru": "персик"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr00_74_Bluebear.png"
   },
-  "cbr01": {
+  {
     "id": 66,
     "file-name": "cbr01",
     "name": {
@@ -3231,9 +3296,10 @@
       "catch-JPja": "だベア",
       "catch-KRko": "저기요",
       "catch-EUru": "лапушка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr01_75_Maple.png"
   },
-  "cbr02": {
+  {
     "id": 67,
     "file-name": "cbr02",
     "name": {
@@ -3280,9 +3346,10 @@
       "catch-JPja": "モン",
       "catch-KRko": "몽",
       "catch-EUru": "медвежонок"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr02_76_Poncho.png"
   },
-  "cbr03": {
+  {
     "id": 68,
     "file-name": "cbr03",
     "name": {
@@ -3329,9 +3396,10 @@
       "catch-JPja": "んもう",
       "catch-KRko": "아이참",
       "catch-EUru": "карапуз"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr03_77_Pudge.png"
   },
-  "cbr04": {
+  {
     "id": 69,
     "file-name": "cbr04",
     "name": {
@@ -3378,9 +3446,10 @@
       "catch-JPja": "のこころ",
       "catch-KRko": "나는나야",
       "catch-EUru": "гррр"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr04_78_Kody.png"
   },
-  "cbr05": {
+  {
     "id": 70,
     "file-name": "cbr05",
     "name": {
@@ -3427,9 +3496,10 @@
       "catch-JPja": "なのれす",
       "catch-KRko": "그런거죠",
       "catch-EUru": "плюш-плюш"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr05_79_Stitches.png"
   },
-  "cbr06": {
+  {
     "id": 71,
     "file-name": "cbr06",
     "name": {
@@ -3476,9 +3546,10 @@
       "catch-JPja": "やんけ",
       "catch-KRko": "참말로",
       "catch-EUru": "ну не-е-ет"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr06_80_Vladimir.png"
   },
-  "cbr07": {
+  {
     "id": 72,
     "file-name": "cbr07",
     "name": {
@@ -3525,9 +3596,10 @@
       "catch-JPja": "ですばい",
       "catch-KRko": "샐리",
       "catch-EUru": "товарищ"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr07_81_Murphy.png"
   },
-  "cbr09": {
+  {
     "id": 73,
     "file-name": "cbr09",
     "name": {
@@ -3574,9 +3646,10 @@
       "catch-JPja": "マグ",
       "catch-KRko": "오잉",
       "catch-EUru": "милашка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr09_82_Olive.png"
   },
-  "cbr10": {
+  {
     "id": 74,
     "file-name": "cbr10",
     "name": {
@@ -3623,9 +3696,10 @@
       "catch-JPja": "なんてね",
       "catch-KRko": "어쩜이래",
       "catch-EUru": "тра-ля-ля"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr10_83_Cheri.png"
   },
-  "cbr13": {
+  {
     "id": 75,
     "file-name": "cbr13",
     "name": {
@@ -3672,9 +3746,10 @@
       "catch-JPja": "アルネ",
       "catch-KRko": "있죠",
       "catch-EUru": "радуга-дуга"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr13_390_June.png"
   },
-  "cbr14": {
+  {
     "id": 76,
     "file-name": "cbr14",
     "name": {
@@ -3721,9 +3796,10 @@
       "catch-JPja": "チャ",
       "catch-KRko": "띵호아",
       "catch-EUru": "цветочек"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr14_84_Pekoe.png"
   },
-  "cbr15": {
+  {
     "id": 77,
     "file-name": "cbr15",
     "name": {
@@ -3770,9 +3846,10 @@
       "catch-JPja": "だバンブ",
       "catch-KRko": "부끄",
       "catch-EUru": "бамбук"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr15_85_Chester.png"
   },
-  "cbr16": {
+  {
     "id": 78,
     "file-name": "cbr16",
     "name": {
@@ -3819,9 +3896,10 @@
       "catch-JPja": "いっそ",
       "catch-KRko": "아니그냥",
       "catch-EUru": "берлога"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr16_86_Barold.png"
   },
-  "cbr17": {
+  {
     "id": 79,
     "file-name": "cbr17",
     "name": {
@@ -3868,9 +3946,10 @@
       "catch-JPja": "だってサ",
       "catch-KRko": "차라리",
       "catch-EUru": "понимаешь"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr17_87_Tammy.png"
   },
-  "cbr19": {
+  {
     "id": 80,
     "file-name": "cbr19",
     "name": {
@@ -3917,9 +3996,10 @@
       "catch-JPja": "あらら",
       "catch-KRko": "어머머",
       "catch-EUru": "охохонюшки"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr19_88_Judy.png"
   },
-  "chn00": {
+  {
     "id": 81,
     "file-name": "chn00",
     "name": {
@@ -3966,9 +4046,10 @@
       "catch-JPja": "だコケ",
       "catch-KRko": "키득",
       "catch-EUru": "ко-кей"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/chn00_89_Goose.png"
   },
-  "chn01": {
+  {
     "id": 82,
     "file-name": "chn01",
     "name": {
@@ -4015,9 +4096,10 @@
       "catch-JPja": "ウヒョー",
       "catch-KRko": "우힛",
       "catch-EUru": "о-ко-ко"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/chn01_90_Benedict.png"
   },
-  "chn02": {
+  {
     "id": 83,
     "file-name": "chn02",
     "name": {
@@ -4064,9 +4146,10 @@
       "catch-JPja": "だヨ",
       "catch-KRko": "짜잔",
       "catch-EUru": "кукареку"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/chn02_91_Egbert.png"
   },
-  "chn05": {
+  {
     "id": 84,
     "file-name": "chn05",
     "name": {
@@ -4113,9 +4196,10 @@
       "catch-JPja": "のよぉ",
       "catch-KRko": "그랬대요",
       "catch-EUru": "клювик"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/chn05_92_Ava.png"
   },
-  "chn09": {
+  {
     "id": 85,
     "file-name": "chn09",
     "name": {
@@ -4162,9 +4246,10 @@
       "catch-JPja": "ハレルヤ",
       "catch-KRko": "도레미",
       "catch-EUru": "модненько"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/chn09_93_Becky.png"
   },
-  "chn10": {
+  {
     "id": 86,
     "file-name": "chn10",
     "name": {
@@ -4211,9 +4296,10 @@
       "catch-JPja": "どうだい",
       "catch-KRko": "그게어때",
       "catch-EUru": "щип-щип"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/chn10_94_Plucky.png"
   },
-  "chn11": {
+  {
     "id": 87,
     "file-name": "chn11",
     "name": {
@@ -4260,9 +4346,10 @@
       "catch-JPja": "せいッ",
       "catch-KRko": "하앗",
       "catch-EUru": "короко"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/chn11_95_Knox.png"
   },
-  "chn12": {
+  {
     "id": 88,
     "file-name": "chn12",
     "name": {
@@ -4309,9 +4396,10 @@
       "catch-JPja": "ケッコー",
       "catch-KRko": "오싹오싹",
       "catch-EUru": "ки-ки-ки"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/chn12_96_Broffina.png"
   },
-  "chn13": {
+  {
     "id": 89,
     "file-name": "chn13",
     "name": {
@@ -4358,9 +4446,10 @@
       "catch-JPja": "コッケイ",
       "catch-KRko": "깜깜",
       "catch-EUru": "это точно"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/chn13_97_Ken.png"
   },
-  "cow00": {
+  {
     "id": 90,
     "file-name": "cow00",
     "name": {
@@ -4407,9 +4496,10 @@
       "catch-JPja": "だモー",
       "catch-KRko": "음메",
       "catch-EUru": "му-му"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cow00_98_Patty.png"
   },
-  "cow01": {
+  {
     "id": 91,
     "file-name": "cow01",
     "name": {
@@ -4456,9 +4546,10 @@
       "catch-JPja": "ミルミル",
       "catch-KRko": "우유우유",
       "catch-EUru": "теленок"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cow01_99_Tipper.png"
   },
-  "cow06": {
+  {
     "id": 92,
     "file-name": "cow06",
     "name": {
@@ -4505,9 +4596,10 @@
       "catch-JPja": "うふ",
       "catch-KRko": "에헤",
       "catch-EUru": "до-ре-му"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cow06_100_Norma.png"
   },
-  "cow07": {
+  {
     "id": 93,
     "file-name": "cow07",
     "name": {
@@ -4554,9 +4646,10 @@
       "catch-JPja": "セボーン",
       "catch-KRko": "메르시",
       "catch-EUru": "муля"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/cow07_101_Naomi.png"
   },
-  "crd00": {
+  {
     "id": 94,
     "file-name": "crd00",
     "name": {
@@ -4603,9 +4696,10 @@
       "catch-JPja": "だワニ",
       "catch-KRko": "나아거",
       "catch-EUru": "это я"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/crd00_102_Alfonso.png"
   },
-  "crd01": {
+  {
     "id": 95,
     "file-name": "crd01",
     "name": {
@@ -4652,9 +4746,10 @@
       "catch-JPja": "どすえ",
       "catch-KRko": "얘야",
       "catch-EUru": "гра-а-а"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/crd01_103_Alli.png"
   },
-  "crd02": {
+  {
     "id": 96,
     "file-name": "crd02",
     "name": {
@@ -4701,9 +4796,10 @@
       "catch-JPja": "だぴょん",
       "catch-KRko": "만세",
       "catch-EUru": "кусь"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/crd02_104_Boots.png"
   },
-  "crd04": {
+  {
     "id": 97,
     "file-name": "crd04",
     "name": {
@@ -4750,9 +4846,10 @@
       "catch-JPja": "プシュー",
       "catch-KRko": "처얼썩",
       "catch-EUru": "щелк"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/crd04_105_Del.png"
   },
-  "crd06": {
+  {
     "id": 98,
     "file-name": "crd06",
     "name": {
@@ -4799,9 +4896,10 @@
       "catch-JPja": "カサコソ",
       "catch-KRko": "부스럭",
       "catch-EUru": "ура-а-а"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/crd06_106_Sly.png"
   },
-  "crd07": {
+  {
     "id": 99,
     "file-name": "crd07",
     "name": {
@@ -4848,9 +4946,10 @@
       "catch-JPja": "ワニャン",
       "catch-KRko": "아거얌",
       "catch-EUru": "перекус"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/crd07_107_Gayle.png"
   },
-  "crd08": {
+  {
     "id": 100,
     "file-name": "crd08",
     "name": {
@@ -4897,9 +4996,10 @@
       "catch-JPja": "えーと",
       "catch-KRko": "띠용띠용",
       "catch-EUru": "огонь"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/crd08_108_Drago.png"
   },
-  "der00": {
+  {
     "id": 101,
     "file-name": "der00",
     "name": {
@@ -4946,9 +5046,10 @@
       "catch-JPja": "でしか",
       "catch-KRko": "파샵파샵",
       "catch-EUru": "олешек"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/der00_109_Fauna.png"
   },
-  "der01": {
+  {
     "id": 102,
     "file-name": "der01",
     "name": {
@@ -4995,9 +5096,10 @@
       "catch-JPja": "ナラね",
       "catch-KRko": "슉슉",
       "catch-EUru": "скок-скок"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/der01_110_Bam.png"
   },
-  "der02": {
+  {
     "id": 103,
     "file-name": "der02",
     "name": {
@@ -5044,9 +5146,10 @@
       "catch-JPja": "たしかに",
       "catch-KRko": "슴사사",
       "catch-EUru": "прыг-прыг"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/der02_0_Zell.png"
   },
-  "der03": {
+  {
     "id": 104,
     "file-name": "der03",
     "name": {
@@ -5093,9 +5196,10 @@
       "catch-JPja": "しかしな",
       "catch-KRko": "아비옹",
       "catch-EUru": "забияка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/der03_111_Bruce.png"
   },
-  "der04": {
+  {
     "id": 105,
     "file-name": "der04",
     "name": {
@@ -5142,9 +5246,10 @@
       "catch-JPja": "まいっか",
       "catch-KRko": "됐고",
       "catch-EUru": "как-то так"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/der04_112_Deirdre.png"
   },
-  "der05": {
+  {
     "id": 106,
     "file-name": "der05",
     "name": {
@@ -5191,9 +5296,10 @@
       "catch-JPja": "がぜん",
       "catch-KRko": "엣헴",
       "catch-EUru": "бубух"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/der05_113_Lopez.png"
   },
-  "der06": {
+  {
     "id": 107,
     "file-name": "der06",
     "name": {
@@ -5240,9 +5346,10 @@
       "catch-JPja": "なんしか",
       "catch-KRko": "핑크크",
       "catch-EUru": "зазноба"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/der06_114_Fuchsia.png"
   },
-  "der07": {
+  {
     "id": 108,
     "file-name": "der07",
     "name": {
@@ -5289,9 +5396,10 @@
       "catch-JPja": "おろおろ",
       "catch-KRko": "우왕",
       "catch-EUru": "соль-соль"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/der07_115_Beau.png"
   },
-  "der08": {
+  {
     "id": 109,
     "file-name": "der08",
     "name": {
@@ -5338,9 +5446,10 @@
       "catch-JPja": "でしょ",
       "catch-KRko": "라니까",
       "catch-EUru": "еще бы"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/der08_116_Diana.png"
   },
-  "der09": {
+  {
     "id": 110,
     "file-name": "der09",
     "name": {
@@ -5387,9 +5496,10 @@
       "catch-JPja": "しかじか",
       "catch-KRko": "뚜비뚜바",
       "catch-EUru": "ем мох"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/der09_117_Erik.png"
   },
-  "dog00": {
+  {
     "id": 111,
     "file-name": "dog00",
     "name": {
@@ -5436,9 +5546,10 @@
       "catch-JPja": "ワン",
       "catch-KRko": "왈왈",
       "catch-EUru": "тяв"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog00_118_Goldie.png"
   },
-  "dog01": {
+  {
     "id": 112,
     "file-name": "dog01",
     "name": {
@@ -5485,9 +5596,10 @@
       "catch-JPja": "ノン",
       "catch-KRko": "아니",
       "catch-EUru": "ррр-гав"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog01_119_Butch.png"
   },
-  "dog02": {
+  {
     "id": 113,
     "file-name": "dog02",
     "name": {
@@ -5534,9 +5646,10 @@
       "catch-JPja": "らしいよ",
       "catch-KRko": "그렇대",
       "catch-EUru": "ррр-ой-ой"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog02_120_Lucky.png"
   },
-  "dog03": {
+  {
     "id": 114,
     "file-name": "dog03",
     "name": {
@@ -5583,9 +5696,10 @@
       "catch-JPja": "だイヌ",
       "catch-KRko": "멍멍",
       "catch-EUru": "пр-риятяв"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog03_121_Biskit.png"
   },
-  "dog04": {
+  {
     "id": 115,
     "file-name": "dog04",
     "name": {
@@ -5632,9 +5746,10 @@
       "catch-JPja": "ネッ",
       "catch-KRko": "옙",
       "catch-EUru": "тяв-тяв"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog04_122_Bones.png"
   },
-  "dog05": {
+  {
     "id": 116,
     "file-name": "dog05",
     "name": {
@@ -5681,9 +5796,10 @@
       "catch-JPja": "フンッ",
       "catch-KRko": "흥",
       "catch-EUru": "тяв-ряв"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog05_123_Portia.png"
   },
-  "dog06": {
+  {
     "id": 117,
     "file-name": "dog06",
     "name": {
@@ -5730,9 +5846,10 @@
       "catch-JPja": "バウ",
       "catch-KRko": "컹컹",
       "catch-EUru": "ау-у"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog06_124_Walker.png"
   },
-  "dog07": {
+  {
     "id": 118,
     "file-name": "dog07",
     "name": {
@@ -5779,9 +5896,10 @@
       "catch-JPja": "だよね",
       "catch-KRko": "그렇죠",
       "catch-EUru": "тяв-ого"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog07_125_Daisy.png"
   },
-  "dog08": {
+  {
     "id": 119,
     "file-name": "dog08",
     "name": {
@@ -5828,9 +5946,10 @@
       "catch-JPja": "プリリン",
       "catch-KRko": "초롱초롱",
       "catch-EUru": "гав-гав"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog08_126_Cookie.png"
   },
-  "dog09": {
+  {
     "id": 120,
     "file-name": "dog09",
     "name": {
@@ -5877,9 +5996,10 @@
       "catch-JPja": "ワンツー",
       "catch-KRko": "달코미",
       "catch-EUru": "ур-ра"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog09_127_Maddie.png"
   },
-  "dog10": {
+  {
     "id": 121,
     "file-name": "dog10",
     "name": {
@@ -5926,9 +6046,10 @@
       "catch-JPja": "グー",
       "catch-KRko": "쫀득",
       "catch-EUru": "динго"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog10_128_Bea.png"
   },
-  "dog14": {
+  {
     "id": 122,
     "file-name": "dog14",
     "name": {
@@ -5975,9 +6096,10 @@
       "catch-JPja": "モグ",
       "catch-KRko": "우물우물",
       "catch-EUru": "ау-у-гав"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog14_1_Mac.png"
   },
-  "dog15": {
+  {
     "id": 123,
     "file-name": "dog15",
     "name": {
@@ -6024,9 +6146,10 @@
       "catch-JPja": "なんじゃ",
       "catch-KRko": "하옵소서",
       "catch-EUru": "ау-уи"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog15_129_Marcel.png"
   },
-  "dog16": {
+  {
     "id": 124,
     "file-name": "dog16",
     "name": {
@@ -6073,9 +6196,10 @@
       "catch-JPja": "ではでは",
       "catch-KRko": "그럼그럼",
       "catch-EUru": "пор-рядок"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog16_130_Benjamin.png"
   },
-  "dog17": {
+  {
     "id": 125,
     "file-name": "dog17",
     "name": {
@@ -6122,9 +6246,10 @@
       "catch-JPja": "だってネ",
       "catch-KRko": "그냥저냥",
       "catch-EUru": "что-что"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog17_131_Cherry.png"
   },
-  "dog18": {
+  {
     "id": 126,
     "file-name": "dog18",
     "name": {
@@ -6171,9 +6296,10 @@
       "catch-JPja": "ワンダー",
       "catch-KRko": "안보여",
       "catch-EUru": "бр-р-разер"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog18_132_Shep.png"
   },
-  "duk00": {
+  {
     "id": 127,
     "file-name": "duk00",
     "name": {
@@ -6220,9 +6346,10 @@
       "catch-JPja": "かもね",
       "catch-KRko": "어쩌면",
       "catch-EUru": "кра-а"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk00_133_Bill.png"
   },
-  "duk01": {
+  {
     "id": 128,
     "file-name": "duk01",
     "name": {
@@ -6269,9 +6396,10 @@
       "catch-JPja": "でヤンス",
       "catch-KRko": "그래유",
       "catch-EUru": "кряк"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk01_134_Joey.png"
   },
-  "duk02": {
+  {
     "id": 129,
     "file-name": "duk02",
     "name": {
@@ -6318,9 +6446,10 @@
       "catch-JPja": "メソメソ",
       "catch-KRko": "아잉",
       "catch-EUru": "кряки-кряк"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk02_135_Pate.png"
   },
-  "duk03": {
+  {
     "id": 130,
     "file-name": "duk03",
     "name": {
@@ -6367,9 +6496,10 @@
       "catch-JPja": "ふぅ",
       "catch-KRko": "우아",
       "catch-EUru": "желторотик"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk03_136_Maelle.png"
   },
-  "duk04": {
+  {
     "id": 131,
     "file-name": "duk04",
     "name": {
@@ -6416,9 +6546,10 @@
       "catch-JPja": "マル",
       "catch-KRko": "우우",
       "catch-EUru": "кря-кря"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk04_137_Deena.png"
   },
-  "duk05": {
+  {
     "id": 132,
     "file-name": "duk05",
     "name": {
@@ -6465,9 +6596,10 @@
       "catch-JPja": "だっピ",
       "catch-KRko": "다삐",
       "catch-EUru": "крякушки"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk05_138_Pompom.png"
   },
-  "duk06": {
+  {
     "id": 133,
     "file-name": "duk06",
     "name": {
@@ -6514,9 +6646,10 @@
       "catch-JPja": "ヨネ",
       "catch-KRko": "모모",
       "catch-EUru": "кряк-фи"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk06_139_Mallary.png"
   },
-  "duk07": {
+  {
     "id": 134,
     "file-name": "duk07",
     "name": {
@@ -6563,9 +6696,10 @@
       "catch-JPja": "ぎょぎょ",
       "catch-KRko": "물물",
       "catch-EUru": "утенок"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk07_2_Freckles.png"
   },
-  "duk08": {
+  {
     "id": 135,
     "file-name": "duk08",
     "name": {
@@ -6612,9 +6746,10 @@
       "catch-JPja": "ね！ママ",
       "catch-KRko": "엄마",
       "catch-EUru": "кррря"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk08_140_Derwin.png"
   },
-  "duk09": {
+  {
     "id": 136,
     "file-name": "duk09",
     "name": {
@@ -6661,9 +6796,10 @@
       "catch-JPja": "かもね",
       "catch-KRko": "어쩌면",
       "catch-EUru": "кра-а"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk09_141_Drake.png"
   },
-  "duk10": {
+  {
     "id": 137,
     "file-name": "duk10",
     "name": {
@@ -6710,9 +6846,10 @@
       "catch-JPja": "グワッ",
       "catch-KRko": "꾸왁",
       "catch-EUru": "брум-брум"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk10_3_Scoot.png"
   },
-  "duk11": {
+  {
     "id": 138,
     "file-name": "duk11",
     "name": {
@@ -6759,9 +6896,10 @@
       "catch-JPja": "ピヨ",
       "catch-KRko": "꽥꽥",
       "catch-EUru": "кря-а"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk11_142_Weber.png"
   },
-  "duk12": {
+  {
     "id": 139,
     "file-name": "duk12",
     "name": {
@@ -6808,9 +6946,10 @@
       "catch-JPja": "なにさ",
       "catch-KRko": "괜찮아",
       "catch-EUru": "покрясающе"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk12_143_Miranda.png"
   },
-  "duk13": {
+  {
     "id": 140,
     "file-name": "duk13",
     "name": {
@@ -6857,9 +6996,10 @@
       "catch-JPja": "プチ",
       "catch-KRko": "찌익",
       "catch-EUru": "покрякушка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk13_144_Ketchup.png"
   },
-  "duk15": {
+  {
     "id": 141,
     "file-name": "duk15",
     "name": {
@@ -6906,9 +7046,10 @@
       "catch-JPja": "ぎゃくに",
       "catch-KRko": "유～후",
       "catch-EUru": "не кряк ли"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk15_145_Gloria.png"
   },
-  "duk16": {
+  {
     "id": 142,
     "file-name": "duk16",
     "name": {
@@ -6955,9 +7096,10 @@
       "catch-JPja": "そうかも",
       "catch-KRko": "그럴지도",
       "catch-EUru": "крякульки"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk16_146_Molly.png"
   },
-  "duk17": {
+  {
     "id": 143,
     "file-name": "duk17",
     "name": {
@@ -7004,9 +7146,10 @@
       "catch-JPja": "マジかよ",
       "catch-KRko": "리얼리",
       "catch-EUru": "шу-утка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk17_147_Quillson.png"
   },
-  "elp00": {
+  {
     "id": 144,
     "file-name": "elp00",
     "name": {
@@ -7053,9 +7196,10 @@
       "catch-JPja": "ヨン",
       "catch-KRko": "땡",
       "catch-EUru": "хобот"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/elp00_148_Opal.png"
   },
-  "elp01": {
+  {
     "id": 145,
     "file-name": "elp01",
     "name": {
@@ -7102,9 +7246,10 @@
       "catch-JPja": "だゾウ",
       "catch-KRko": "휴휴",
       "catch-EUru": "тру-ру"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/elp01_149_Dizzy.png"
   },
-  "elp02": {
+  {
     "id": 146,
     "file-name": "elp02",
     "name": {
@@ -7151,9 +7296,10 @@
       "catch-JPja": "うりゃー",
       "catch-KRko": "으랏차",
       "catch-EUru": "хитрюга"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/elp02_150_Big%20Top.png"
   },
-  "elp03": {
+  {
     "id": 147,
     "file-name": "elp03",
     "name": {
@@ -7200,9 +7346,10 @@
       "catch-JPja": "ルン",
       "catch-KRko": "훨훨",
       "catch-EUru": "тру-тут"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/elp03_151_Eloise.png"
   },
-  "elp04": {
+  {
     "id": 148,
     "file-name": "elp04",
     "name": {
@@ -7249,9 +7396,10 @@
       "catch-JPja": "シャララ",
       "catch-KRko": "샬랄라",
       "catch-EUru": "тру-у-ти"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/elp04_152_Margie.png"
   },
-  "elp05": {
+  {
     "id": 149,
     "file-name": "elp05",
     "name": {
@@ -7298,9 +7446,10 @@
       "catch-JPja": "パオ",
       "catch-KRko": "파오",
       "catch-EUru": "друг"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/elp05_153_Paolo.png"
   },
-  "elp06": {
+  {
     "id": 150,
     "file-name": "elp06",
     "name": {
@@ -7347,9 +7496,10 @@
       "catch-JPja": "でゴンス",
       "catch-KRko": "히힛",
       "catch-EUru": "потрубим"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/elp06_154_Axel.png"
   },
-  "elp07": {
+  {
     "id": 151,
     "file-name": "elp07",
     "name": {
@@ -7396,9 +7546,10 @@
       "catch-JPja": "ララン",
       "catch-KRko": "트랄라",
       "catch-EUru": "кроха"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/elp07_155_Ellie.png"
   },
-  "elp09": {
+  {
     "id": 152,
     "file-name": "elp09",
     "name": {
@@ -7445,9 +7596,10 @@
       "catch-JPja": "もじゃ",
       "catch-KRko": "뿌뿌",
       "catch-EUru": "бивень"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/elp09_156_Tucker.png"
   },
-  "elp10": {
+  {
     "id": 153,
     "file-name": "elp10",
     "name": {
@@ -7494,9 +7646,10 @@
       "catch-JPja": "ホッ",
       "catch-KRko": "따끈따끈",
       "catch-EUru": "чайку-у"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/elp10_157_Tia.png"
   },
-  "elp12": {
+  {
     "id": 154,
     "file-name": "elp12",
     "name": {
@@ -7543,9 +7696,10 @@
       "catch-JPja": "ウス",
       "catch-KRko": "피스",
       "catch-EUru": "рок-н-ролл"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/elp12_158_Cyd.png"
   },
-  "flg00": {
+  {
     "id": 155,
     "file-name": "flg00",
     "name": {
@@ -7592,9 +7746,10 @@
       "catch-JPja": "でちゅ",
       "catch-KRko": "그래요",
       "catch-EUru": "ква"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg00_159_Lily.png"
   },
-  "flg01": {
+  {
     "id": 156,
     "file-name": "flg01",
     "name": {
@@ -7641,9 +7796,10 @@
       "catch-JPja": "だロボ",
       "catch-KRko": "오버",
       "catch-EUru": "квак-дзынь"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg01_160_Ribbot.png"
   },
-  "flg02": {
+  {
     "id": 157,
     "file-name": "flg02",
     "name": {
@@ -7690,9 +7846,10 @@
       "catch-JPja": "クルリ",
       "catch-KRko": "객울",
       "catch-EUru": "квак"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg02_4_Frobert.png"
   },
-  "flg03": {
+  {
     "id": 158,
     "file-name": "flg03",
     "name": {
@@ -7739,9 +7896,10 @@
       "catch-JPja": "わい",
       "catch-KRko": "와이",
       "catch-EUru": "шагом-квак"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg03_161_Camofrog.png"
   },
-  "flg04": {
+  {
     "id": 159,
     "file-name": "flg04",
     "name": {
@@ -7788,9 +7946,10 @@
       "catch-JPja": "ゲロゲロ",
       "catch-KRko": "개굴개굴",
       "catch-EUru": "бро"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg04_162_Drift.png"
   },
-  "flg05": {
+  {
     "id": 160,
     "file-name": "flg05",
     "name": {
@@ -7837,9 +7996,10 @@
       "catch-JPja": "だぎゃ",
       "catch-KRko": "므흣",
       "catch-EUru": "ква-ква"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg05_163_Wart%20Jr..png"
   },
-  "flg06": {
+  {
     "id": 161,
     "file-name": "flg06",
     "name": {
@@ -7886,9 +8046,10 @@
       "catch-JPja": "っちゃ",
       "catch-KRko": "그랬쪄",
       "catch-EUru": "плюх"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg06_164_Puddles.png"
   },
-  "flg07": {
+  {
     "id": 162,
     "file-name": "flg07",
     "name": {
@@ -7935,9 +8096,10 @@
       "catch-JPja": "にゃむ",
       "catch-KRko": "딩동댕",
       "catch-EUru": "буль-буль"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg07_165_Jeremiah.png"
   },
-  "flg09": {
+  {
     "id": 163,
     "file-name": "flg09",
     "name": {
@@ -7984,9 +8146,10 @@
       "catch-JPja": "だよん",
       "catch-KRko": "흐압",
       "catch-EUru": "жабррр"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg09_166_Tad.png"
   },
-  "flg10": {
+  {
     "id": 164,
     "file-name": "flg10",
     "name": {
@@ -8033,9 +8196,10 @@
       "catch-JPja": "のことよ",
       "catch-KRko": "라이라이",
       "catch-EUru": "уи-уи"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg10_167_Cousteau.png"
   },
-  "flg11": {
+  {
     "id": 165,
     "file-name": "flg11",
     "name": {
@@ -8082,9 +8246,10 @@
       "catch-JPja": "とかー",
       "catch-KRko": "싸우자",
       "catch-EUru": "скок"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg11_168_Huck.png"
   },
-  "flg12": {
+  {
     "id": 166,
     "file-name": "flg12",
     "name": {
@@ -8131,9 +8296,10 @@
       "catch-JPja": "ですだ",
       "catch-KRko": "이리오슈",
       "catch-EUru": "квак-квак"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg12_169_Prince.png"
   },
-  "flg13": {
+  {
     "id": 167,
     "file-name": "flg13",
     "name": {
@@ -8180,9 +8346,10 @@
       "catch-JPja": "ですわよ",
       "catch-KRko": "쪼오옥",
       "catch-EUru": "кво-кей"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg13_170_Jambette.png"
   },
-  "flg15": {
+  {
     "id": 168,
     "file-name": "flg15",
     "name": {
@@ -8229,9 +8396,10 @@
       "catch-JPja": "へくしっ",
       "catch-KRko": "콜록",
       "catch-EUru": "ах-ох"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg15_171_Raddle.png"
   },
-  "flg16": {
+  {
     "id": 169,
     "file-name": "flg16",
     "name": {
@@ -8278,9 +8446,10 @@
       "catch-JPja": "ベイビィ",
       "catch-KRko": "베이비",
       "catch-EUru": "квакет"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg16_172_Gigi.png"
   },
-  "flg17": {
+  {
     "id": 170,
     "file-name": "flg17",
     "name": {
@@ -8327,9 +8496,10 @@
       "catch-JPja": "しからば",
       "catch-KRko": "툴툴",
       "catch-EUru": "вроде того"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg17_173_Croque.png"
   },
-  "flg18": {
+  {
     "id": 171,
     "file-name": "flg18",
     "name": {
@@ -8376,9 +8546,10 @@
       "catch-JPja": "ハーン",
       "catch-KRko": "흐응",
       "catch-EUru": "знаешь"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg18_174_Diva.png"
   },
-  "flg19": {
+  {
     "id": 172,
     "file-name": "flg19",
     "name": {
@@ -8425,9 +8596,10 @@
       "catch-JPja": "むにゃ",
       "catch-KRko": "음냐음냐",
       "catch-EUru": "ква-храп"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg19_175_Henry.png"
   },
-  "goa00": {
+  {
     "id": 173,
     "file-name": "goa00",
     "name": {
@@ -8474,9 +8646,10 @@
       "catch-JPja": "っぺ",
       "catch-KRko": "맞아유",
       "catch-EUru": "ле ме-е-е"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/goa00_176_Chevre.png"
   },
-  "goa01": {
+  {
     "id": 174,
     "file-name": "goa01",
     "name": {
@@ -8523,9 +8696,10 @@
       "catch-JPja": "っしょ",
       "catch-KRko": "그랬슈",
       "catch-EUru": "козленок"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/goa01_177_Nan.png"
   },
-  "goa02": {
+  {
     "id": 175,
     "file-name": "goa02",
     "name": {
@@ -8572,9 +8746,10 @@
       "catch-JPja": "よのう",
       "catch-KRko": "알아줘",
       "catch-EUru": "такие-сякие"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/goa02_178_Billy.png"
   },
-  "goa04": {
+  {
     "id": 176,
     "file-name": "goa04",
     "name": {
@@ -8621,9 +8796,10 @@
       "catch-JPja": "イェーイ",
       "catch-KRko": "예이예",
       "catch-EUru": "ме-хе-хе"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/goa04_179_Gruff.png"
   },
-  "goa06": {
+  {
     "id": 177,
     "file-name": "goa06",
     "name": {
@@ -8670,9 +8846,10 @@
       "catch-JPja": "ザーマス",
       "catch-KRko": "똑바로해",
       "catch-EUru": "ме-е-е"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/goa06_180_Velma.png"
   },
-  "goa07": {
+  {
     "id": 178,
     "file-name": "goa07",
     "name": {
@@ -8719,9 +8896,10 @@
       "catch-JPja": "はぁ～",
       "catch-KRko": "웁스",
       "catch-EUru": "так"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/goa07_181_Kidd.png"
   },
-  "goa08": {
+  {
     "id": 179,
     "file-name": "goa08",
     "name": {
@@ -8768,9 +8946,10 @@
       "catch-JPja": "かな",
       "catch-KRko": "그러게",
       "catch-EUru": "козлятки"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/goa08_182_Pashmina.png"
   },
-  "goa09": {
+  {
     "id": 180,
     "file-name": "goa09",
     "name": {
@@ -8817,9 +8996,10 @@
       "catch-JPja": "ふわぁ",
       "catch-KRko": "흐아앙",
       "catch-EUru": "мемеша"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/goa09_183_Sherb.png"
   },
-  "gor00": {
+  {
     "id": 181,
     "file-name": "gor00",
     "name": {
@@ -8866,9 +9046,10 @@
       "catch-JPja": "ウホウホ",
       "catch-KRko": "우갸우갸",
       "catch-EUru": "высочество"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/gor00_184_Cesar.png"
   },
-  "gor01": {
+  {
     "id": 182,
     "file-name": "gor01",
     "name": {
@@ -8915,9 +9096,10 @@
       "catch-JPja": "ガオ",
       "catch-KRko": "겉멋",
       "catch-EUru": "мелкота"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/gor01_185_Peewee.png"
   },
-  "gor02": {
+  {
     "id": 183,
     "file-name": "gor02",
     "name": {
@@ -8964,9 +9146,10 @@
       "catch-JPja": "ウルトラ",
       "catch-KRko": "야임마",
       "catch-EUru": "бабум"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/gor02_186_Boone.png"
   },
-  "gor04": {
+  {
     "id": 184,
     "file-name": "gor04",
     "name": {
@@ -9013,9 +9196,10 @@
       "catch-JPja": "コング",
       "catch-KRko": "하압",
       "catch-EUru": "ух-ух-ах"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/gor04_187_Louie.png"
   },
-  "gor05": {
+  {
     "id": 185,
     "file-name": "gor05",
     "name": {
@@ -9062,9 +9246,10 @@
       "catch-JPja": "おうおう",
       "catch-KRko": "오우오우",
       "catch-EUru": "ух-ох"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/gor05_188_Boyd.png"
   },
-  "gor07": {
+  {
     "id": 186,
     "file-name": "gor07",
     "name": {
@@ -9111,9 +9296,10 @@
       "catch-JPja": "ですワ",
       "catch-KRko": "달짝지근",
       "catch-EUru": "сладость"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/gor07_189_Violet.png"
   },
-  "gor08": {
+  {
     "id": 187,
     "file-name": "gor08",
     "name": {
@@ -9160,9 +9346,10 @@
       "catch-JPja": "ウヒョッ",
       "catch-KRko": "부락",
       "catch-EUru": "ух-ух-ух"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/gor08_190_Al.png"
   },
-  "gor09": {
+  {
     "id": 188,
     "file-name": "gor09",
     "name": {
@@ -9209,9 +9396,10 @@
       "catch-JPja": "そりゃっ",
       "catch-KRko": "끼얍",
       "catch-EUru": "на взлет"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/gor09_191_Rocket.png"
   },
-  "gor10": {
+  {
     "id": 189,
     "file-name": "gor10",
     "name": {
@@ -9258,9 +9446,10 @@
       "catch-JPja": "いえてる",
       "catch-KRko": "알만하다",
       "catch-EUru": "респект"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/gor10_192_Hans.png"
   },
-  "ham00": {
+  {
     "id": 190,
     "file-name": "ham00",
     "name": {
@@ -9307,9 +9496,10 @@
       "catch-JPja": "ハム",
       "catch-KRko": "햄햄",
       "catch-EUru": "хомячок"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ham00_193_Hamlet.png"
   },
-  "ham01": {
+  {
     "id": 191,
     "file-name": "ham01",
     "name": {
@@ -9356,9 +9546,10 @@
       "catch-JPja": "キュルン",
       "catch-KRko": "큐룽",
       "catch-EUru": "щечки"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ham01_194_Apple.png"
   },
-  "ham02": {
+  {
     "id": 192,
     "file-name": "ham02",
     "name": {
@@ -9405,9 +9596,10 @@
       "catch-JPja": "ですぞ",
       "catch-KRko": "그렇다고",
       "catch-EUru": "резонно"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ham02_195_Graham.png"
   },
-  "ham03": {
+  {
     "id": 193,
     "file-name": "ham03",
     "name": {
@@ -9454,9 +9646,10 @@
       "catch-JPja": "ヒュー",
       "catch-KRko": "휴우",
       "catch-EUru": "ле хом"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ham03_196_Rodney.png"
   },
-  "ham04": {
+  {
     "id": 194,
     "file-name": "ham04",
     "name": {
@@ -9503,9 +9696,10 @@
       "catch-JPja": "だってば",
       "catch-KRko": "파샤샤",
       "catch-EUru": "о-хо-хо"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ham04_5_Soleil.png"
   },
-  "ham05": {
+  {
     "id": 195,
     "file-name": "ham05",
     "name": {
@@ -9552,9 +9746,10 @@
       "catch-JPja": "どきどき",
       "catch-KRko": "둥게둥게",
       "catch-EUru": "стук-стук"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ham05_197_Clay.png"
   },
-  "ham06": {
+  {
     "id": 196,
     "file-name": "ham06",
     "name": {
@@ -9601,9 +9796,10 @@
       "catch-JPja": "なのです",
       "catch-KRko": "뽀드득",
       "catch-EUru": "пушистик"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ham06_198_Flurry.png"
   },
-  "ham07": {
+  {
     "id": 197,
     "file-name": "ham07",
     "name": {
@@ -9650,9 +9846,10 @@
       "catch-JPja": "カーッ",
       "catch-KRko": "카악",
       "catch-EUru": "фырк"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ham07_199_Hamphrey.png"
   },
-  "hip00": {
+  {
     "id": 198,
     "file-name": "hip00",
     "name": {
@@ -9699,9 +9896,10 @@
       "catch-JPja": "だぎゃー",
       "catch-KRko": "그러마",
       "catch-EUru": "гиппи"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/hip00_200_Rocco.png"
   },
-  "hip02": {
+  {
     "id": 199,
     "file-name": "hip02",
     "name": {
@@ -9748,9 +9946,10 @@
       "catch-JPja": "でガンス",
       "catch-KRko": "히포포",
       "catch-EUru": "хипстер"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/hip02_201_Bubbles.png"
   },
-  "hip03": {
+  {
     "id": 200,
     "file-name": "hip03",
     "name": {
@@ -9797,9 +9996,10 @@
       "catch-JPja": "せやねん",
       "catch-KRko": "약히",
       "catch-EUru": "буль"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/hip03_202_Bertha.png"
   },
-  "hip04": {
+  {
     "id": 201,
     "file-name": "hip04",
     "name": {
@@ -9846,9 +10046,10 @@
       "catch-JPja": "じゃけん",
       "catch-KRko": "오도독",
       "catch-EUru": "малек"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/hip04_203_Biff.png"
   },
-  "hip05": {
+  {
     "id": 202,
     "file-name": "hip05",
     "name": {
@@ -9895,9 +10096,10 @@
       "catch-JPja": "だピー",
       "catch-KRko": "쩝쩝",
       "catch-EUru": "дорогуша"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/hip05_204_Bitty.png"
   },
-  "hip08": {
+  {
     "id": 203,
     "file-name": "hip08",
     "name": {
@@ -9944,9 +10146,10 @@
       "catch-JPja": "でっせ",
       "catch-KRko": "냉큼오슈",
       "catch-EUru": "лежебока"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/hip08_205_Harry.png"
   },
-  "hip09": {
+  {
     "id": 204,
     "file-name": "hip09",
     "name": {
@@ -9993,9 +10196,10 @@
       "catch-JPja": "イェス",
       "catch-KRko": "예스",
       "catch-EUru": "естессно"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/hip09_6_Hippeux.png"
   },
-  "hrs00": {
+  {
     "id": 205,
     "file-name": "hrs00",
     "name": {
@@ -10042,9 +10246,10 @@
       "catch-JPja": "なんちて",
       "catch-KRko": "농담",
       "catch-EUru": "партнер"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs00_206_Buck.png"
   },
-  "hrs01": {
+  {
     "id": 206,
     "file-name": "hrs01",
     "name": {
@@ -10091,9 +10296,10 @@
       "catch-JPja": "いくわよ",
       "catch-KRko": "달리자",
       "catch-EUru": "сахарок"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs01_207_Victoria.png"
   },
-  "hrs02": {
+  {
     "id": 207,
     "file-name": "hrs02",
     "name": {
@@ -10140,9 +10346,10 @@
       "catch-JPja": "ってば",
       "catch-KRko": "맞아요",
       "catch-EUru": "и все"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs02_208_Savannah.png"
   },
-  "hrs03": {
+  {
     "id": 208,
     "file-name": "hrs03",
     "name": {
@@ -10189,9 +10396,10 @@
       "catch-JPja": "だヒヒン",
       "catch-KRko": "히히힝",
       "catch-EUru": "жеребенок"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs03_209_Elmer.png"
   },
-  "hrs04": {
+  {
     "id": 209,
     "file-name": "hrs04",
     "name": {
@@ -10238,9 +10446,10 @@
       "catch-JPja": "ブルル",
       "catch-KRko": "부르르",
       "catch-EUru": "не-е-ет"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs04_210_Roscoe.png"
   },
-  "hrs05": {
+  {
     "id": 210,
     "file-name": "hrs05",
     "name": {
@@ -10287,9 +10496,10 @@
       "catch-JPja": "みゃあ",
       "catch-KRko": "당근당근",
       "catch-EUru": "тык-дык"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs05_211_Winnie.png"
   },
-  "hrs06": {
+  {
     "id": 211,
     "file-name": "hrs06",
     "name": {
@@ -10336,9 +10546,10 @@
       "catch-JPja": "じゃない",
       "catch-KRko": "게슴츠레",
       "catch-EUru": "новичок"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs06_212_Ed.png"
   },
-  "hrs07": {
+  {
     "id": 212,
     "file-name": "hrs07",
     "name": {
@@ -10385,9 +10596,10 @@
       "catch-JPja": "あそばせ",
       "catch-KRko": "훗훗",
       "catch-EUru": "рафинад"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs07_7_Cleo.png"
   },
-  "hrs08": {
+  {
     "id": 213,
     "file-name": "hrs08",
     "name": {
@@ -10434,9 +10646,10 @@
       "catch-JPja": "だポン",
       "catch-KRko": "몰라요",
       "catch-EUru": "соседушка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs08_213_Peaches.png"
   },
-  "hrs09": {
+  {
     "id": 214,
     "file-name": "hrs09",
     "name": {
@@ -10483,9 +10696,10 @@
       "catch-JPja": "サヴァ",
       "catch-KRko": "봉쥬르",
       "catch-EUru": "кусь-кусь"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs09_214_Annalise.png"
   },
-  "hrs10": {
+  {
     "id": 215,
     "file-name": "hrs10",
     "name": {
@@ -10532,9 +10746,10 @@
       "catch-JPja": "ぴろぴろ",
       "catch-KRko": "다그닥",
       "catch-EUru": "цок-цок"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs10_215_Clyde.png"
   },
-  "hrs11": {
+  {
     "id": 216,
     "file-name": "hrs11",
     "name": {
@@ -10581,9 +10796,10 @@
       "catch-JPja": "ごらんよ",
       "catch-KRko": "이거봐",
       "catch-EUru": "глянь"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs11_216_Colton.png"
   },
-  "hrs12": {
+  {
     "id": 217,
     "file-name": "hrs12",
     "name": {
@@ -10630,9 +10846,10 @@
       "catch-JPja": "だっけ",
       "catch-KRko": "그런가",
       "catch-EUru": "се-е-ено"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs12_217_Papi.png"
   },
-  "hrs13": {
+  {
     "id": 218,
     "file-name": "hrs13",
     "name": {
@@ -10679,9 +10896,10 @@
       "catch-JPja": "ね、キミ",
       "catch-KRko": "그대여",
       "catch-EUru": "блеск"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs13_218_Julian.png"
   },
-  "hrs16": {
+  {
     "id": 219,
     "file-name": "hrs16",
     "name": {
@@ -10728,9 +10946,10 @@
       "catch-JPja": "スン",
       "catch-KRko": "쉬익",
       "catch-EUru": "но-но"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs16_219_Reneigh.png"
   },
-  "kal00": {
+  {
     "id": 220,
     "file-name": "kal00",
     "name": {
@@ -10752,7 +10971,7 @@
     "personality": "Arrogante",
     "birthday-string": "July 20th",
     "birthday": "20/7",
-   "species": "Koala",
+    "species": "Koala",
     "gender": "Female",
     "subtype": "B",
     "hobby": "La mode",
@@ -10777,9 +10996,10 @@
       "catch-JPja": "アラ",
       "catch-KRko": "어맛",
       "catch-EUru": "ц-ц"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/kal00_220_Yuka.png"
   },
-  "kal01": {
+  {
     "id": 221,
     "file-name": "kal01",
     "name": {
@@ -10801,7 +11021,7 @@
     "personality": "Normale",
     "birthday-string": "August 19th",
     "birthday": "19/8",
-   "species": "Koala",
+    "species": "Koala",
     "gender": "Female",
     "subtype": "B",
     "hobby": "Se cultiver",
@@ -10826,9 +11046,10 @@
       "catch-JPja": "キラリ",
       "catch-KRko": "반짝",
       "catch-EUru": "лидер"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/kal01_221_Alice.png"
   },
-  "kal02": {
+  {
     "id": 222,
     "file-name": "kal02",
     "name": {
@@ -10850,7 +11071,7 @@
     "personality": "Normale",
     "birthday-string": "April 12th",
     "birthday": "12/4",
-   "species": "Koala",
+    "species": "Koala",
     "gender": "Female",
     "subtype": "B",
     "hobby": "Se cultiver",
@@ -10875,9 +11096,10 @@
       "catch-JPja": "とっても",
       "catch-KRko": "정말로요",
       "catch-EUru": "хрустяшка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/kal02_222_Melba.png"
   },
-  "kal03": {
+  {
     "id": 223,
     "file-name": "kal03",
     "name": {
@@ -10899,7 +11121,7 @@
     "personality": "Normale",
     "birthday-string": "June 21st",
     "birthday": "21/6",
-   "species": "Koala",
+    "species": "Koala",
     "gender": "Female",
     "subtype": "B",
     "hobby": "La musique",
@@ -10924,9 +11146,10 @@
       "catch-JPja": "だコアラ",
       "catch-KRko": "발그레",
       "catch-EUru": "солнышко"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/kal03_8_Sydney.png"
   },
-  "kal04": {
+  {
     "id": 224,
     "file-name": "kal04",
     "name": {
@@ -10948,7 +11171,7 @@
     "personality": "Versatile",
     "birthday-string": "October 13th",
     "birthday": "13/10",
-   "species": "Koala",
+    "species": "Koala",
     "gender": "Male",
     "subtype": "A",
     "hobby": "La nature",
@@ -10973,9 +11196,10 @@
       "catch-JPja": "だがや",
       "catch-KRko": "버텨",
       "catch-EUru": "напарник"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/kal04_223_Gonzo.png"
   },
-  "kal05": {
+  {
     "id": 225,
     "file-name": "kal05",
     "name": {
@@ -10997,7 +11221,7 @@
     "personality": "Paresseuse",
     "birthday-string": "May 7th",
     "birthday": "7/5",
-   "species": "Koala",
+    "species": "Koala",
     "gender": "Male",
     "subtype": "B",
     "hobby": "Jouer",
@@ -11022,9 +11246,10 @@
       "catch-JPja": "ククッ",
       "catch-KRko": "큐큐",
       "catch-EUru": "медведище"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/kal05_224_Ozzie.png"
   },
-  "kal08": {
+  {
     "id": 226,
     "file-name": "kal08",
     "name": {
@@ -11046,7 +11271,7 @@
     "personality": "Grande soeur",
     "birthday-string": "May 14th",
     "birthday": "14/5",
-   "species": "Koala",
+    "species": "Koala",
     "gender": "Female",
     "subtype": "A",
     "hobby": "Jouer",
@@ -11071,9 +11296,10 @@
       "catch-JPja": "え～",
       "catch-KRko": "어어",
       "catch-EUru": "ох-хо"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/kal08_225_Canberra.png"
   },
-  "kal09": {
+  {
     "id": 227,
     "file-name": "kal09",
     "name": {
@@ -11095,7 +11321,7 @@
     "personality": "Sportive",
     "birthday-string": "October 12th",
     "birthday": "12/10",
-   "species": "Koala",
+    "species": "Koala",
     "gender": "Male",
     "subtype": "A",
     "hobby": "Jouer",
@@ -11120,9 +11346,10 @@
       "catch-JPja": "わ～い",
       "catch-KRko": "우와",
       "catch-EUru": "ничего"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/kal09_226_Lyman.png"
   },
-  "kal10": {
+  {
     "id": 228,
     "file-name": "kal10",
     "name": {
@@ -11144,7 +11371,7 @@
     "personality": "Chic",
     "birthday-string": "October 26th",
     "birthday": "26/10",
-   "species": "Koala",
+    "species": "Koala",
     "gender": "Male",
     "subtype": "A",
     "hobby": "La musique",
@@ -11169,9 +11396,10 @@
       "catch-JPja": "おいおい",
       "catch-KRko": "야야야",
       "catch-EUru": "приятель"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/kal10_227_Eugene.png"
   },
-  "kgr00": {
+  {
     "id": 229,
     "file-name": "kgr00",
     "name": {
@@ -11193,7 +11421,7 @@
     "personality": "Normale",
     "birthday-string": "October 11th",
     "birthday": "11/10",
-   "species": "Kangourou",
+    "species": "Kangourou",
     "gender": "Female",
     "subtype": "B",
     "hobby": "Se cultiver",
@@ -11218,9 +11446,10 @@
       "catch-JPja": "ッポン",
       "catch-KRko": "폴짝",
       "catch-EUru": "детка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/kgr00_228_Kitt.png"
   },
-  "kgr01": {
+  {
     "id": 230,
     "file-name": "kgr01",
     "name": {
@@ -11242,7 +11471,7 @@
     "personality": "Arrogante",
     "birthday-string": "November 12th",
     "birthday": "12/11",
-   "species": "Kangourou",
+    "species": "Kangourou",
     "gender": "Female",
     "subtype": "B",
     "hobby": "Le sport",
@@ -11267,9 +11496,10 @@
       "catch-JPja": "ッハ",
       "catch-KRko": "응",
       "catch-EUru": "малютка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/kgr01_229_Mathilda.png"
   },
-  "kgr02": {
+  {
     "id": 231,
     "file-name": "kgr02",
     "name": {
@@ -11291,7 +11521,7 @@
     "personality": "Normale",
     "birthday-string": "December 5th",
     "birthday": "5/12",
-   "species": "Kangourou",
+    "species": "Kangourou",
     "gender": "Female",
     "subtype": "A",
     "hobby": "La nature",
@@ -11316,9 +11546,10 @@
       "catch-JPja": "だフン",
       "catch-KRko": "오롤로",
       "catch-EUru": "дитятко"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/kgr02_230_Carrie.png"
   },
-  "kgr05": {
+  {
     "id": 232,
     "file-name": "kgr05",
     "name": {
@@ -11340,7 +11571,7 @@
     "personality": "Arrogante",
     "birthday-string": "September 8th",
     "birthday": "8/9",
-   "species": "Kangourou",
+    "species": "Kangourou",
     "gender": "Female",
     "subtype": "B",
     "hobby": "La musique",
@@ -11365,9 +11596,10 @@
       "catch-JPja": "だパンク",
       "catch-KRko": "뭘봐",
       "catch-EUru": "лапочка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/kgr05_231_Astrid.png"
   },
-  "kgr06": {
+  {
     "id": 233,
     "file-name": "kgr06",
     "name": {
@@ -11389,7 +11621,7 @@
     "personality": "Grande soeur",
     "birthday-string": "May 3rd",
     "birthday": "3/5",
-   "species": "Kangourou",
+    "species": "Kangourou",
     "gender": "Female",
     "subtype": "B",
     "hobby": "La musique",
@@ -11414,9 +11646,10 @@
       "catch-JPja": "よねー",
       "catch-KRko": "이자슥",
       "catch-EUru": "прыг"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/kgr06_232_Sylvia.png"
   },
-  "kgr08": {
+  {
     "id": 234,
     "file-name": "kgr08",
     "name": {
@@ -11438,7 +11671,7 @@
     "personality": "Versatile",
     "birthday-string": "April 24th",
     "birthday": "24/4",
-   "species": "Kangourou",
+    "species": "Kangourou",
     "gender": "Male",
     "subtype": "A",
     "hobby": "Le sport",
@@ -11463,9 +11696,10 @@
       "catch-JPja": "じゃのう",
       "catch-KRko": "어험",
       "catch-EUru": "карманчик"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/kgr08_233_Walt.png"
   },
-  "kgr09": {
+  {
     "id": 235,
     "file-name": "kgr09",
     "name": {
@@ -11487,7 +11721,7 @@
     "personality": "Versatile",
     "birthday-string": "December 1st",
     "birthday": "1/12",
-   "species": "Kangourou",
+    "species": "Kangourou",
     "gender": "Male",
     "subtype": "A",
     "hobby": "Le sport",
@@ -11512,9 +11746,10 @@
       "catch-JPja": "やるぜ",
       "catch-KRko": "아자",
       "catch-EUru": "хук"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/kgr09_234_Rooney.png"
   },
-  "kgr10": {
+  {
     "id": 236,
     "file-name": "kgr10",
     "name": {
@@ -11536,7 +11771,7 @@
     "personality": "Normale",
     "birthday-string": "May 31st",
     "birthday": "31/5",
-   "species": "Kangourou",
+    "species": "Kangourou",
     "gender": "Female",
     "subtype": "A",
     "hobby": "La nature",
@@ -11561,9 +11796,10 @@
       "catch-JPja": "いいのよ",
       "catch-KRko": "조아요",
       "catch-EUru": "кармашек"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/kgr10_235_Marcie.png"
   },
-  "lon00": {
+  {
     "id": 237,
     "file-name": "lon00",
     "name": {
@@ -11585,7 +11821,7 @@
     "personality": "Sportive",
     "birthday-string": "August 8th",
     "birthday": "8/8",
-   "species": "Lion",
+    "species": "Lion",
     "gender": "Male",
     "subtype": "B",
     "hobby": "Le sport",
@@ -11610,9 +11846,10 @@
       "catch-JPja": "メ～ン",
       "catch-KRko": "요～맨",
       "catch-EUru": "че-е-ел"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/lon00_236_Bud.png"
   },
-  "lon01": {
+  {
     "id": 238,
     "file-name": "lon01",
     "name": {
@@ -11634,7 +11871,7 @@
     "personality": "Versatile",
     "birthday-string": "July 23rd",
     "birthday": "23/7",
-   "species": "Lion",
+    "species": "Lion",
     "gender": "Male",
     "subtype": "B",
     "hobby": "Se cultiver",
@@ -11659,9 +11896,10 @@
       "catch-JPja": "ダロガ",
       "catch-KRko": "안그냐",
       "catch-EUru": "буги-вуги"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/lon01_237_Elvis.png"
   },
-  "lon02": {
+  {
     "id": 239,
     "file-name": "lon02",
     "name": {
@@ -11683,7 +11921,7 @@
     "personality": "Paresseuse",
     "birthday-string": "July 24th",
     "birthday": "24/7",
-   "species": "Lion",
+    "species": "Lion",
     "gender": "Male",
     "subtype": "A",
     "hobby": "La nature",
@@ -11708,9 +11946,10 @@
       "catch-JPja": "だオン",
       "catch-KRko": "티라이온",
       "catch-EUru": "спокойно"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/lon02_238_Rex.png"
   },
-  "lon04": {
+  {
     "id": 240,
     "file-name": "lon04",
     "name": {
@@ -11732,7 +11971,7 @@
     "personality": "Chic",
     "birthday-string": "August 14th",
     "birthday": "14/8",
-   "species": "Lion",
+    "species": "Lion",
     "gender": "Male",
     "subtype": "A",
     "hobby": "Se cultiver",
@@ -11757,9 +11996,10 @@
       "catch-JPja": "よな",
       "catch-KRko": "졸지마",
       "catch-EUru": "левушка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/lon04_239_Leopold.png"
   },
-  "lon06": {
+  {
     "id": 241,
     "file-name": "lon06",
     "name": {
@@ -11781,7 +12021,7 @@
     "personality": "Sportive",
     "birthday-string": "July 10th",
     "birthday": "10/7",
-   "species": "Lion",
+    "species": "Lion",
     "gender": "Male",
     "subtype": "B",
     "hobby": "Le sport",
@@ -11806,9 +12046,10 @@
       "catch-JPja": "ハハハ",
       "catch-KRko": "하하하",
       "catch-EUru": "зоосад"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/lon06_240_Mott.png"
   },
-  "lon07": {
+  {
     "id": 242,
     "file-name": "lon07",
     "name": {
@@ -11830,7 +12071,7 @@
     "personality": "Sportive",
     "birthday-string": "August 7th",
     "birthday": "7/8",
-   "species": "Lion",
+    "species": "Lion",
     "gender": "Male",
     "subtype": "A",
     "hobby": "La musique",
@@ -11855,9 +12096,10 @@
       "catch-JPja": "ナハッ",
       "catch-KRko": "크릉",
       "catch-EUru": "капитально"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/lon07_241_Rory.png"
   },
-  "lon08": {
+  {
     "id": 243,
     "file-name": "lon08",
     "name": {
@@ -11879,7 +12121,7 @@
     "personality": "Chic",
     "birthday-string": "July 29th",
     "birthday": "29/7",
-   "species": "Lion",
+    "species": "Lion",
     "gender": "Male",
     "subtype": "A",
     "hobby": "La musique",
@@ -11904,9 +12146,10 @@
       "catch-JPja": "まさしく",
       "catch-KRko": "옳거니",
       "catch-EUru": "честь имею"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/lon08_242_Lionel.png"
   },
-  "mnk01": {
+  {
     "id": 244,
     "file-name": "mnk01",
     "name": {
@@ -11928,7 +12171,7 @@
     "personality": "Normale",
     "birthday-string": "August 23rd",
     "birthday": "23/8",
-   "species": "Singe",
+    "species": "Singe",
     "gender": "Female",
     "subtype": "B",
     "hobby": "Se cultiver",
@@ -11953,9 +12196,10 @@
       "catch-JPja": "ウキャ",
       "catch-KRko": "끼끼",
       "catch-EUru": "пу-пу"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/mnk01_243_Nana.png"
   },
-  "mnk02": {
+  {
     "id": 245,
     "file-name": "mnk02",
     "name": {
@@ -11977,7 +12221,7 @@
     "personality": "Paresseuse",
     "birthday-string": "January 19th",
     "birthday": "19/1",
-   "species": "Singe",
+    "species": "Singe",
     "gender": "Male",
     "subtype": "B",
     "hobby": "Jouer",
@@ -12002,9 +12246,10 @@
       "catch-JPja": "でござる",
       "catch-KRko": "하옵니다",
       "catch-EUru": "дружок"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/mnk02_9_Simon.png"
   },
-  "mnk03": {
+  {
     "id": 246,
     "file-name": "mnk03",
     "name": {
@@ -12026,7 +12271,7 @@
     "personality": "Vive",
     "birthday-string": "April 2nd",
     "birthday": "2/4",
-   "species": "Singe",
+    "species": "Singe",
     "gender": "Female",
     "subtype": "B",
     "hobby": "La mode",
@@ -12051,9 +12296,10 @@
       "catch-JPja": "ワオ",
       "catch-KRko": "와우",
       "catch-EUru": "шимпатяга"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/mnk03_244_Tammi.png"
   },
-  "mnk04": {
+  {
     "id": 247,
     "file-name": "mnk04",
     "name": {
@@ -12075,7 +12321,7 @@
     "personality": "Versatile",
     "birthday-string": "December 7th",
     "birthday": "7/12",
-   "species": "Singe",
+    "species": "Singe",
     "gender": "Male",
     "subtype": "B",
     "hobby": "Se cultiver",
@@ -12100,9 +12346,10 @@
       "catch-JPja": "バナーナ",
       "catch-KRko": "바나나",
       "catch-EUru": "ух-эх"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/mnk04_245_Monty.png"
   },
-  "mnk05": {
+  {
     "id": 248,
     "file-name": "mnk05",
     "name": {
@@ -12124,7 +12371,7 @@
     "personality": "Arrogante",
     "birthday-string": "March 21st",
     "birthday": "21/3",
-   "species": "Singe",
+    "species": "Singe",
     "gender": "Female",
     "subtype": "B",
     "hobby": "La mode",
@@ -12149,9 +12396,10 @@
       "catch-JPja": "だモン",
       "catch-KRko": "몽몽",
       "catch-EUru": "само собой"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/mnk05_246_Elise.png"
   },
-  "mnk06": {
+  {
     "id": 249,
     "file-name": "mnk06",
     "name": {
@@ -12173,7 +12421,7 @@
     "personality": "Sportive",
     "birthday-string": "November 21st",
     "birthday": "21/11",
-   "species": "Singe",
+    "species": "Singe",
     "gender": "Male",
     "subtype": "A",
     "hobby": "La musique",
@@ -12198,9 +12446,10 @@
       "catch-JPja": "どっこい",
       "catch-KRko": "빠샤",
       "catch-EUru": "у-у-у"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/mnk06_247_Flip.png"
   },
-  "mnk07": {
+  {
     "id": 250,
     "file-name": "mnk07",
     "name": {
@@ -12222,7 +12471,7 @@
     "personality": "Grande soeur",
     "birthday-string": "April 10th",
     "birthday": "10/4",
-   "species": "Singe",
+    "species": "Singe",
     "gender": "Female",
     "subtype": "A",
     "hobby": "La musique",
@@ -12247,9 +12496,10 @@
       "catch-JPja": "ウキキ",
       "catch-KRko": "우끼네",
       "catch-EUru": "щекасто"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/mnk07_248_Shari.png"
   },
-  "mnk08": {
+  {
     "id": 251,
     "file-name": "mnk08",
     "name": {
@@ -12271,7 +12521,7 @@
     "personality": "Paresseuse",
     "birthday-string": "May 24th",
     "birthday": "24/5",
-   "species": "Singe",
+    "species": "Singe",
     "gender": "Male",
     "subtype": "A",
     "hobby": "La nature",
@@ -12296,9 +12546,10 @@
       "catch-JPja": "だぜ",
       "catch-KRko": "흠냐리",
       "catch-EUru": "чавк-чавк"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/mnk08_249_Deli.png"
   },
-  "mus00": {
+  {
     "id": 252,
     "file-name": "mus00",
     "name": {
@@ -12320,7 +12571,7 @@
     "personality": "Normale",
     "birthday-string": "February 18th",
     "birthday": "18/2",
-   "species": "Souris",
+    "species": "Souris",
     "gender": "Female",
     "subtype": "B",
     "hobby": "Se cultiver",
@@ -12345,9 +12596,10 @@
       "catch-JPja": "だべ",
       "catch-KRko": "찍찍",
       "catch-EUru": "пип-пип"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus00_250_Dora.png"
   },
-  "mus01": {
+  {
     "id": 253,
     "file-name": "mus01",
     "name": {
@@ -12369,7 +12621,7 @@
     "personality": "Versatile",
     "birthday-string": "October 17th",
     "birthday": "17/10",
-   "species": "Souris",
+    "species": "Souris",
     "gender": "Male",
     "subtype": "B",
     "hobby": "Se cultiver",
@@ -12394,9 +12646,10 @@
       "catch-JPja": "てやんで",
       "catch-KRko": "긍가벼",
       "catch-EUru": "фью-фью"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus01_251_Limberg.png"
   },
-  "mus02": {
+  {
     "id": 254,
     "file-name": "mus02",
     "name": {
@@ -12418,7 +12671,7 @@
     "personality": "Vive",
     "birthday-string": "December 28th",
     "birthday": "28/12",
-   "species": "Souris",
+    "species": "Souris",
     "gender": "Female",
     "subtype": "B",
     "hobby": "La musique",
@@ -12443,9 +12696,10 @@
       "catch-JPja": "ギャハッ",
       "catch-KRko": "캬학",
       "catch-EUru": "пип"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus02_252_Bella.png"
   },
-  "mus03": {
+  {
     "id": 255,
     "file-name": "mus03",
     "name": {
@@ -12467,7 +12721,7 @@
     "personality": "Arrogante",
     "birthday-string": "July 7th",
     "birthday": "7/7",
-   "species": "Souris",
+    "species": "Souris",
     "gender": "Female",
     "subtype": "B",
     "hobby": "La mode",
@@ -12492,9 +12746,10 @@
       "catch-JPja": "なーんて",
       "catch-KRko": "글치머",
       "catch-EUru": "сы-ы-ыр"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus03_253_Bree.png"
   },
-  "mus04": {
+  {
     "id": 256,
     "file-name": "mus04",
     "name": {
@@ -12516,7 +12771,7 @@
     "personality": "Sportive",
     "birthday-string": "July 5th",
     "birthday": "5/7",
-   "species": "Souris",
+    "species": "Souris",
     "gender": "Male",
     "subtype": "B",
     "hobby": "Le sport",
@@ -12541,9 +12796,10 @@
       "catch-JPja": "チュー",
       "catch-KRko": "쪽",
       "catch-EUru": "ревушка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus04_254_Samson.png"
   },
-  "mus05": {
+  {
     "id": 257,
     "file-name": "mus05",
     "name": {
@@ -12565,7 +12821,7 @@
     "personality": "Sportive",
     "birthday-string": "August 14th",
     "birthday": "14/8",
-   "species": "Souris",
+    "species": "Souris",
     "gender": "Male",
     "subtype": "B",
     "hobby": "Le sport",
@@ -12590,9 +12846,10 @@
       "catch-JPja": "すっげぇ",
       "catch-KRko": "무진장",
       "catch-EUru": "мастерски"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus05_255_Rod.png"
   },
-  "mus08": {
+  {
     "id": 258,
     "file-name": "mus08",
     "name": {
@@ -12614,7 +12871,7 @@
     "personality": "Vive",
     "birthday-string": "April 13th",
     "birthday": "13/4",
-   "species": "Souris",
+    "species": "Souris",
     "gender": "Female",
     "subtype": "A",
     "hobby": "Jouer",
@@ -12639,9 +12896,10 @@
       "catch-JPja": "ですワ",
       "catch-KRko": "달짝지근",
       "catch-EUru": "сладость"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus08_256_Candi.png"
   },
-  "mus09": {
+  {
     "id": 259,
     "file-name": "mus09",
     "name": {
@@ -12663,7 +12921,7 @@
     "personality": "Versatile",
     "birthday-string": "January 17th",
     "birthday": "17/1",
-   "species": "Souris",
+    "species": "Souris",
     "gender": "Male",
     "subtype": "B",
     "hobby": "Se cultiver",
@@ -12688,9 +12946,10 @@
       "catch-JPja": "がってん",
       "catch-KRko": "힐끔힐끔",
       "catch-EUru": "пи-и-и"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus09_257_Rizzo.png"
   },
-  "mus10": {
+  {
     "id": 260,
     "file-name": "mus10",
     "name": {
@@ -12712,7 +12971,7 @@
     "personality": "Vive",
     "birthday-string": "February 24th",
     "birthday": "24/2",
-   "species": "Souris",
+    "species": "Souris",
     "gender": "Female",
     "subtype": "B",
     "hobby": "La mode",
@@ -12737,9 +12996,10 @@
       "catch-JPja": "ルンルン",
       "catch-KRko": "룰룰",
       "catch-EUru": "канноли"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus10_258_Anicotti.png"
   },
-  "mus12": {
+  {
     "id": 261,
     "file-name": "mus12",
     "name": {
@@ -12761,7 +13021,7 @@
     "personality": "Paresseuse",
     "birthday-string": "June 30th",
     "birthday": "30/6",
-   "species": "Souris",
+    "species": "Souris",
     "gender": "Male",
     "subtype": "B",
     "hobby": "Jouer",
@@ -12786,9 +13046,10 @@
       "catch-JPja": "ピコ",
       "catch-KRko": "앗차",
       "catch-EUru": "ням-ням"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus12_259_Broccolo.png"
   },
-  "mus14": {
+  {
     "id": 262,
     "file-name": "mus14",
     "name": {
@@ -12810,7 +13071,7 @@
     "personality": "Sportive",
     "birthday-string": "September 13th",
     "birthday": "13/9",
-   "species": "Souris",
+    "species": "Souris",
     "gender": "Male",
     "subtype": "B",
     "hobby": "Le sport",
@@ -12835,9 +13096,10 @@
       "catch-JPja": "にゃろ",
       "catch-KRko": "짜샤",
       "catch-EUru": "коротышка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus14_260_Moose.png"
   },
-  "mus15": {
+  {
     "id": 263,
     "file-name": "mus15",
     "name": {
@@ -12859,7 +13121,7 @@
     "personality": "Normale",
     "birthday-string": "June 12th",
     "birthday": "12/6",
-   "species": "Souris",
+    "species": "Souris",
     "gender": "Female",
     "subtype": "B",
     "hobby": "Se cultiver",
@@ -12884,9 +13146,10 @@
       "catch-JPja": "ですよね",
       "catch-KRko": "내말이요",
       "catch-EUru": "пи-пи-пи"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus15_261_Bettina.png"
   },
-  "mus16": {
+  {
     "id": 264,
     "file-name": "mus16",
     "name": {
@@ -12908,7 +13171,7 @@
     "personality": "Arrogante",
     "birthday-string": "September 5th",
     "birthday": "5/9",
-   "species": "Souris",
+    "species": "Souris",
     "gender": "Female",
     "subtype": "A",
     "hobby": "Se cultiver",
@@ -12933,9 +13196,10 @@
       "catch-JPja": "おほほ",
       "catch-KRko": "오호호",
       "catch-EUru": "писк"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus16_262_Greta.png"
   },
-  "mus17": {
+  {
     "id": 265,
     "file-name": "mus17",
     "name": {
@@ -12957,7 +13221,7 @@
     "personality": "Vive",
     "birthday-string": "February 5th",
     "birthday": "5/2",
-   "species": "Souris",
+    "species": "Souris",
     "gender": "Female",
     "subtype": "A",
     "hobby": "La mode",
@@ -12982,9 +13246,10 @@
       "catch-JPja": "でちゅの",
       "catch-KRko": "그러찍",
       "catch-EUru": "бантик"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus17_263_Penelope.png"
   },
-  "mus18": {
+  {
     "id": 266,
     "file-name": "mus18",
     "name": {
@@ -13006,7 +13271,7 @@
     "personality": "Chic",
     "birthday-string": "December 15th",
     "birthday": "15/12",
-   "species": "Souris",
+    "species": "Souris",
     "gender": "Male",
     "subtype": "A",
     "hobby": "Le sport",
@@ -13031,9 +13296,10 @@
       "catch-JPja": "まあね",
       "catch-KRko": "꼬리꼬리",
       "catch-EUru": "сырок"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus18_264_Chadder.png"
   },
-  "ocp00": {
+  {
     "id": 267,
     "file-name": "ocp00",
     "name": {
@@ -13055,7 +13321,7 @@
     "personality": "Versatile",
     "birthday-string": "September 20th",
     "birthday": "20/9",
-   "species": "Poulpe",
+    "species": "Poulpe",
     "gender": "Male",
     "subtype": "B",
     "hobby": "Jouer",
@@ -13080,9 +13346,10 @@
       "catch-JPja": "タコ",
       "catch-KRko": "쭉쭉",
       "catch-EUru": "все пропало"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ocp00_265_Octavian.png"
   },
-  "ocp01": {
+  {
     "id": 268,
     "file-name": "ocp01",
     "name": {
@@ -13104,7 +13371,7 @@
     "personality": "Normale",
     "birthday-string": "June 26th",
     "birthday": "26/6",
-   "species": "Poulpe",
+    "species": "Poulpe",
     "gender": "Female",
     "subtype": "B",
     "hobby": "La musique",
@@ -13129,9 +13396,10 @@
       "catch-JPja": "きゃ",
       "catch-KRko": "캬캬",
       "catch-EUru": "хлюп"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ocp01_266_Marina.png"
   },
-  "ocp02": {
+  {
     "id": 269,
     "file-name": "ocp02",
     "name": {
@@ -13153,7 +13421,7 @@
     "personality": "Paresseuse",
     "birthday-string": "March 8th",
     "birthday": "8/3",
-   "species": "Poulpe",
+    "species": "Poulpe",
     "gender": "Male",
     "subtype": "A",
     "hobby": "La nature",
@@ -13178,9 +13446,10 @@
       "catch-JPja": "せやねん",
       "catch-KRko": "약히",
       "catch-EUru": "буль"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ocp02_267_Zucker.png"
   },
-  "ost00": {
+  {
     "id": 270,
     "file-name": "ost00",
     "name": {
@@ -13227,9 +13496,10 @@
       "catch-JPja": "やっぱし",
       "catch-KRko": "역시",
       "catch-EUru": "цыпленок"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ost00_268_Queenie.png"
   },
-  "ost01": {
+  {
     "id": 271,
     "file-name": "ost01",
     "name": {
@@ -13276,9 +13546,10 @@
       "catch-JPja": "ですの",
       "catch-KRko": "그렇지라",
       "catch-EUru": "растяжка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ost01_269_Gladys.png"
   },
-  "ost02": {
+  {
     "id": 272,
     "file-name": "ost02",
     "name": {
@@ -13325,9 +13596,10 @@
       "catch-JPja": "だチョー",
       "catch-KRko": "그렇다조",
       "catch-EUru": "быстро"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ost02_270_Sandy.png"
   },
-  "ost03": {
+  {
     "id": 273,
     "file-name": "ost03",
     "name": {
@@ -13374,9 +13646,10 @@
       "catch-JPja": "だメカ",
       "catch-KRko": "치지직",
       "catch-EUru": "дзынь"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ost03_271_Sprocket.png"
   },
-  "ost05": {
+  {
     "id": 274,
     "file-name": "ost05",
     "name": {
@@ -13423,9 +13696,10 @@
       "catch-JPja": "やだわね",
       "catch-KRko": "어머몰라",
       "catch-EUru": "дарлинг"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ost05_272_Julia.png"
   },
-  "ost06": {
+  {
     "id": 275,
     "file-name": "ost06",
     "name": {
@@ -13472,9 +13746,10 @@
       "catch-JPja": "およよ",
       "catch-KRko": "오요용",
       "catch-EUru": "не потей"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ost06_273_Cranston.png"
   },
-  "ost07": {
+  {
     "id": 276,
     "file-name": "ost07",
     "name": {
@@ -13521,9 +13796,10 @@
       "catch-JPja": "ホロロ",
       "catch-KRko": "호롤로",
       "catch-EUru": "хех"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ost07_274_Phil.png"
   },
-  "ost08": {
+  {
     "id": 277,
     "file-name": "ost08",
     "name": {
@@ -13570,9 +13846,10 @@
       "catch-JPja": "ですのね",
       "catch-KRko": "그랬구나",
       "catch-EUru": "вот так"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ost08_275_Blanche.png"
   },
-  "ost09": {
+  {
     "id": 278,
     "file-name": "ost09",
     "name": {
@@ -13619,9 +13896,10 @@
       "catch-JPja": "だミン",
       "catch-KRko": "밍고밍고",
       "catch-EUru": "розочка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ost09_276_Flora.png"
   },
-  "ost10": {
+  {
     "id": 279,
     "file-name": "ost10",
     "name": {
@@ -13668,9 +13946,10 @@
       "catch-JPja": "アツイわ",
       "catch-KRko": "아뜨뜨",
       "catch-EUru": "искорка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/ost10_277_Phoebe.png"
   },
-  "pbr00": {
+  {
     "id": 280,
     "file-name": "pbr00",
     "name": {
@@ -13717,9 +13996,10 @@
       "catch-JPja": "だワイ",
       "catch-KRko": "다꿇어",
       "catch-EUru": "пф-ф"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pbr00_278_Apollo.png"
   },
-  "pbr01": {
+  {
     "id": 281,
     "file-name": "pbr01",
     "name": {
@@ -13766,9 +14046,10 @@
       "catch-JPja": "カラカラ",
       "catch-KRko": "엄멈머",
       "catch-EUru": "вот"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pbr01_279_Amelia.png"
   },
-  "pbr02": {
+  {
     "id": 282,
     "file-name": "pbr02",
     "name": {
@@ -13815,9 +14096,10 @@
       "catch-JPja": "バサバサ",
       "catch-KRko": "퍼덕퍼덕",
       "catch-EUru": "глаз-алмаз"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pbr02_280_Pierce.png"
   },
-  "pbr03": {
+  {
     "id": 283,
     "file-name": "pbr03",
     "name": {
@@ -13864,9 +14146,10 @@
       "catch-JPja": "ッキーッ",
       "catch-KRko": "짜란～",
       "catch-EUru": "капитан"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pbr03_281_Buzz.png"
   },
-  "pbr05": {
+  {
     "id": 284,
     "file-name": "pbr05",
     "name": {
@@ -13913,9 +14196,10 @@
       "catch-JPja": "アリョイ",
       "catch-KRko": "내놔",
       "catch-EUru": "курлы"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pbr05_282_Avery.png"
   },
-  "pbr06": {
+  {
     "id": 285,
     "file-name": "pbr06",
     "name": {
@@ -13962,9 +14246,10 @@
       "catch-JPja": "ダンケ",
       "catch-KRko": "크헐",
       "catch-EUru": "красава"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pbr06_283_Frank.png"
   },
-  "pbr07": {
+  {
     "id": 286,
     "file-name": "pbr07",
     "name": {
@@ -14011,9 +14296,10 @@
       "catch-JPja": "やあッ",
       "catch-KRko": "호옷",
       "catch-EUru": "клекот"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pbr07_284_Sterling.png"
   },
-  "pbr08": {
+  {
     "id": 287,
     "file-name": "pbr08",
     "name": {
@@ -14060,9 +14346,10 @@
       "catch-JPja": "でーッス",
       "catch-KRko": "수리수리",
       "catch-EUru": "крыло"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pbr08_285_Keaton.png"
   },
-  "pbr09": {
+  {
     "id": 288,
     "file-name": "pbr09",
     "name": {
@@ -14109,9 +14396,10 @@
       "catch-JPja": "そうね",
       "catch-KRko": "그래맞아",
       "catch-EUru": "перышко"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pbr09_286_Celia.png"
   },
-  "pgn00": {
+  {
     "id": 289,
     "file-name": "pgn00",
     "name": {
@@ -14158,9 +14446,10 @@
       "catch-JPja": "だジョー",
       "catch-KRko": "랄라",
       "catch-EUru": "к-к-крошка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn00_287_Aurora.png"
   },
-  "pgn01": {
+  {
     "id": 290,
     "file-name": "pgn01",
     "name": {
@@ -14207,9 +14496,10 @@
       "catch-JPja": "だペン",
       "catch-KRko": "팽팽",
       "catch-EUru": "д-дружище"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn01_288_Roald.png"
   },
-  "pgn02": {
+  {
     "id": 291,
     "file-name": "pgn02",
     "name": {
@@ -14256,9 +14546,10 @@
       "catch-JPja": "ペンペン",
       "catch-KRko": "땡땡",
       "catch-EUru": "ч-чубрик"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn02_289_Cube.png"
   },
-  "pgn03": {
+  {
     "id": 292,
     "file-name": "pgn03",
     "name": {
@@ -14305,9 +14596,10 @@
       "catch-JPja": "ちぅねん",
       "catch-KRko": "아따",
       "catch-EUru": "ледок"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn03_290_Hopper.png"
   },
-  "pgn04": {
+  {
     "id": 293,
     "file-name": "pgn04",
     "name": {
@@ -14354,9 +14646,10 @@
       "catch-JPja": "ツルルン",
       "catch-KRko": "으쓱",
       "catch-EUru": "брр-хм"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn04_291_Friga.png"
   },
-  "pgn05": {
+  {
     "id": 294,
     "file-name": "pgn05",
     "name": {
@@ -14403,9 +14696,10 @@
       "catch-JPja": "ウフフ",
       "catch-KRko": "우훗훗",
       "catch-EUru": "м-милашка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn05_292_Gwen.png"
   },
-  "pgn06": {
+  {
     "id": 295,
     "file-name": "pgn06",
     "name": {
@@ -14452,9 +14746,10 @@
       "catch-JPja": "さぶー",
       "catch-KRko": "엣취",
       "catch-EUru": "брр"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn06_293_Puck.png"
   },
-  "pgn09": {
+  {
     "id": 296,
     "file-name": "pgn09",
     "name": {
@@ -14501,9 +14796,10 @@
       "catch-JPja": "だからね",
       "catch-KRko": "뒤집어",
       "catch-EUru": "вот так вот"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn09_294_Wade.png"
   },
-  "pgn10": {
+  {
     "id": 297,
     "file-name": "pgn10",
     "name": {
@@ -14550,9 +14846,10 @@
       "catch-JPja": "ツーツツ",
       "catch-KRko": "에헴헴",
       "catch-EUru": "человек"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn10_295_Boomer.png"
   },
-  "pgn11": {
+  {
     "id": 298,
     "file-name": "pgn11",
     "name": {
@@ -14599,9 +14896,10 @@
       "catch-JPja": "クルクル",
       "catch-KRko": "펭글펭글",
       "catch-EUru": "ластошлеп"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn11_296_Iggly.png"
   },
-  "pgn12": {
+  {
     "id": 299,
     "file-name": "pgn12",
     "name": {
@@ -14648,9 +14946,10 @@
       "catch-JPja": "ベイベッ",
       "catch-KRko": "베이베",
       "catch-EUru": "огонек"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn12_297_Tex.png"
   },
-  "pgn13": {
+  {
     "id": 300,
     "file-name": "pgn13",
     "name": {
@@ -14697,9 +14996,10 @@
       "catch-JPja": "じゃんよ",
       "catch-KRko": "맞잖아",
       "catch-EUru": "чхи"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn13_298_Flo.png"
   },
-  "pgn14": {
+  {
     "id": 301,
     "file-name": "pgn14",
     "name": {
@@ -14746,9 +15046,10 @@
       "catch-JPja": "ヒヤリ",
       "catch-KRko": "꽁꽁",
       "catch-EUru": "пенка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn14_299_Sprinkle.png"
   },
-  "pig00": {
+  {
     "id": 302,
     "file-name": "pig00",
     "name": {
@@ -14795,9 +15096,10 @@
       "catch-JPja": "どもども",
       "catch-KRko": "꿀꿀",
       "catch-EUru": "хряк-бряк"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig00_300_Curly.png"
   },
-  "pig01": {
+  {
     "id": 303,
     "file-name": "pig01",
     "name": {
@@ -14844,9 +15146,10 @@
       "catch-JPja": "だわさ",
       "catch-KRko": "거라예",
       "catch-EUru": "хрюша"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig01_10_Truffles.png"
   },
-  "pig02": {
+  {
     "id": 304,
     "file-name": "pig02",
     "name": {
@@ -14893,9 +15196,10 @@
       "catch-JPja": "まんねん",
       "catch-KRko": "꾸엑",
       "catch-EUru": "хряк"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig02_301_Rasher.png"
   },
-  "pig03": {
+  {
     "id": 305,
     "file-name": "pig03",
     "name": {
@@ -14942,9 +15246,10 @@
       "catch-JPja": "とかね",
       "catch-KRko": "아님말구",
       "catch-EUru": "хрюк-хрюк"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig03_302_Hugh.png"
   },
-  "pig04": {
+  {
     "id": 306,
     "file-name": "pig04",
     "name": {
@@ -14991,9 +15296,10 @@
       "catch-JPja": "よぅ",
       "catch-KRko": "예예",
       "catch-EUru": "хрю-ю-ю"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig04_303_Lucy.png"
   },
-  "pig05": {
+  {
     "id": 307,
     "file-name": "pig05",
     "name": {
@@ -15040,9 +15346,10 @@
       "catch-JPja": "だブー",
       "catch-KRko": "꼬르륵",
       "catch-EUru": "хрю"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig05_304_Crackle.png"
   },
-  "pig08": {
+  {
     "id": 308,
     "file-name": "pig08",
     "name": {
@@ -15089,9 +15396,10 @@
       "catch-JPja": "でアール",
       "catch-KRko": "이노라",
       "catch-EUru": "сосиска"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig08_305_Cobb.png"
   },
-  "pig09": {
+  {
     "id": 309,
     "file-name": "pig09",
     "name": {
@@ -15138,9 +15446,10 @@
       "catch-JPja": "ブヒッ",
       "catch-KRko": "쌀",
       "catch-EUru": "хрю-хряк"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig09_306_Boris.png"
   },
-  "pig10": {
+  {
     "id": 310,
     "file-name": "pig10",
     "name": {
@@ -15187,9 +15496,10 @@
       "catch-JPja": "うん",
       "catch-KRko": "유후",
       "catch-EUru": "хрюля"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig10_307_Maggie.png"
   },
-  "pig11": {
+  {
     "id": 311,
     "file-name": "pig11",
     "name": {
@@ -15236,9 +15546,10 @@
       "catch-JPja": "ぷるる",
       "catch-KRko": "아앙",
       "catch-EUru": "хрюмпатяга"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig11_308_Peggy.png"
   },
-  "pig13": {
+  {
     "id": 312,
     "file-name": "pig13",
     "name": {
@@ -15285,9 +15596,10 @@
       "catch-JPja": "ちゃりん",
       "catch-KRko": "땡그랑",
       "catch-EUru": "хрюк"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig13_309_Gala.png"
   },
-  "pig14": {
+  {
     "id": 313,
     "file-name": "pig14",
     "name": {
@@ -15334,9 +15646,10 @@
       "catch-JPja": "だトン",
       "catch-KRko": "떼끼에로",
       "catch-EUru": "хряк-с"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig14_310_Chops.png"
   },
-  "pig15": {
+  {
     "id": 314,
     "file-name": "pig15",
     "name": {
@@ -15383,9 +15696,10 @@
       "catch-JPja": "ウリウリ",
       "catch-KRko": "냠냠",
       "catch-EUru": "уи-и-и"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig15_311_Kevin.png"
   },
-  "pig16": {
+  {
     "id": 315,
     "file-name": "pig16",
     "name": {
@@ -15432,9 +15746,10 @@
       "catch-JPja": "やだも～",
       "catch-KRko": "어우야",
       "catch-EUru": "хрюшка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig16_312_Pancetti.png"
   },
-  "pig17": {
+  {
     "id": 316,
     "file-name": "pig17",
     "name": {
@@ -15481,9 +15796,10 @@
       "catch-JPja": "ブフフ",
       "catch-KRko": "꿀꾸루",
       "catch-EUru": "хрю-хрю"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig17_313_Agnes.png"
   },
-  "rbt00": {
+  {
     "id": 317,
     "file-name": "rbt00",
     "name": {
@@ -15530,9 +15846,10 @@
       "catch-JPja": "みたいな",
       "catch-KRko": "그렇지뭐",
       "catch-EUru": "хи-хи"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt00_314_Bunnie.png"
   },
-  "rbt01": {
+  {
     "id": 318,
     "file-name": "rbt01",
     "name": {
@@ -15579,9 +15896,10 @@
       "catch-JPja": "ラン",
       "catch-KRko": "룰루랄라",
       "catch-EUru": "малыш"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt01_315_Dotty.png"
   },
-  "rbt02": {
+  {
     "id": 319,
     "file-name": "rbt02",
     "name": {
@@ -15628,9 +15946,10 @@
       "catch-JPja": "はにょ",
       "catch-KRko": "삐용",
       "catch-EUru": "прыг-скок"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt02_316_Coco.png"
   },
-  "rbt03": {
+  {
     "id": 320,
     "file-name": "rbt03",
     "name": {
@@ -15677,9 +15996,10 @@
       "catch-JPja": "ニンニン",
       "catch-KRko": "닌닌",
       "catch-EUru": "заяссс"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt03_317_Snake.png"
   },
-  "rbt04": {
+  {
     "id": 321,
     "file-name": "rbt04",
     "name": {
@@ -15726,9 +16046,10 @@
       "catch-JPja": "ムホッ",
       "catch-KRko": "쿨럭",
       "catch-EUru": "мон зайшу"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt04_318_Gaston.png"
   },
-  "rbt05": {
+  {
     "id": 322,
     "file-name": "rbt05",
     "name": {
@@ -15775,9 +16096,10 @@
       "catch-JPja": "だっち",
       "catch-KRko": "꺄오",
       "catch-EUru": "зайчик мой"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt05_319_Gabi.png"
   },
-  "rbt06": {
+  {
     "id": 323,
     "file-name": "rbt06",
     "name": {
@@ -15824,9 +16146,10 @@
       "catch-JPja": "なのサ",
       "catch-KRko": "울랄라",
       "catch-EUru": "зайчишка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt06_320_Pippy.png"
   },
-  "rbt07": {
+  {
     "id": 324,
     "file-name": "rbt07",
     "name": {
@@ -15873,9 +16196,10 @@
       "catch-JPja": "ってさ",
       "catch-KRko": "라던데",
       "catch-EUru": "зайчонок"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt07_321_Tiffany.png"
   },
-  "rbt08": {
+  {
     "id": 325,
     "file-name": "rbt08",
     "name": {
@@ -15922,9 +16246,10 @@
       "catch-JPja": "まろ",
       "catch-KRko": "땡글",
       "catch-EUru": "зайпончик"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt08_322_Genji.png"
   },
-  "rbt09": {
+  {
     "id": 326,
     "file-name": "rbt09",
     "name": {
@@ -15971,9 +16296,10 @@
       "catch-JPja": "フツーに",
       "catch-KRko": "보통이지",
       "catch-EUru": "ушки"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt09_323_Ruby.png"
   },
-  "rbt10": {
+  {
     "id": 327,
     "file-name": "rbt10",
     "name": {
@@ -16020,9 +16346,10 @@
       "catch-JPja": "ですね",
       "catch-KRko": "그렇잖아",
       "catch-EUru": "зайчище"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt10_324_Doc.png"
   },
-  "rbt11": {
+  {
     "id": 328,
     "file-name": "rbt11",
     "name": {
@@ -16069,9 +16396,10 @@
       "catch-JPja": "ぶいぶい",
       "catch-KRko": "아으셔",
       "catch-EUru": "скок-поскок"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt11_325_Claude.png"
   },
-  "rbt12": {
+  {
     "id": 329,
     "file-name": "rbt12",
     "name": {
@@ -16118,9 +16446,10 @@
       "catch-JPja": "ルララ",
       "catch-KRko": "쇼봉",
       "catch-EUru": "морковка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt12_326_Francine.png"
   },
-  "rbt13": {
+  {
     "id": 330,
     "file-name": "rbt13",
     "name": {
@@ -16167,9 +16496,10 @@
       "catch-JPja": "リララ",
       "catch-KRko": "샤방",
       "catch-EUru": "золотце"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt13_327_Chrissy.png"
   },
-  "rbt14": {
+  {
     "id": 331,
     "file-name": "rbt14",
     "name": {
@@ -16216,9 +16546,10 @@
       "catch-JPja": "ぷぅ",
       "catch-KRko": "뿌우",
       "catch-EUru": "топ-топ"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt14_328_Hopkins.png"
   },
-  "rbt15": {
+  {
     "id": 332,
     "file-name": "rbt15",
     "name": {
@@ -16265,9 +16596,10 @@
       "catch-JPja": "アミーゴ",
       "catch-KRko": "아미고",
       "catch-EUru": "амиго"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt15_329_O_Hare.png"
   },
-  "rbt16": {
+  {
     "id": 333,
     "file-name": "rbt16",
     "name": {
@@ -16314,9 +16646,10 @@
       "catch-JPja": "まじで",
       "catch-KRko": "진짜진짜",
       "catch-EUru": "карамелька"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt16_330_Carmen.png"
   },
-  "rbt17": {
+  {
     "id": 334,
     "file-name": "rbt17",
     "name": {
@@ -16363,9 +16696,10 @@
       "catch-JPja": "ヤバッ",
       "catch-KRko": "어뜨케",
       "catch-EUru": "вкусняшка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt17_331_Bonbon.png"
   },
-  "rbt18": {
+  {
     "id": 335,
     "file-name": "rbt18",
     "name": {
@@ -16412,9 +16746,10 @@
       "catch-JPja": "そうさね",
       "catch-KRko": "나도나도",
       "catch-EUru": "зайчелло"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt18_332_Cole.png"
   },
-  "rbt19": {
+  {
     "id": 336,
     "file-name": "rbt19",
     "name": {
@@ -16461,9 +16796,10 @@
       "catch-JPja": "だムーン",
       "catch-KRko": "거봐라",
       "catch-EUru": "зайцехвост"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt19_333_Mira.png"
   },
-  "rhn00": {
+  {
     "id": 337,
     "file-name": "rhn00",
     "name": {
@@ -16510,9 +16846,10 @@
       "catch-JPja": "ですサイ",
       "catch-KRko": "아뿔소",
       "catch-EUru": "бабах"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rhn00_334_Tank.png"
   },
-  "rhn01": {
+  {
     "id": 338,
     "file-name": "rhn01",
     "name": {
@@ -16559,9 +16896,10 @@
       "catch-JPja": "ンフ",
       "catch-KRko": "훗",
       "catch-EUru": "босс"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rhn01_335_Rhonda.png"
   },
-  "rhn02": {
+  {
     "id": 339,
     "file-name": "rhn02",
     "name": {
@@ -16608,9 +16946,10 @@
       "catch-JPja": "でヤンキ",
       "catch-KRko": "빠직",
       "catch-EUru": "бродяга"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rhn02_336_Spike.png"
   },
-  "rhn04": {
+  {
     "id": 340,
     "file-name": "rhn04",
     "name": {
@@ -16657,9 +16996,10 @@
       "catch-JPja": "のネン",
       "catch-KRko": "뿔뿔",
       "catch-EUru": "шнобель"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rhn04_337_Hornsby.png"
   },
-  "rhn07": {
+  {
     "id": 341,
     "file-name": "rhn07",
     "name": {
@@ -16706,9 +17046,10 @@
       "catch-JPja": "でシュガ",
       "catch-KRko": "베리베리",
       "catch-EUru": "кексик"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rhn07_338_Merengue.png"
   },
-  "rhn08": {
+  {
     "id": 342,
     "file-name": "rhn08",
     "name": {
@@ -16755,9 +17096,10 @@
       "catch-JPja": "パネェ",
       "catch-KRko": "킁킁",
       "catch-EUru": "йоу"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/rhn08_339_Ren�e.png"
   },
-  "shp00": {
+  {
     "id": 343,
     "file-name": "shp00",
     "name": {
@@ -16804,9 +17146,10 @@
       "catch-JPja": "なのね",
       "catch-KRko": "쩝",
       "catch-EUru": "бе-е"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp00_340_Vesta.png"
   },
-  "shp01": {
+  {
     "id": 344,
     "file-name": "shp01",
     "name": {
@@ -16853,9 +17196,10 @@
       "catch-JPja": "アンドゥ",
       "catch-KRko": "앤쥬",
       "catch-EUru": "мила-ашка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp01_341_Baabara.png"
   },
-  "shp02": {
+  {
     "id": 345,
     "file-name": "shp02",
     "name": {
@@ -16902,9 +17246,10 @@
       "catch-JPja": "メェー",
       "catch-KRko": "메에에",
       "catch-EUru": "ребрышко"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp02_342_Eunice.png"
   },
-  "shp03": {
+  {
     "id": 346,
     "file-name": "shp03",
     "name": {
@@ -16951,9 +17296,10 @@
       "catch-JPja": "ウール",
       "catch-KRko": "울",
       "catch-EUru": "бэ-дабинь"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp03_11_Stella.png"
   },
-  "shp04": {
+  {
     "id": 347,
     "file-name": "shp04",
     "name": {
@@ -17000,9 +17346,10 @@
       "catch-JPja": "ありんす",
       "catch-KRko": "포근포근",
       "catch-EUru": "бэ-эби"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp04_343_Cashmere.png"
   },
-  "shp07": {
+  {
     "id": 348,
     "file-name": "shp07",
     "name": {
@@ -17049,9 +17396,10 @@
       "catch-JPja": "ですのよ",
       "catch-KRko": "됐거든",
       "catch-EUru": "пасемся"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp07_344_Willow.png"
   },
-  "shp08": {
+  {
     "id": 349,
     "file-name": "shp08",
     "name": {
@@ -17098,9 +17446,10 @@
       "catch-JPja": "ベイビー",
       "catch-KRko": "자기야",
       "catch-EUru": "завитушка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp08_345_Curlos.png"
   },
-  "shp09": {
+  {
     "id": 350,
     "file-name": "shp09",
     "name": {
@@ -17147,9 +17496,10 @@
       "catch-JPja": "イシシ",
       "catch-KRko": "꺄르르",
       "catch-EUru": "овечка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp09_346_Wendy.png"
   },
-  "shp10": {
+  {
     "id": 351,
     "file-name": "shp10",
     "name": {
@@ -17196,9 +17546,10 @@
       "catch-JPja": "まつわ",
       "catch-KRko": "달려",
       "catch-EUru": "сосенка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp10_347_Timbra.png"
   },
-  "shp11": {
+  {
     "id": 352,
     "file-name": "shp11",
     "name": {
@@ -17245,9 +17596,10 @@
       "catch-JPja": "だポテ",
       "catch-KRko": "포테토",
       "catch-EUru": "мутончик"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp11_348_Frita.png"
   },
-  "shp12": {
+  {
     "id": 353,
     "file-name": "shp12",
     "name": {
@@ -17294,9 +17646,10 @@
       "catch-JPja": "おつかれ",
       "catch-KRko": "수고",
       "catch-EUru": "травинка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp12_349_Muffy.png"
   },
-  "shp13": {
+  {
     "id": 354,
     "file-name": "shp13",
     "name": {
@@ -17343,9 +17696,10 @@
       "catch-JPja": "グフフ",
       "catch-KRko": "므흐흐",
       "catch-EUru": "бе-бе"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp13_350_Pietro.png"
   },
-  "shp15": {
+  {
     "id": 355,
     "file-name": "shp15",
     "name": {
@@ -17392,9 +17746,10 @@
       "catch-JPja": "ふんふん",
       "catch-KRko": "뿜뿜",
       "catch-EUru": "точно-точно"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp15_351_Dom.png"
   },
-  "squ00": {
+  {
     "id": 356,
     "file-name": "squ00",
     "name": {
@@ -17441,9 +17796,10 @@
       "catch-JPja": "なのよ",
       "catch-KRko": "거얌",
       "catch-EUru": "лень"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ00_352_Peanut.png"
   },
-  "squ01": {
+  {
     "id": 357,
     "file-name": "squ01",
     "name": {
@@ -17490,9 +17846,10 @@
       "catch-JPja": "ふふん",
       "catch-KRko": "헤헤헤",
       "catch-EUru": "крошка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ01_353_Blaire.png"
   },
-  "squ02": {
+  {
     "id": 358,
     "file-name": "squ02",
     "name": {
@@ -17539,9 +17896,10 @@
       "catch-JPja": "でしゅ",
       "catch-KRko": "예용",
       "catch-EUru": "дружище"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ02_354_Filbert.png"
   },
-  "squ03": {
+  {
     "id": 359,
     "file-name": "squ03",
     "name": {
@@ -17588,9 +17946,10 @@
       "catch-JPja": "つんっ",
       "catch-KRko": "쯧쯧",
       "catch-EUru": "бурундук"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ03_355_Pecan.png"
   },
-  "squ04": {
+  {
     "id": 360,
     "file-name": "squ04",
     "name": {
@@ -17637,9 +17996,10 @@
       "catch-JPja": "ガジガジ",
       "catch-KRko": "송송",
       "catch-EUru": "орешек"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ04_356_Nibbles.png"
   },
-  "squ05": {
+  {
     "id": 361,
     "file-name": "squ05",
     "name": {
@@ -17686,9 +18046,10 @@
       "catch-JPja": "せいやっ",
       "catch-KRko": "흠냐",
       "catch-EUru": "коллега"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ05_357_Agent%20S.png"
   },
-  "squ06": {
+  {
     "id": 362,
     "file-name": "squ06",
     "name": {
@@ -17735,9 +18096,10 @@
       "catch-JPja": "ユー",
       "catch-KRko": "휴",
       "catch-EUru": "уа-а-а"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ06_358_Caroline.png"
   },
-  "squ07": {
+  {
     "id": 363,
     "file-name": "squ07",
     "name": {
@@ -17784,9 +18146,10 @@
       "catch-JPja": "ったら",
       "catch-KRko": "까꿍",
       "catch-EUru": "мускатик"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ07_359_Sally.png"
   },
-  "squ08": {
+  {
     "id": 364,
     "file-name": "squ08",
     "name": {
@@ -17833,9 +18196,10 @@
       "catch-JPja": "ピカッ",
       "catch-KRko": "콰광",
       "catch-EUru": "вж-ж-ж"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ08_360_Static.png"
   },
-  "squ09": {
+  {
     "id": 365,
     "file-name": "squ09",
     "name": {
@@ -17882,9 +18246,10 @@
       "catch-JPja": "うっふん",
       "catch-KRko": "우훗",
       "catch-EUru": "ах-ах"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ09_361_Mint.png"
   },
-  "squ10": {
+  {
     "id": 366,
     "file-name": "squ10",
     "name": {
@@ -17931,9 +18296,10 @@
       "catch-JPja": "キッ",
       "catch-KRko": "사각사각",
       "catch-EUru": "арахис"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ10_362_Ricky.png"
   },
-  "squ11": {
+  {
     "id": 367,
     "file-name": "squ11",
     "name": {
@@ -17980,9 +18346,10 @@
       "catch-JPja": "ララー",
       "catch-KRko": "랄랄라",
       "catch-EUru": "ух ты"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ11_363_Cally.png"
   },
-  "squ13": {
+  {
     "id": 368,
     "file-name": "squ13",
     "name": {
@@ -18029,9 +18396,10 @@
       "catch-JPja": "やるわね",
       "catch-KRko": "굿굿",
       "catch-EUru": "ладно"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ13_364_Tasha.png"
   },
-  "squ14": {
+  {
     "id": 369,
     "file-name": "squ14",
     "name": {
@@ -18078,9 +18446,10 @@
       "catch-JPja": "ひゅん",
       "catch-KRko": "퓨우",
       "catch-EUru": "хрум"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ14_365_Sylvana.png"
   },
-  "squ15": {
+  {
     "id": 370,
     "file-name": "squ15",
     "name": {
@@ -18127,9 +18496,10 @@
       "catch-JPja": "デス",
       "catch-KRko": "도톨도톨",
       "catch-EUru": "чок-чок"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ15_366_Poppy.png"
   },
-  "squ16": {
+  {
     "id": 371,
     "file-name": "squ16",
     "name": {
@@ -18176,9 +18546,10 @@
       "catch-JPja": "クリクリ",
       "catch-KRko": "땡글땡글",
       "catch-EUru": "треники"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ16_367_Sheldon.png"
   },
-  "squ17": {
+  {
     "id": 372,
     "file-name": "squ17",
     "name": {
@@ -18225,9 +18596,10 @@
       "catch-JPja": "あながち",
       "catch-KRko": "어차피",
       "catch-EUru": "тихоня"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ17_368_Marshal.png"
   },
-  "squ18": {
+  {
     "id": 373,
     "file-name": "squ18",
     "name": {
@@ -18274,9 +18646,10 @@
       "catch-JPja": "だもんね",
       "catch-KRko": "알아알아",
       "catch-EUru": "фундук"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ18_369_Hazel.png"
   },
-  "tig00": {
+  {
     "id": 374,
     "file-name": "tig00",
     "name": {
@@ -18323,9 +18696,10 @@
       "catch-JPja": "だガー",
       "catch-KRko": "근데",
       "catch-EUru": "гр-р-рольф"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/tig00_370_Rolf.png"
   },
-  "tig01": {
+  {
     "id": 375,
     "file-name": "tig01",
     "name": {
@@ -18372,9 +18746,10 @@
       "catch-JPja": "まったく",
       "catch-KRko": "내참",
       "catch-EUru": "манго"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/tig01_371_Rowan.png"
   },
-  "tig02": {
+  {
     "id": 376,
     "file-name": "tig02",
     "name": {
@@ -18421,9 +18796,10 @@
       "catch-JPja": "だトラ",
       "catch-KRko": "으르렁",
       "catch-EUru": "р-рык"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/tig02_372_Tybalt.png"
   },
-  "tig03": {
+  {
     "id": 377,
     "file-name": "tig03",
     "name": {
@@ -18470,9 +18846,10 @@
       "catch-JPja": "なのぉー",
       "catch-KRko": "쪼옥쪽",
       "catch-EUru": "р-р-рф"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/tig03_373_Bangle.png"
   },
-  "tig04": {
+  {
     "id": 378,
     "file-name": "tig04",
     "name": {
@@ -18519,9 +18896,10 @@
       "catch-JPja": "じゃが",
       "catch-KRko": "어흥",
       "catch-EUru": "р-разминка"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/tig04_374_Leonardo.png"
   },
-  "tig05": {
+  {
     "id": 379,
     "file-name": "tig05",
     "name": {
@@ -18568,9 +18946,10 @@
       "catch-JPja": "アハ～ン",
       "catch-KRko": "잇힝",
       "catch-EUru": "о-ля-ля"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/tig05_375_Claudia.png"
   },
-  "tig06": {
+  {
     "id": 380,
     "file-name": "tig06",
     "name": {
@@ -18617,9 +18996,10 @@
       "catch-JPja": "でヒョウ",
       "catch-KRko": "그래호",
       "catch-EUru": "хлоп-хлоп"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/tig06_376_Bianca.png"
   },
-  "wol00": {
+  {
     "id": 381,
     "file-name": "wol00",
     "name": {
@@ -18666,9 +19046,10 @@
       "catch-JPja": "やんか",
       "catch-KRko": "그렇잖여",
       "catch-EUru": "фыр-р-рф"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/wol00_377_Chief.png"
   },
-  "wol01": {
+  {
     "id": 382,
     "file-name": "wol01",
     "name": {
@@ -18715,9 +19096,10 @@
       "catch-JPja": "だぜよ",
       "catch-KRko": "봐봐",
       "catch-EUru": "ау-у-у"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/wol01_378_Lobo.png"
   },
-  "wol02": {
+  {
     "id": 383,
     "file-name": "wol02",
     "name": {
@@ -18764,9 +19146,10 @@
       "catch-JPja": "のな",
       "catch-KRko": "거봐",
       "catch-EUru": "ау-рр"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/wol02_379_Wolfgang.png"
   },
-  "wol03": {
+  {
     "id": 384,
     "file-name": "wol03",
     "name": {
@@ -18813,9 +19196,10 @@
       "catch-JPja": "ステキね",
       "catch-KRko": "멋져",
       "catch-EUru": "цап"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/wol03_380_Whitney.png"
   },
-  "wol04": {
+  {
     "id": 385,
     "file-name": "wol04",
     "name": {
@@ -18862,9 +19246,10 @@
       "catch-JPja": "ゴホゴホ",
       "catch-KRko": "음음",
       "catch-EUru": "ом-м-м..."
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/wol04_381_Dobie.png"
   },
-  "wol05": {
+  {
     "id": 386,
     "file-name": "wol05",
     "name": {
@@ -18911,9 +19296,10 @@
       "catch-JPja": "なのだわ",
       "catch-KRko": "유행이야",
       "catch-EUru": "хрусть"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/wol05_382_Freya.png"
   },
-  "wol06": {
+  {
     "id": 387,
     "file-name": "wol06",
     "name": {
@@ -18960,9 +19346,10 @@
       "catch-JPja": "ですダス",
       "catch-KRko": "콜록콜록",
       "catch-EUru": "грызь"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/wol06_383_Fang.png"
   },
-  "wol08": {
+  {
     "id": 388,
     "file-name": "wol08",
     "name": {
@@ -19009,9 +19396,10 @@
       "catch-JPja": "だわよ",
       "catch-KRko": "그러하다",
       "catch-EUru": "вздор"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/wol08_384_Vivian.png"
   },
-  "wol09": {
+  {
     "id": 389,
     "file-name": "wol09",
     "name": {
@@ -19058,9 +19446,10 @@
       "catch-JPja": "フワワ",
       "catch-KRko": "후와와",
       "catch-EUru": "пилот"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/wol09_385_Skye.png"
   },
-  "wol10": {
+  {
     "id": 390,
     "file-name": "wol10",
     "name": {
@@ -19107,9 +19496,10 @@
       "catch-JPja": "オゥイェ",
       "catch-KRko": "오우예",
       "catch-EUru": "вожак"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/wol10_386_Kyle.png"
   },
-  "wol12": {
+  {
     "id": 391,
     "file-name": "wol12",
     "name": {
@@ -19156,6 +19546,7 @@
       "catch-JPja": "アハッ",
       "catch-KRko": "아하핫",
       "catch-EUru": "фокстрот"
-    }
+    },
+    "house": "https://acnhcdn.com/drivesync/render/houses/wol12_387_Audie.png"
   }
-}
+]
