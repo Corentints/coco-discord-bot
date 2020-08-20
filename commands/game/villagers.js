@@ -20,7 +20,7 @@ module.exports = {
 		villagers = JSON.parse(villagers);
 		villagers = Object.values(villagers);
 		villagers.forEach(function(villager) {
-			if (villager['name']['name-EUfr'].toLowerCase() === args[0].toLowerCase()) {
+			if (villager['name']['name-EUfr'].toLowerCase() === args[0].toLowerCase() || villager['name']['name-USen'].toLowerCase() === args[0].toLowerCase()) {
 				const desc = description(villager);
 				const embed = new Discord.MessageEmbed()
 					.setColor('#0099ff')

@@ -11,7 +11,7 @@ module.exports = {
 
 		// houseImage
 		villagers.forEach(function(villager) {
-			if (villager['name']['name-EUfr'].toLowerCase() === args[0].toLowerCase()) {
+			if (villager['name']['name-EUfr'].toLowerCase() === args[0].toLowerCase() || villager['name']['name-USen'].toLowerCase() === args[0].toLowerCase()) {
 				const embed = new Discord.MessageEmbed()
 					.setColor(villager['bubble-color'])
 					.setAuthor('Maison de ' + villager['name']['name-EUfr'], villager['icon_uri'])
