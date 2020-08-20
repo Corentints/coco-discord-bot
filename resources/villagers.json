@@ -47,7 +47,8 @@
       "catch-KRko": "임돠",
       "catch-EUru": "апчхи"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ant00_12_Cyrano.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ant00_12_Cyrano.png",
+    "colors": "jaune & beige"
   },
   {
     "id": 2,
@@ -97,7 +98,8 @@
       "catch-KRko": "진짜로",
       "catch-EUru": "го-го-го"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ant01_13_Antonio.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ant01_13_Antonio.png",
+    "colors": "bleu clair & bleu"
   },
   {
     "id": 3,
@@ -147,7 +149,8 @@
       "catch-KRko": "라지요",
       "catch-EUru": "снуф-снуф"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ant02_14_Pango.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ant02_14_Pango.png",
+    "colors": "orange & violet"
   },
   {
     "id": 4,
@@ -197,7 +200,8 @@
       "catch-KRko": "정말",
       "catch-EUru": "хрум-хрум"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ant03_15_Anabelle.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ant03_15_Anabelle.png",
+    "colors": "vert & bleu"
   },
   {
     "id": 5,
@@ -247,7 +251,8 @@
       "catch-KRko": "추릅",
       "catch-EUru": "шмыг"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ant06_16_Snooty.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ant06_16_Snooty.png",
+    "colors": "vert & jaune"
   },
   {
     "id": 6,
@@ -297,7 +302,8 @@
       "catch-KRko": "하양하양",
       "catch-EUru": "жуй-жуй"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ant08_17_Annalisa.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ant08_17_Annalisa.png",
+    "colors": "rouge & rose"
   },
   {
     "id": 7,
@@ -347,7 +353,8 @@
       "catch-KRko": "무쵸",
       "catch-EUru": "уф-уф"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ant09_18_Olaf.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ant09_18_Olaf.png",
+    "colors": "rouge & noir"
   },
   {
     "id": 8,
@@ -397,21 +404,22 @@
       "catch-KRko": "입네다",
       "catch-EUru": "быр-быр"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/bea00_19_Teddy.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea00_19_Teddy.png",
+    "colors": "jaune & orange"
   },
   {
     "id": 9,
     "file-name": "bea01",
     "name": {
-      "name-USen": "Pinky",
-      "name-EUen": "Pinky",
+      "name-USen": "rosey",
+      "name-EUen": "rosey",
       "name-EUde": "Pia",
       "name-EUes": "Violeta",
       "name-USes": "Violeta",
       "name-EUfr": "Rosine",
       "name-USfr": "Rosine",
-      "name-EUit": "Pinky",
-      "name-EUnl": "Pinky",
+      "name-EUit": "rosey",
+      "name-EUnl": "rosey",
       "name-CNzh": "丹丹",
       "name-TWzh": "丹丹",
       "name-JPja": "タンタン",
@@ -447,7 +455,8 @@
       "catch-KRko": "와",
       "catch-EUru": "ну и ну"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/bea01_20_Pinky.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea01_20_rosey.png",
+    "colors": "rouge & rose"
   },
   {
     "id": 10,
@@ -497,7 +506,8 @@
       "catch-KRko": "음",
       "catch-EUru": "махрово"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/bea02_388_Curt.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea02_388_Curt.png",
+    "colors": "bleu & blanc"
   },
   {
     "id": 11,
@@ -547,7 +557,8 @@
       "catch-KRko": "그럼",
       "catch-EUru": "ай-яй"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/bea03_21_Chow.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea03_21_Chow.png",
+    "colors": "noir & blanc"
   },
   {
     "id": 12,
@@ -597,7 +608,8 @@
       "catch-KRko": "힘내",
       "catch-EUru": "спа-а-ать"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/bea05_22_Nate.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea05_22_Nate.png",
+    "colors": "blanc & vert"
   },
   {
     "id": 13,
@@ -647,7 +659,8 @@
       "catch-KRko": "어쩌라구",
       "catch-EUru": "бур-бур"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/bea06_23_Groucho.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea06_23_Groucho.png",
+    "colors": "noir & gris"
   },
   {
     "id": 14,
@@ -697,7 +710,8 @@
       "catch-KRko": "사르르",
       "catch-EUru": "ме-е-ед"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/bea07_24_Tutu.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea07_24_Tutu.png",
+    "colors": "rose & rouge"
   },
   {
     "id": 15,
@@ -747,7 +761,8 @@
       "catch-KRko": "그라지",
       "catch-EUru": "гррум"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/bea08_25_Ursala.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea08_25_Ursala.png",
+    "colors": "rouge & orange"
   },
   {
     "id": 16,
@@ -797,7 +812,8 @@
       "catch-KRko": "냅둬",
       "catch-EUru": "грр"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/bea09_26_Grizzly.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea09_26_Grizzly.png",
+    "colors": "rouge & noir"
   },
   {
     "id": 17,
@@ -847,7 +863,8 @@
       "catch-KRko": "야호야호",
       "catch-EUru": "йодль"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/bea10_27_Paula.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea10_27_Paula.png",
+    "colors": "orange & vert"
   },
   {
     "id": 18,
@@ -897,7 +914,8 @@
       "catch-KRko": "터프",
       "catch-EUru": "гарр-сон"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/bea11_28_Ike.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea11_28_Ike.png",
+    "colors": "vert & bleu"
   },
   {
     "id": 19,
@@ -947,7 +965,8 @@
       "catch-KRko": "으랏차차",
       "catch-EUru": "ого-го"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/bea12_29_Charlise.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea12_29_Charlise.png",
+    "colors": "rouge & orange"
   },
   {
     "id": 20,
@@ -997,7 +1016,8 @@
       "catch-KRko": "오홍홍",
       "catch-EUru": "усы мои"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/bea13_30_Beardo.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea13_30_Beardo.png",
+    "colors": "marron & bleu"
   },
   {
     "id": 21,
@@ -1047,7 +1067,8 @@
       "catch-KRko": "라저",
       "catch-EUru": "штрудель"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/bea14_31_Klaus.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea14_31_Klaus.png",
+    "colors": "gris & blanc"
   },
   {
     "id": 22,
@@ -1097,7 +1118,8 @@
       "catch-KRko": "낼름",
       "catch-EUru": "сладенько"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/bea15_32_Megan.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea15_32_Megan.png",
+    "colors": "jaune & bleu clair"
   },
   {
     "id": 23,
@@ -1147,7 +1169,8 @@
       "catch-KRko": "그쵸",
       "catch-EUru": "хей-хей"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/brd00_33_Jay.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd00_33_Jay.png",
+    "colors": "bleu & bleu clair"
   },
   {
     "id": 24,
@@ -1180,7 +1203,7 @@
     "image_uri": "https://acnhapi.com/v1/images/villagers/24",
     "bubble-color": "#6b75ce",
     "text-color": "#9ae8df",
-    "saying": "Always keep your wings manicured so you can fly away.",
+    "saying": "Always keep your wings manicurouge so you can fly away.",
     "catch-translations": {
       "catch-USen": "la-di-da",
       "catch-EUen": "la-di-da",
@@ -1197,7 +1220,8 @@
       "catch-KRko": "글쎄",
       "catch-EUru": "ля-ля-ля"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/brd01_34_Robin.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd01_34_Robin.png",
+    "colors": "bleu clair & violet"
   },
   {
     "id": 25,
@@ -1247,7 +1271,8 @@
       "catch-KRko": "이어라",
       "catch-EUru": "чик-чирик"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/brd02_35_Anchovy.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd02_35_Anchovy.png",
+    "colors": "multicolore & orange"
   },
   {
     "id": 26,
@@ -1297,7 +1322,8 @@
       "catch-KRko": "크",
       "catch-EUru": "тю-вить"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/brd03_36_Twiggy.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd03_36_Twiggy.png",
+    "colors": "rose & bleu"
   },
   {
     "id": 27,
@@ -1347,7 +1373,8 @@
       "catch-KRko": "삼바",
       "catch-EUru": "бзе-е-ерт"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/brd04_37_Jitters.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd04_37_Jitters.png",
+    "colors": "jaune & orange"
   },
   {
     "id": 28,
@@ -1397,7 +1424,8 @@
       "catch-KRko": "허나",
       "catch-EUru": "чики-чик"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/brd05_38_Piper.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd05_38_Piper.png",
+    "colors": "noir & blanc"
   },
   {
     "id": 29,
@@ -1447,7 +1475,8 @@
       "catch-KRko": "오예",
       "catch-EUru": "чиф-чиф"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/brd06_39_Admiral.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd06_39_Admiral.png",
+    "colors": "noir & bleu"
   },
   {
     "id": 30,
@@ -1497,7 +1526,8 @@
       "catch-KRko": "핑그르르",
       "catch-EUru": "тви-тви"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/brd08_40_Midge.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd08_40_Midge.png",
+    "colors": "rose & rose"
   },
   {
     "id": 31,
@@ -1547,7 +1577,8 @@
       "catch-KRko": "그거야",
       "catch-EUru": "чуррп"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/brd11_41_Jakey.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd11_41_Jakey.png",
+    "colors": "vert & rouge"
   },
   {
     "id": 32,
@@ -1597,7 +1628,8 @@
       "catch-KRko": "까아악",
       "catch-EUru": "кар-ко"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/brd15_42_Lucha.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd15_42_Lucha.png",
+    "colors": "noir & gris"
   },
   {
     "id": 33,
@@ -1647,7 +1679,8 @@
       "catch-KRko": "체키라웃",
       "catch-EUru": "фу ты"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/brd16_43_Jacques.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd16_43_Jacques.png",
+    "colors": "vert & noir"
   },
   {
     "id": 34,
@@ -1697,7 +1730,8 @@
       "catch-KRko": "츠츠츠",
       "catch-EUru": "тук-тук"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/brd17_44_Peck.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd17_44_Peck.png",
+    "colors": "beige & rouge"
   },
   {
     "id": 35,
@@ -1747,7 +1781,8 @@
       "catch-KRko": "섭섭",
       "catch-EUru": "так-так"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/brd18_45_Sparro.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/brd18_45_Sparro.png",
+    "colors": "vert & gris"
   },
   {
     "id": 36,
@@ -1797,7 +1832,8 @@
       "catch-KRko": "후후",
       "catch-EUru": "макму-у-у"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/bul00_46_Angus.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/bul00_46_Angus.png",
+    "colors": "rouge & noir"
   },
   {
     "id": 37,
@@ -1847,7 +1883,8 @@
       "catch-KRko": "디용",
       "catch-EUru": "ковбой"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/bul01_47_Rodeo.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/bul01_47_Rodeo.png",
+    "colors": "noir & rouge"
   },
   {
     "id": 38,
@@ -1897,7 +1934,8 @@
       "catch-KRko": "알것소",
       "catch-EUru": "му-у"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/bul03_48_Stu.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/bul03_48_Stu.png",
+    "colors": "marron & beige"
   },
   {
     "id": 39,
@@ -1947,7 +1985,8 @@
       "catch-KRko": "워메에",
       "catch-EUru": "бычок"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/bul05_49_T-Bone.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/bul05_49_T-Bone.png",
+    "colors": "bleu & noir"
   },
   {
     "id": 40,
@@ -1997,7 +2036,8 @@
       "catch-KRko": "땅땅",
       "catch-EUru": "раз-два"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/bul07_50_Coach.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/bul07_50_Coach.png",
+    "colors": "bleu & rouge"
   },
   {
     "id": 41,
@@ -2047,7 +2087,8 @@
       "catch-KRko": "뭐임",
       "catch-EUru": "полундра"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/bul08_51_Vic.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/bul08_51_Vic.png",
+    "colors": "bleu clair & bleu"
   },
   {
     "id": 42,
@@ -2097,7 +2138,8 @@
       "catch-KRko": "고양이",
       "catch-EUru": "кх-кх-кх"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cat00_52_Bob.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat00_52_Bob.png",
+    "colors": "multicolore & rouge"
   },
   {
     "id": 43,
@@ -2147,7 +2189,8 @@
       "catch-KRko": "야～옹",
       "catch-EUru": "мяу-мяу"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cat01_53_Mitzi.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat01_53_Mitzi.png",
+    "colors": "marron & beige"
   },
   {
     "id": 44,
@@ -2197,7 +2240,8 @@
       "catch-KRko": "헤이",
       "catch-EUru": "рыбка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cat02_54_Rosie.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat02_54_Rosie.png",
+    "colors": "rose & rouge"
   },
   {
     "id": 45,
@@ -2247,7 +2291,8 @@
       "catch-KRko": "머냐",
       "catch-EUru": "мур-мяу"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cat03_55_Olivia.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat03_55_Olivia.png",
+    "colors": "blanc & noir"
   },
   {
     "id": 46,
@@ -2280,7 +2325,7 @@
     "image_uri": "https://acnhapi.com/v1/images/villagers/46",
     "bubble-color": "#515151",
     "text-color": "#fffce9",
-    "saying": "Nothing ventured, nothing gained.",
+    "saying": "Nothing venturouge, nothing gained.",
     "catch-translations": {
       "catch-USen": "kitty cat",
       "catch-EUen": "kitty cat",
@@ -2297,7 +2342,8 @@
       "catch-KRko": "뭐라지요",
       "catch-EUru": "кисуля"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cat04_56_Kiki.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat04_56_Kiki.png",
+    "colors": "marron & beige"
   },
   {
     "id": 47,
@@ -2347,7 +2393,8 @@
       "catch-KRko": "귤귤",
       "catch-EUru": "фруктик"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cat05_57_Tangy.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat05_57_Tangy.png",
+    "colors": "vert & jaune"
   },
   {
     "id": 48,
@@ -2397,7 +2444,8 @@
       "catch-KRko": "노라줘",
       "catch-EUru": "отдыхаем"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cat06_389_Punchy.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat06_389_Punchy.png",
+    "colors": "bleu & bleu clair"
   },
   {
     "id": 49,
@@ -2447,7 +2495,8 @@
       "catch-KRko": "냠",
       "catch-EUru": "кис-кис"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cat07_58_Purrl.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat07_58_Purrl.png",
+    "colors": "gris & bleu"
   },
   {
     "id": 50,
@@ -2497,7 +2546,8 @@
       "catch-KRko": "그치",
       "catch-EUru": "мяу-а-а-а"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cat08_59_Moe.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat08_59_Moe.png",
+    "colors": "noir & gris"
   },
   {
     "id": 51,
@@ -2547,7 +2597,8 @@
       "catch-KRko": "꺄",
       "catch-EUru": "мя-я-яу"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cat09_60_Kabuki.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat09_60_Kabuki.png",
+    "colors": "violet & rouge"
   },
   {
     "id": 52,
@@ -2597,7 +2648,8 @@
       "catch-KRko": "얍",
       "catch-EUru": "шш"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cat10_61_Kid%20Cat.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat10_61_Kid%20Cat.png",
+    "colors": "rouge & rouge"
   },
   {
     "id": 53,
@@ -2647,7 +2699,8 @@
       "catch-KRko": "우",
       "catch-EUru": "фи-фи"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cat11_62_Monique.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat11_62_Monique.png",
+    "colors": "violet & rose"
   },
   {
     "id": 54,
@@ -2697,7 +2750,8 @@
       "catch-KRko": "삐뽀",
       "catch-EUru": "мя-ого"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cat12_63_Tabby.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat12_63_Tabby.png",
+    "colors": "noir & gris"
   },
   {
     "id": 55,
@@ -2747,7 +2801,8 @@
       "catch-KRko": "아뵤",
       "catch-EUru": "фу-у-у"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cat13_64_Stinky.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat13_64_Stinky.png",
+    "colors": "rouge & bleu"
   },
   {
     "id": 56,
@@ -2797,7 +2852,8 @@
       "catch-KRko": "자갸",
       "catch-EUru": "мр-мр-мр"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cat14_65_Kitty.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat14_65_Kitty.png",
+    "colors": "vert & gris"
   },
   {
     "id": 57,
@@ -2847,7 +2903,8 @@
       "catch-KRko": "쳇",
       "catch-EUru": "мя-я-яоза"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cat15_66_Tom.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat15_66_Tom.png",
+    "colors": "noir & gris"
   },
   {
     "id": 58,
@@ -2897,7 +2954,8 @@
       "catch-KRko": "냥냥",
       "catch-EUru": "мяуи-и-и"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cat16_67_Merry.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat16_67_Merry.png",
+    "colors": "rose & bleu clair"
   },
   {
     "id": 59,
@@ -2947,7 +3005,8 @@
       "catch-KRko": "우앙",
       "catch-EUru": "ми-ми-ми"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cat17_68_Felicity.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat17_68_Felicity.png",
+    "colors": "jaune & orange"
   },
   {
     "id": 60,
@@ -2997,7 +3056,8 @@
       "catch-KRko": "퐁퐁",
       "catch-EUru": "конфетка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cat18_69_Lolly.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat18_69_Lolly.png",
+    "colors": "gris & rose"
   },
   {
     "id": 61,
@@ -3047,7 +3107,8 @@
       "catch-KRko": "파트라",
       "catch-EUru": "ми-мяу"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cat19_70_Ankha.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat19_70_Ankha.png",
+    "colors": "multicolore & marron"
   },
   {
     "id": 62,
@@ -3097,7 +3158,8 @@
       "catch-KRko": "그러거나",
       "catch-EUru": "шмяк"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cat20_71_Rudy.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat20_71_Rudy.png",
+    "colors": "jaune & beige"
   },
   {
     "id": 63,
@@ -3147,7 +3209,8 @@
       "catch-KRko": "휘리릭",
       "catch-EUru": "хор-р-рошо"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cat21_72_Katt.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat21_72_Katt.png",
+    "colors": "violet & noir"
   },
   {
     "id": 64,
@@ -3197,21 +3260,22 @@
       "catch-KRko": "우쭐",
       "catch-EUru": "стильненько"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cat23_73_Raymond.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cat23_73_Raymond.png",
+    "colors": "noir & gris"
   },
   {
     "id": 65,
     "file-name": "cbr00",
     "name": {
-      "name-USen": "Bluebear",
-      "name-EUen": "Bluebear",
+      "name-USen": "bleubear",
+      "name-EUen": "bleubear",
       "name-EUde": "Birte",
       "name-EUes": "Celeste",
       "name-USes": "Celeste",
       "name-EUfr": "Myrtille",
       "name-USfr": "Myrtille",
       "name-EUit": "Azzurra",
-      "name-EUnl": "Bluebear",
+      "name-EUnl": "bleubear",
       "name-CNzh": "娃娃",
       "name-TWzh": "娃娃",
       "name-JPja": "グルミン",
@@ -3247,7 +3311,8 @@
       "catch-KRko": "두근",
       "catch-EUru": "персик"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cbr00_74_Bluebear.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr00_74_bleubear.png",
+    "colors": "blanc & bleu"
   },
   {
     "id": 66,
@@ -3297,7 +3362,8 @@
       "catch-KRko": "저기요",
       "catch-EUru": "лапушка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cbr01_75_Maple.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr01_75_Maple.png",
+    "colors": "beige & vert"
   },
   {
     "id": 67,
@@ -3347,7 +3413,8 @@
       "catch-KRko": "몽",
       "catch-EUru": "медвежонок"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cbr02_76_Poncho.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr02_76_Poncho.png",
+    "colors": "orange & jaune"
   },
   {
     "id": 68,
@@ -3397,7 +3464,8 @@
       "catch-KRko": "아이참",
       "catch-EUru": "карапуз"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cbr03_77_Pudge.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr03_77_Pudge.png",
+    "colors": "vert & bleu"
   },
   {
     "id": 69,
@@ -3447,7 +3515,8 @@
       "catch-KRko": "나는나야",
       "catch-EUru": "гррр"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cbr04_78_Kody.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr04_78_Kody.png",
+    "colors": "multicolore & blanc"
   },
   {
     "id": 70,
@@ -3497,7 +3566,8 @@
       "catch-KRko": "그런거죠",
       "catch-EUru": "плюш-плюш"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cbr05_79_Stitches.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr05_79_Stitches.png",
+    "colors": "multicolore & blanc"
   },
   {
     "id": 71,
@@ -3547,7 +3617,8 @@
       "catch-KRko": "참말로",
       "catch-EUru": "ну не-е-ет"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cbr06_80_Vladimir.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr06_80_Vladimir.png",
+    "colors": "jaune & multicolore"
   },
   {
     "id": 72,
@@ -3597,7 +3668,8 @@
       "catch-KRko": "샐리",
       "catch-EUru": "товарищ"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cbr07_81_Murphy.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr07_81_Murphy.png",
+    "colors": "bleu & blanc"
   },
   {
     "id": 73,
@@ -3647,7 +3719,8 @@
       "catch-KRko": "오잉",
       "catch-EUru": "милашка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cbr09_82_Olive.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr09_82_Olive.png",
+    "colors": "marron & jaune"
   },
   {
     "id": 74,
@@ -3697,7 +3770,8 @@
       "catch-KRko": "어쩜이래",
       "catch-EUru": "тра-ля-ля"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cbr10_83_Cheri.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr10_83_Cheri.png",
+    "colors": "jaune & bleu clair"
   },
   {
     "id": 75,
@@ -3747,7 +3821,8 @@
       "catch-KRko": "있죠",
       "catch-EUru": "радуга-дуга"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cbr13_390_June.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr13_390_June.png",
+    "colors": "blanc & rouge"
   },
   {
     "id": 76,
@@ -3797,7 +3872,8 @@
       "catch-KRko": "띵호아",
       "catch-EUru": "цветочек"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cbr14_84_Pekoe.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr14_84_Pekoe.png",
+    "colors": "rouge & beige"
   },
   {
     "id": 77,
@@ -3847,7 +3923,8 @@
       "catch-KRko": "부끄",
       "catch-EUru": "бамбук"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cbr15_85_Chester.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr15_85_Chester.png",
+    "colors": "jaune & vert"
   },
   {
     "id": 78,
@@ -3897,7 +3974,8 @@
       "catch-KRko": "아니그냥",
       "catch-EUru": "берлога"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cbr16_86_Barold.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr16_86_Barold.png",
+    "colors": "jaune & noir"
   },
   {
     "id": 79,
@@ -3947,7 +4025,8 @@
       "catch-KRko": "차라리",
       "catch-EUru": "понимаешь"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cbr17_87_Tammy.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr17_87_Tammy.png",
+    "colors": "rouge & violet"
   },
   {
     "id": 80,
@@ -3997,7 +4076,8 @@
       "catch-KRko": "어머머",
       "catch-EUru": "охохонюшки"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cbr19_88_Judy.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cbr19_88_Judy.png",
+    "colors": "rose & blanc"
   },
   {
     "id": 81,
@@ -4047,7 +4127,8 @@
       "catch-KRko": "키득",
       "catch-EUru": "ко-кей"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/chn00_89_Goose.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/chn00_89_Goose.png",
+    "colors": "bleu & blanc"
   },
   {
     "id": 82,
@@ -4097,7 +4178,8 @@
       "catch-KRko": "우힛",
       "catch-EUru": "о-ко-ко"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/chn01_90_Benedict.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/chn01_90_Benedict.png",
+    "colors": "bleu & violet"
   },
   {
     "id": 83,
@@ -4147,7 +4229,8 @@
       "catch-KRko": "짜잔",
       "catch-EUru": "кукареку"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/chn02_91_Egbert.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/chn02_91_Egbert.png",
+    "colors": "beige & marron"
   },
   {
     "id": 84,
@@ -4197,7 +4280,8 @@
       "catch-KRko": "그랬대요",
       "catch-EUru": "клювик"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/chn05_92_Ava.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/chn05_92_Ava.png",
+    "colors": "rouge & gris"
   },
   {
     "id": 85,
@@ -4247,7 +4331,8 @@
       "catch-KRko": "도레미",
       "catch-EUru": "модненько"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/chn09_93_Becky.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/chn09_93_Becky.png",
+    "colors": "violet & rose"
   },
   {
     "id": 86,
@@ -4297,7 +4382,8 @@
       "catch-KRko": "그게어때",
       "catch-EUru": "щип-щип"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/chn10_94_Plucky.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/chn10_94_Plucky.png",
+    "colors": "bleu clair & jaune"
   },
   {
     "id": 87,
@@ -4347,7 +4433,8 @@
       "catch-KRko": "하앗",
       "catch-EUru": "короко"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/chn11_95_Knox.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/chn11_95_Knox.png",
+    "colors": "marron & rouge"
   },
   {
     "id": 88,
@@ -4397,7 +4484,8 @@
       "catch-KRko": "오싹오싹",
       "catch-EUru": "ки-ки-ки"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/chn12_96_Broffina.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/chn12_96_Broffina.png",
+    "colors": "noir & rouge"
   },
   {
     "id": 89,
@@ -4447,7 +4535,8 @@
       "catch-KRko": "깜깜",
       "catch-EUru": "это точно"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/chn13_97_Ken.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/chn13_97_Ken.png",
+    "colors": "violet & bleu"
   },
   {
     "id": 90,
@@ -4497,7 +4586,8 @@
       "catch-KRko": "음메",
       "catch-EUru": "му-му"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cow00_98_Patty.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cow00_98_Patty.png",
+    "colors": "orange & rouge"
   },
   {
     "id": 91,
@@ -4547,7 +4637,8 @@
       "catch-KRko": "우유우유",
       "catch-EUru": "теленок"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cow01_99_Tipper.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cow01_99_Tipper.png",
+    "colors": "multicolore & rose"
   },
   {
     "id": 92,
@@ -4597,7 +4688,8 @@
       "catch-KRko": "에헤",
       "catch-EUru": "до-ре-му"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cow06_100_Norma.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cow06_100_Norma.png",
+    "colors": "blanc & bleu clair"
   },
   {
     "id": 93,
@@ -4647,7 +4739,8 @@
       "catch-KRko": "메르시",
       "catch-EUru": "муля"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/cow07_101_Naomi.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/cow07_101_Naomi.png",
+    "colors": "multicolore & violet"
   },
   {
     "id": 94,
@@ -4697,7 +4790,8 @@
       "catch-KRko": "나아거",
       "catch-EUru": "это я"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/crd00_102_Alfonso.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/crd00_102_Alfonso.png",
+    "colors": "rouge & bleu"
   },
   {
     "id": 95,
@@ -4747,7 +4841,8 @@
       "catch-KRko": "얘야",
       "catch-EUru": "гра-а-а"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/crd01_103_Alli.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/crd01_103_Alli.png",
+    "colors": "jaune & marron"
   },
   {
     "id": 96,
@@ -4797,7 +4892,8 @@
       "catch-KRko": "만세",
       "catch-EUru": "кусь"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/crd02_104_Boots.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/crd02_104_Boots.png",
+    "colors": "multicolore & violet"
   },
   {
     "id": 97,
@@ -4847,7 +4943,8 @@
       "catch-KRko": "처얼썩",
       "catch-EUru": "щелк"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/crd04_105_Del.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/crd04_105_Del.png",
+    "colors": "bleu & blanc"
   },
   {
     "id": 98,
@@ -4897,7 +4994,8 @@
       "catch-KRko": "부스럭",
       "catch-EUru": "ура-а-а"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/crd06_106_Sly.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/crd06_106_Sly.png",
+    "colors": "marron & vert"
   },
   {
     "id": 99,
@@ -4947,7 +5045,8 @@
       "catch-KRko": "아거얌",
       "catch-EUru": "перекус"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/crd07_107_Gayle.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/crd07_107_Gayle.png",
+    "colors": "rose & blanc"
   },
   {
     "id": 100,
@@ -4955,7 +5054,7 @@
     "name": {
       "name-USen": "Drago",
       "name-EUen": "Drago",
-      "name-EUde": "Frederik",
+      "name-EUde": "Frougeerik",
       "name-EUes": "Dragonio",
       "name-USes": "Dragonio",
       "name-EUfr": "Drago",
@@ -4997,7 +5096,8 @@
       "catch-KRko": "띠용띠용",
       "catch-EUru": "огонь"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/crd08_108_Drago.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/crd08_108_Drago.png",
+    "colors": "orange & rouge"
   },
   {
     "id": 101,
@@ -5047,7 +5147,8 @@
       "catch-KRko": "파샵파샵",
       "catch-EUru": "олешек"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/der00_109_Fauna.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/der00_109_Fauna.png",
+    "colors": "beige & blanc"
   },
   {
     "id": 102,
@@ -5097,7 +5198,8 @@
       "catch-KRko": "슉슉",
       "catch-EUru": "скок-скок"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/der01_110_Bam.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/der01_110_Bam.png",
+    "colors": "vert & marron"
   },
   {
     "id": 103,
@@ -5147,7 +5249,8 @@
       "catch-KRko": "슴사사",
       "catch-EUru": "прыг-прыг"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/der02_0_Zell.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/der02_0_Zell.png",
+    "colors": "violet & gris"
   },
   {
     "id": 104,
@@ -5197,7 +5300,8 @@
       "catch-KRko": "아비옹",
       "catch-EUru": "забияка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/der03_111_Bruce.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/der03_111_Bruce.png",
+    "colors": "noir & rouge"
   },
   {
     "id": 105,
@@ -5247,7 +5351,8 @@
       "catch-KRko": "됐고",
       "catch-EUru": "как-то так"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/der04_112_Deirdre.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/der04_112_Deirdre.png",
+    "colors": "orange & orange"
   },
   {
     "id": 106,
@@ -5297,7 +5402,8 @@
       "catch-KRko": "엣헴",
       "catch-EUru": "бубух"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/der05_113_Lopez.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/der05_113_Lopez.png",
+    "colors": "gris & gris"
   },
   {
     "id": 107,
@@ -5347,7 +5453,8 @@
       "catch-KRko": "핑크크",
       "catch-EUru": "зазноба"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/der06_114_Fuchsia.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/der06_114_Fuchsia.png",
+    "colors": "rose & rose"
   },
   {
     "id": 108,
@@ -5397,7 +5504,8 @@
       "catch-KRko": "우왕",
       "catch-EUru": "соль-соль"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/der07_115_Beau.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/der07_115_Beau.png",
+    "colors": "beige & orange"
   },
   {
     "id": 109,
@@ -5447,7 +5555,8 @@
       "catch-KRko": "라니까",
       "catch-EUru": "еще бы"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/der08_116_Diana.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/der08_116_Diana.png",
+    "colors": "violet & rose"
   },
   {
     "id": 110,
@@ -5497,7 +5606,8 @@
       "catch-KRko": "뚜비뚜바",
       "catch-EUru": "ем мох"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/der09_117_Erik.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/der09_117_Erik.png",
+    "colors": "beige & rouge"
   },
   {
     "id": 111,
@@ -5547,7 +5657,8 @@
       "catch-KRko": "왈왈",
       "catch-EUru": "тяв"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/dog00_118_Goldie.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog00_118_Goldie.png",
+    "colors": "jaune & orange"
   },
   {
     "id": 112,
@@ -5597,7 +5708,8 @@
       "catch-KRko": "아니",
       "catch-EUru": "ррр-гав"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/dog01_119_Butch.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog01_119_Butch.png",
+    "colors": "bleu & gris"
   },
   {
     "id": 113,
@@ -5647,7 +5759,8 @@
       "catch-KRko": "그렇대",
       "catch-EUru": "ррр-ой-ой"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/dog02_120_Lucky.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog02_120_Lucky.png",
+    "colors": "beige & blanc"
   },
   {
     "id": 114,
@@ -5697,7 +5810,8 @@
       "catch-KRko": "멍멍",
       "catch-EUru": "пр-риятяв"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/dog03_121_Biskit.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog03_121_Biskit.png",
+    "colors": "violet & multicolore"
   },
   {
     "id": 115,
@@ -5747,7 +5861,8 @@
       "catch-KRko": "옙",
       "catch-EUru": "тяв-тяв"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/dog04_122_Bones.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog04_122_Bones.png",
+    "colors": "beige & marron"
   },
   {
     "id": 116,
@@ -5797,7 +5912,8 @@
       "catch-KRko": "흥",
       "catch-EUru": "тяв-ряв"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/dog05_123_Portia.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog05_123_Portia.png",
+    "colors": "violet & noir"
   },
   {
     "id": 117,
@@ -5847,7 +5963,8 @@
       "catch-KRko": "컹컹",
       "catch-EUru": "ау-у"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/dog06_124_Walker.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog06_124_Walker.png",
+    "colors": "orange & rouge"
   },
   {
     "id": 118,
@@ -5897,7 +6014,8 @@
       "catch-KRko": "그렇죠",
       "catch-EUru": "тяв-ого"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/dog07_125_Daisy.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog07_125_Daisy.png",
+    "colors": "multicolore & bleu"
   },
   {
     "id": 119,
@@ -5947,7 +6065,8 @@
       "catch-KRko": "초롱초롱",
       "catch-EUru": "гав-гав"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/dog08_126_Cookie.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog08_126_Cookie.png",
+    "colors": "vert & bleu clair"
   },
   {
     "id": 120,
@@ -5997,7 +6116,8 @@
       "catch-KRko": "달코미",
       "catch-EUru": "ур-ра"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/dog09_127_Maddie.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog09_127_Maddie.png",
+    "colors": "violet & rose"
   },
   {
     "id": 121,
@@ -6047,7 +6167,8 @@
       "catch-KRko": "쫀득",
       "catch-EUru": "динго"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/dog10_128_Bea.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog10_128_Bea.png",
+    "colors": "bleu clair & vert"
   },
   {
     "id": 122,
@@ -6097,7 +6218,8 @@
       "catch-KRko": "우물우물",
       "catch-EUru": "ау-у-гав"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/dog14_1_Mac.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog14_1_Mac.png",
+    "colors": "rouge & noir"
   },
   {
     "id": 123,
@@ -6147,7 +6269,8 @@
       "catch-KRko": "하옵소서",
       "catch-EUru": "ау-уи"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/dog15_129_Marcel.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog15_129_Marcel.png",
+    "colors": "vert & bleu"
   },
   {
     "id": 124,
@@ -6197,7 +6320,8 @@
       "catch-KRko": "그럼그럼",
       "catch-EUru": "пор-рядок"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/dog16_130_Benjamin.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog16_130_Benjamin.png",
+    "colors": "rouge & blanc"
   },
   {
     "id": 125,
@@ -6247,7 +6371,8 @@
       "catch-KRko": "그냥저냥",
       "catch-EUru": "что-что"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/dog17_131_Cherry.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog17_131_Cherry.png",
+    "colors": "noir & violet"
   },
   {
     "id": 126,
@@ -6297,7 +6422,8 @@
       "catch-KRko": "안보여",
       "catch-EUru": "бр-р-разер"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/dog18_132_Shep.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/dog18_132_Shep.png",
+    "colors": "bleu clair & bleu"
   },
   {
     "id": 127,
@@ -6347,7 +6473,8 @@
       "catch-KRko": "어쩌면",
       "catch-EUru": "кра-а"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/duk00_133_Bill.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk00_133_Bill.png",
+    "colors": "bleu & violet"
   },
   {
     "id": 128,
@@ -6397,7 +6524,8 @@
       "catch-KRko": "그래유",
       "catch-EUru": "кряк"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/duk01_134_Joey.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk01_134_Joey.png",
+    "colors": "vert & bleu"
   },
   {
     "id": 129,
@@ -6447,7 +6575,8 @@
       "catch-KRko": "아잉",
       "catch-EUru": "кряки-кряк"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/duk02_135_Pate.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk02_135_Pate.png",
+    "colors": "jaune & blanc"
   },
   {
     "id": 130,
@@ -6497,7 +6626,8 @@
       "catch-KRko": "우아",
       "catch-EUru": "желторотик"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/duk03_136_Maelle.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk03_136_Maelle.png",
+    "colors": "rose & blanc"
   },
   {
     "id": 131,
@@ -6547,7 +6677,8 @@
       "catch-KRko": "우우",
       "catch-EUru": "кря-кря"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/duk04_137_Deena.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk04_137_Deena.png",
+    "colors": "multicolore & bleu"
   },
   {
     "id": 132,
@@ -6597,7 +6728,8 @@
       "catch-KRko": "다삐",
       "catch-EUru": "крякушки"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/duk05_138_Pompom.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk05_138_Pompom.png",
+    "colors": "rose & bleu clair"
   },
   {
     "id": 133,
@@ -6630,7 +6762,7 @@
     "image_uri": "https://acnhapi.com/v1/images/villagers/133",
     "bubble-color": "#a06fce",
     "text-color": "#fffce9",
-    "saying": "Purple is the color of royalty.",
+    "saying": "violet is the color of royalty.",
     "catch-translations": {
       "catch-USen": "quackpth",
       "catch-EUen": "quackpth",
@@ -6647,7 +6779,8 @@
       "catch-KRko": "모모",
       "catch-EUru": "кряк-фи"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/duk06_139_Mallary.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk06_139_Mallary.png",
+    "colors": "bleu & blanc"
   },
   {
     "id": 134,
@@ -6697,7 +6830,8 @@
       "catch-KRko": "물물",
       "catch-EUru": "утенок"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/duk07_2_Freckles.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk07_2_Freckles.png",
+    "colors": "vert & multicolore"
   },
   {
     "id": 135,
@@ -6747,7 +6881,8 @@
       "catch-KRko": "엄마",
       "catch-EUru": "кррря"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/duk08_140_Derwin.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk08_140_Derwin.png",
+    "colors": "jaune & beige"
   },
   {
     "id": 136,
@@ -6797,7 +6932,8 @@
       "catch-KRko": "어쩌면",
       "catch-EUru": "кра-а"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/duk09_141_Drake.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk09_141_Drake.png",
+    "colors": "marron & rouge"
   },
   {
     "id": 137,
@@ -6847,7 +6983,8 @@
       "catch-KRko": "꾸왁",
       "catch-EUru": "брум-брум"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/duk10_3_Scoot.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk10_3_Scoot.png",
+    "colors": "beige & bleu"
   },
   {
     "id": 138,
@@ -6897,7 +7034,8 @@
       "catch-KRko": "꽥꽥",
       "catch-EUru": "кря-а"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/duk11_142_Weber.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk11_142_Weber.png",
+    "colors": "bleu & noir"
   },
   {
     "id": 139,
@@ -6947,7 +7085,8 @@
       "catch-KRko": "괜찮아",
       "catch-EUru": "покрясающе"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/duk12_143_Miranda.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk12_143_Miranda.png",
+    "colors": "bleu & violet"
   },
   {
     "id": 140,
@@ -6997,7 +7136,8 @@
       "catch-KRko": "찌익",
       "catch-EUru": "покрякушка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/duk13_144_Ketchup.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk13_144_Ketchup.png",
+    "colors": "bleu clair & blanc"
   },
   {
     "id": 141,
@@ -7047,7 +7187,8 @@
       "catch-KRko": "유～후",
       "catch-EUru": "не кряк ли"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/duk15_145_Gloria.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk15_145_Gloria.png",
+    "colors": "noir & gris"
   },
   {
     "id": 142,
@@ -7097,7 +7238,8 @@
       "catch-KRko": "그럴지도",
       "catch-EUru": "крякульки"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/duk16_146_Molly.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk16_146_Molly.png",
+    "colors": "jaune & rose"
   },
   {
     "id": 143,
@@ -7147,7 +7289,8 @@
       "catch-KRko": "리얼리",
       "catch-EUru": "шу-утка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/duk17_147_Quillson.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/duk17_147_Quillson.png",
+    "colors": "beige & orange"
   },
   {
     "id": 144,
@@ -7197,7 +7340,8 @@
       "catch-KRko": "땡",
       "catch-EUru": "хобот"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/elp00_148_Opal.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/elp00_148_Opal.png",
+    "colors": "noir & orange"
   },
   {
     "id": 145,
@@ -7247,7 +7391,8 @@
       "catch-KRko": "휴휴",
       "catch-EUru": "тру-ру"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/elp01_149_Dizzy.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/elp01_149_Dizzy.png",
+    "colors": "jaune & bleu"
   },
   {
     "id": 146,
@@ -7297,7 +7442,8 @@
       "catch-KRko": "으랏차",
       "catch-EUru": "хитрюга"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/elp02_150_Big%20Top.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/elp02_150_Big%20Top.png",
+    "colors": "vert & vert"
   },
   {
     "id": 147,
@@ -7347,7 +7493,8 @@
       "catch-KRko": "훨훨",
       "catch-EUru": "тру-тут"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/elp03_151_Eloise.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/elp03_151_Eloise.png",
+    "colors": "vert & orange"
   },
   {
     "id": 148,
@@ -7397,7 +7544,8 @@
       "catch-KRko": "샬랄라",
       "catch-EUru": "тру-у-ти"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/elp04_152_Margie.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/elp04_152_Margie.png",
+    "colors": "rose & rouge"
   },
   {
     "id": 149,
@@ -7447,7 +7595,8 @@
       "catch-KRko": "파오",
       "catch-EUru": "друг"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/elp05_153_Paolo.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/elp05_153_Paolo.png",
+    "colors": "gris & bleu clair"
   },
   {
     "id": 150,
@@ -7497,7 +7646,8 @@
       "catch-KRko": "히힛",
       "catch-EUru": "потрубим"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/elp06_154_Axel.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/elp06_154_Axel.png",
+    "colors": "vert & blanc"
   },
   {
     "id": 151,
@@ -7547,7 +7697,8 @@
       "catch-KRko": "트랄라",
       "catch-EUru": "кроха"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/elp07_155_Ellie.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/elp07_155_Ellie.png",
+    "colors": "gris & rose"
   },
   {
     "id": 152,
@@ -7597,7 +7748,8 @@
       "catch-KRko": "뿌뿌",
       "catch-EUru": "бивень"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/elp09_156_Tucker.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/elp09_156_Tucker.png",
+    "colors": "jaune & orange"
   },
   {
     "id": 153,
@@ -7647,7 +7799,8 @@
       "catch-KRko": "따끈따끈",
       "catch-EUru": "чайку-у"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/elp10_157_Tia.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/elp10_157_Tia.png",
+    "colors": "noir & blanc"
   },
   {
     "id": 154,
@@ -7697,7 +7850,8 @@
       "catch-KRko": "피스",
       "catch-EUru": "рок-н-ролл"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/elp12_158_Cyd.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/elp12_158_Cyd.png",
+    "colors": "noir & jaune"
   },
   {
     "id": 155,
@@ -7747,7 +7901,8 @@
       "catch-KRko": "그래요",
       "catch-EUru": "ква"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/flg00_159_Lily.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg00_159_Lily.png",
+    "colors": "blanc & jaune"
   },
   {
     "id": 156,
@@ -7797,7 +7952,8 @@
       "catch-KRko": "오버",
       "catch-EUru": "квак-дзынь"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/flg01_160_Ribbot.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg01_160_Ribbot.png",
+    "colors": "bleu & bleu clair"
   },
   {
     "id": 157,
@@ -7847,7 +8003,8 @@
       "catch-KRko": "객울",
       "catch-EUru": "квак"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/flg02_4_Frobert.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg02_4_Frobert.png",
+    "colors": "bleu & multicolore"
   },
   {
     "id": 158,
@@ -7897,7 +8054,8 @@
       "catch-KRko": "와이",
       "catch-EUru": "шагом-квак"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/flg03_161_Camofrog.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg03_161_Camofrog.png",
+    "colors": "bleu & blanc"
   },
   {
     "id": 159,
@@ -7947,7 +8105,8 @@
       "catch-KRko": "개굴개굴",
       "catch-EUru": "бро"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/flg04_162_Drift.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg04_162_Drift.png",
+    "colors": "orange & rouge"
   },
   {
     "id": 160,
@@ -7997,7 +8156,8 @@
       "catch-KRko": "므흣",
       "catch-EUru": "ква-ква"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/flg05_163_Wart%20Jr..png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg05_163_Wart%20Jr..png",
+    "colors": "bleu & violet"
   },
   {
     "id": 161,
@@ -8047,7 +8207,8 @@
       "catch-KRko": "그랬쪄",
       "catch-EUru": "плюх"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/flg06_164_Puddles.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg06_164_Puddles.png",
+    "colors": "vert & rose"
   },
   {
     "id": 162,
@@ -8097,7 +8258,8 @@
       "catch-KRko": "딩동댕",
       "catch-EUru": "буль-буль"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/flg07_165_Jeremiah.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg07_165_Jeremiah.png",
+    "colors": "orange & jaune"
   },
   {
     "id": 163,
@@ -8147,7 +8309,8 @@
       "catch-KRko": "흐압",
       "catch-EUru": "жабррр"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/flg09_166_Tad.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg09_166_Tad.png",
+    "colors": "jaune & multicolore"
   },
   {
     "id": 164,
@@ -8197,7 +8360,8 @@
       "catch-KRko": "라이라이",
       "catch-EUru": "уи-уи"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/flg10_167_Cousteau.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg10_167_Cousteau.png",
+    "colors": "vert & rouge"
   },
   {
     "id": 165,
@@ -8247,7 +8411,8 @@
       "catch-KRko": "싸우자",
       "catch-EUru": "скок"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/flg11_168_Huck.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg11_168_Huck.png",
+    "colors": "vert & jaune"
   },
   {
     "id": 166,
@@ -8297,7 +8462,8 @@
       "catch-KRko": "이리오슈",
       "catch-EUru": "квак-квак"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/flg12_169_Prince.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg12_169_Prince.png",
+    "colors": "jaune & blanc"
   },
   {
     "id": 167,
@@ -8347,7 +8513,8 @@
       "catch-KRko": "쪼오옥",
       "catch-EUru": "кво-кей"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/flg13_170_Jambette.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg13_170_Jambette.png",
+    "colors": "marron & marron"
   },
   {
     "id": 168,
@@ -8397,7 +8564,8 @@
       "catch-KRko": "콜록",
       "catch-EUru": "ах-ох"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/flg15_171_Raddle.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg15_171_Raddle.png",
+    "colors": "blanc & gris"
   },
   {
     "id": 169,
@@ -8430,7 +8598,7 @@
     "image_uri": "https://acnhapi.com/v1/images/villagers/169",
     "bubble-color": "#a06fce",
     "text-color": "#fffce9",
-    "saying": "Look at the world through rose-colored glasses.",
+    "saying": "Look at the world through rose-colorouge glasses.",
     "catch-translations": {
       "catch-USen": "ribbette",
       "catch-EUen": "ribbette",
@@ -8447,7 +8615,8 @@
       "catch-KRko": "베이비",
       "catch-EUru": "квакет"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/flg16_172_Gigi.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg16_172_Gigi.png",
+    "colors": "noir & blanc"
   },
   {
     "id": 170,
@@ -8497,7 +8666,8 @@
       "catch-KRko": "툴툴",
       "catch-EUru": "вроде того"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/flg17_173_Croque.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg17_173_Croque.png",
+    "colors": "rouge & orange"
   },
   {
     "id": 171,
@@ -8547,7 +8717,8 @@
       "catch-KRko": "흐응",
       "catch-EUru": "знаешь"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/flg18_174_Diva.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg18_174_Diva.png",
+    "colors": "violet & bleu clair"
   },
   {
     "id": 172,
@@ -8555,7 +8726,7 @@
     "name": {
       "name-USen": "Henry",
       "name-EUen": "Henry",
-      "name-EUde": "Freddy",
+      "name-EUde": "Frougedy",
       "name-EUes": "Saperto",
       "name-USes": "Saperto",
       "name-EUfr": "Henri",
@@ -8597,7 +8768,8 @@
       "catch-KRko": "음냐음냐",
       "catch-EUru": "ква-храп"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/flg19_175_Henry.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/flg19_175_Henry.png",
+    "colors": "bleu clair & bleu"
   },
   {
     "id": 173,
@@ -8647,7 +8819,8 @@
       "catch-KRko": "맞아유",
       "catch-EUru": "ле ме-е-е"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/goa00_176_Chevre.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/goa00_176_Chevre.png",
+    "colors": "rouge & rose"
   },
   {
     "id": 174,
@@ -8697,7 +8870,8 @@
       "catch-KRko": "그랬슈",
       "catch-EUru": "козленок"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/goa01_177_Nan.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/goa01_177_Nan.png",
+    "colors": "orange & jaune"
   },
   {
     "id": 175,
@@ -8747,7 +8921,8 @@
       "catch-KRko": "알아줘",
       "catch-EUru": "такие-сякие"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/goa02_178_Billy.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/goa02_178_Billy.png",
+    "colors": "bleu & violet"
   },
   {
     "id": 176,
@@ -8797,7 +8972,8 @@
       "catch-KRko": "예이예",
       "catch-EUru": "ме-хе-хе"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/goa04_179_Gruff.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/goa04_179_Gruff.png",
+    "colors": "violet & noir"
   },
   {
     "id": 177,
@@ -8847,7 +9023,8 @@
       "catch-KRko": "똑바로해",
       "catch-EUru": "ме-е-е"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/goa06_180_Velma.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/goa06_180_Velma.png",
+    "colors": "bleu clair & violet"
   },
   {
     "id": 178,
@@ -8897,7 +9074,8 @@
       "catch-KRko": "웁스",
       "catch-EUru": "так"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/goa07_181_Kidd.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/goa07_181_Kidd.png",
+    "colors": "gris & blanc"
   },
   {
     "id": 179,
@@ -8947,7 +9125,8 @@
       "catch-KRko": "그러게",
       "catch-EUru": "козлятки"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/goa08_182_Pashmina.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/goa08_182_Pashmina.png",
+    "colors": "rouge & multicolore"
   },
   {
     "id": 180,
@@ -8997,7 +9176,8 @@
       "catch-KRko": "흐아앙",
       "catch-EUru": "мемеша"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/goa09_183_Sherb.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/goa09_183_Sherb.png",
+    "colors": "gris & bleu"
   },
   {
     "id": 181,
@@ -9005,7 +9185,7 @@
     "name": {
       "name-USen": "Cesar",
       "name-EUen": "Cesar",
-      "name-EUde": "Alfredo",
+      "name-EUde": "Alfrougeo",
       "name-EUes": "César",
       "name-USes": "César",
       "name-EUfr": "César",
@@ -9047,7 +9227,8 @@
       "catch-KRko": "우갸우갸",
       "catch-EUru": "высочество"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/gor00_184_Cesar.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/gor00_184_Cesar.png",
+    "colors": "bleu & bleu clair"
   },
   {
     "id": 182,
@@ -9055,7 +9236,7 @@
     "name": {
       "name-USen": "Peewee",
       "name-EUen": "Peewee",
-      "name-EUde": "Manfred",
+      "name-EUde": "Manfrouge",
       "name-EUes": "Lotar",
       "name-USes": "Lotar",
       "name-EUfr": "Gogo",
@@ -9097,7 +9278,8 @@
       "catch-KRko": "겉멋",
       "catch-EUru": "мелкота"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/gor01_185_Peewee.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/gor01_185_Peewee.png",
+    "colors": "orange & bleu"
   },
   {
     "id": 183,
@@ -9147,7 +9329,8 @@
       "catch-KRko": "야임마",
       "catch-EUru": "бабум"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/gor02_186_Boone.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/gor02_186_Boone.png",
+    "colors": "multicolore & rouge"
   },
   {
     "id": 184,
@@ -9197,7 +9380,8 @@
       "catch-KRko": "하압",
       "catch-EUru": "ух-ух-ах"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/gor04_187_Louie.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/gor04_187_Louie.png",
+    "colors": "gris & rouge"
   },
   {
     "id": 185,
@@ -9247,7 +9431,8 @@
       "catch-KRko": "오우오우",
       "catch-EUru": "ух-ох"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/gor05_188_Boyd.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/gor05_188_Boyd.png",
+    "colors": "rouge & noir"
   },
   {
     "id": 186,
@@ -9280,7 +9465,7 @@
     "image_uri": "https://acnhapi.com/v1/images/villagers/186",
     "bubble-color": "#ec7efc",
     "text-color": "#fffce9",
-    "saying": "Pearls are a pink gorilla's best friend.",
+    "saying": "Pearls are a rose gorilla's best friend.",
     "catch-translations": {
       "catch-USen": "sweetie",
       "catch-EUen": "sweetie",
@@ -9297,7 +9482,8 @@
       "catch-KRko": "달짝지근",
       "catch-EUru": "сладость"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/gor07_189_Violet.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/gor07_189_Violet.png",
+    "colors": "violet & rose"
   },
   {
     "id": 187,
@@ -9347,7 +9533,8 @@
       "catch-KRko": "부락",
       "catch-EUru": "ух-ух-ух"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/gor08_190_Al.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/gor08_190_Al.png",
+    "colors": "rouge & blanc"
   },
   {
     "id": 188,
@@ -9397,7 +9584,8 @@
       "catch-KRko": "끼얍",
       "catch-EUru": "на взлет"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/gor09_191_Rocket.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/gor09_191_Rocket.png",
+    "colors": "rose & rouge"
   },
   {
     "id": 189,
@@ -9447,7 +9635,8 @@
       "catch-KRko": "알만하다",
       "catch-EUru": "респект"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/gor10_192_Hans.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/gor10_192_Hans.png",
+    "colors": "gris & bleu"
   },
   {
     "id": 190,
@@ -9497,7 +9686,8 @@
       "catch-KRko": "햄햄",
       "catch-EUru": "хомячок"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ham00_193_Hamlet.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ham00_193_Hamlet.png",
+    "colors": "violet & bleu"
   },
   {
     "id": 191,
@@ -9547,7 +9737,8 @@
       "catch-KRko": "큐룽",
       "catch-EUru": "щечки"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ham01_194_Apple.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ham01_194_Apple.png",
+    "colors": "multicolore & rouge"
   },
   {
     "id": 192,
@@ -9597,7 +9788,8 @@
       "catch-KRko": "그렇다고",
       "catch-EUru": "резонно"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ham02_195_Graham.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ham02_195_Graham.png",
+    "colors": "vert & orange"
   },
   {
     "id": 193,
@@ -9647,7 +9839,8 @@
       "catch-KRko": "휴우",
       "catch-EUru": "ле хом"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ham03_196_Rodney.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ham03_196_Rodney.png",
+    "colors": "rose & multicolore"
   },
   {
     "id": 194,
@@ -9697,7 +9890,8 @@
       "catch-KRko": "파샤샤",
       "catch-EUru": "о-хо-хо"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ham04_5_Soleil.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ham04_5_Soleil.png",
+    "colors": "rouge & jaune"
   },
   {
     "id": 195,
@@ -9747,7 +9941,8 @@
       "catch-KRko": "둥게둥게",
       "catch-EUru": "стук-стук"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ham05_197_Clay.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ham05_197_Clay.png",
+    "colors": "beige & marron"
   },
   {
     "id": 196,
@@ -9797,7 +9992,8 @@
       "catch-KRko": "뽀드득",
       "catch-EUru": "пушистик"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ham06_198_Flurry.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ham06_198_Flurry.png",
+    "colors": "rouge & rose"
   },
   {
     "id": 197,
@@ -9847,7 +10043,8 @@
       "catch-KRko": "카악",
       "catch-EUru": "фырк"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ham07_199_Hamphrey.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ham07_199_Hamphrey.png",
+    "colors": "gris & beige"
   },
   {
     "id": 198,
@@ -9897,7 +10094,8 @@
       "catch-KRko": "그러마",
       "catch-EUru": "гиппи"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/hip00_200_Rocco.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/hip00_200_Rocco.png",
+    "colors": "jaune & noir"
   },
   {
     "id": 199,
@@ -9947,7 +10145,8 @@
       "catch-KRko": "히포포",
       "catch-EUru": "хипстер"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/hip02_201_Bubbles.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/hip02_201_Bubbles.png",
+    "colors": "violet & rose"
   },
   {
     "id": 200,
@@ -9997,7 +10196,8 @@
       "catch-KRko": "약히",
       "catch-EUru": "буль"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/hip03_202_Bertha.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/hip03_202_Bertha.png",
+    "colors": "rose & blanc"
   },
   {
     "id": 201,
@@ -10047,7 +10247,8 @@
       "catch-KRko": "오도독",
       "catch-EUru": "малек"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/hip04_203_Biff.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/hip04_203_Biff.png",
+    "colors": "noir & bleu"
   },
   {
     "id": 202,
@@ -10097,7 +10298,8 @@
       "catch-KRko": "쩝쩝",
       "catch-EUru": "дорогуша"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/hip05_204_Bitty.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/hip05_204_Bitty.png",
+    "colors": "rose & orange"
   },
   {
     "id": 203,
@@ -10147,7 +10349,8 @@
       "catch-KRko": "냉큼오슈",
       "catch-EUru": "лежебока"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/hip08_205_Harry.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/hip08_205_Harry.png",
+    "colors": "vert & orange"
   },
   {
     "id": 204,
@@ -10197,7 +10400,8 @@
       "catch-KRko": "예스",
       "catch-EUru": "естессно"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/hip09_6_Hippeux.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/hip09_6_Hippeux.png",
+    "colors": "marron & vert"
   },
   {
     "id": 205,
@@ -10247,7 +10451,8 @@
       "catch-KRko": "농담",
       "catch-EUru": "партнер"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/hrs00_206_Buck.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs00_206_Buck.png",
+    "colors": "gris & marron"
   },
   {
     "id": 206,
@@ -10297,7 +10502,8 @@
       "catch-KRko": "달리자",
       "catch-EUru": "сахарок"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/hrs01_207_Victoria.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs01_207_Victoria.png",
+    "colors": "jaune & orange"
   },
   {
     "id": 207,
@@ -10347,7 +10553,8 @@
       "catch-KRko": "맞아요",
       "catch-EUru": "и все"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/hrs02_208_Savannah.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs02_208_Savannah.png",
+    "colors": "bleu clair & bleu"
   },
   {
     "id": 208,
@@ -10397,7 +10604,8 @@
       "catch-KRko": "히히힝",
       "catch-EUru": "жеребенок"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/hrs03_209_Elmer.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs03_209_Elmer.png",
+    "colors": "bleu & blanc"
   },
   {
     "id": 209,
@@ -10447,7 +10655,8 @@
       "catch-KRko": "부르르",
       "catch-EUru": "не-е-ет"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/hrs04_210_Roscoe.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs04_210_Roscoe.png",
+    "colors": "noir & gris"
   },
   {
     "id": 210,
@@ -10497,7 +10706,8 @@
       "catch-KRko": "당근당근",
       "catch-EUru": "тык-дык"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/hrs05_211_Winnie.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs05_211_Winnie.png",
+    "colors": "blanc & gris"
   },
   {
     "id": 211,
@@ -10525,16 +10735,16 @@
     "gender": "Male",
     "subtype": "B",
     "hobby": "La nature",
-    "catch-phrase": "greenhorn",
+    "catch-phrase": "verthorn",
     "icon_uri": "https://acnhapi.com/v1/icons/villagers/211",
     "image_uri": "https://acnhapi.com/v1/images/villagers/211",
     "bubble-color": "#55cfff",
     "text-color": "#fffce9",
     "saying": "Beauty is pretty!",
     "catch-translations": {
-      "catch-USen": "greenhorn",
-      "catch-EUen": "greenhorn",
-      "catch-EUde": "greenhorn",
+      "catch-USen": "verthorn",
+      "catch-EUen": "verthorn",
+      "catch-EUde": "verthorn",
       "catch-EUes": "jo-joy",
       "catch-USes": "jo-joy",
       "catch-EUfr": "tagada",
@@ -10547,7 +10757,8 @@
       "catch-KRko": "게슴츠레",
       "catch-EUru": "новичок"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/hrs06_212_Ed.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs06_212_Ed.png",
+    "colors": "noir & gris"
   },
   {
     "id": 212,
@@ -10597,7 +10808,8 @@
       "catch-KRko": "훗훗",
       "catch-EUru": "рафинад"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/hrs07_7_Cleo.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs07_7_Cleo.png",
+    "colors": "bleu clair & blanc"
   },
   {
     "id": 213,
@@ -10647,7 +10859,8 @@
       "catch-KRko": "몰라요",
       "catch-EUru": "соседушка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/hrs08_213_Peaches.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs08_213_Peaches.png",
+    "colors": "multicolore & bleu clair"
   },
   {
     "id": 214,
@@ -10697,7 +10910,8 @@
       "catch-KRko": "봉쥬르",
       "catch-EUru": "кусь-кусь"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/hrs09_214_Annalise.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs09_214_Annalise.png",
+    "colors": "bleu & violet"
   },
   {
     "id": 215,
@@ -10730,7 +10944,7 @@
     "image_uri": "https://acnhapi.com/v1/images/villagers/215",
     "bubble-color": "#d8cc39",
     "text-color": "#8b5f57",
-    "saying": "The grass is always greener.",
+    "saying": "The grass is always verter.",
     "catch-translations": {
       "catch-USen": "clip clawp",
       "catch-EUen": "clip clawp",
@@ -10747,7 +10961,8 @@
       "catch-KRko": "다그닥",
       "catch-EUru": "цок-цок"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/hrs10_215_Clyde.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs10_215_Clyde.png",
+    "colors": "vert & blanc"
   },
   {
     "id": 216,
@@ -10797,7 +11012,8 @@
       "catch-KRko": "이거봐",
       "catch-EUru": "глянь"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/hrs11_216_Colton.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs11_216_Colton.png",
+    "colors": "bleu & rouge"
   },
   {
     "id": 217,
@@ -10847,7 +11063,8 @@
       "catch-KRko": "그런가",
       "catch-EUru": "се-е-ено"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/hrs12_217_Papi.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs12_217_Papi.png",
+    "colors": "orange & bleu clair"
   },
   {
     "id": 218,
@@ -10897,7 +11114,8 @@
       "catch-KRko": "그대여",
       "catch-EUru": "блеск"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/hrs13_218_Julian.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs13_218_Julian.png",
+    "colors": "violet & bleu"
   },
   {
     "id": 219,
@@ -10947,7 +11165,8 @@
       "catch-KRko": "쉬익",
       "catch-EUru": "но-но"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/hrs16_219_Reneigh.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/hrs16_219_Reneigh.png",
+    "colors": "noir & violet"
   },
   {
     "id": 220,
@@ -10997,7 +11216,8 @@
       "catch-KRko": "어맛",
       "catch-EUru": "ц-ц"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/kal00_220_Yuka.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/kal00_220_Yuka.png",
+    "colors": "orange & jaune"
   },
   {
     "id": 221,
@@ -11047,7 +11267,8 @@
       "catch-KRko": "반짝",
       "catch-EUru": "лидер"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/kal01_221_Alice.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/kal01_221_Alice.png",
+    "colors": "rouge & rose"
   },
   {
     "id": 222,
@@ -11097,7 +11318,8 @@
       "catch-KRko": "정말로요",
       "catch-EUru": "хрустяшка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/kal02_222_Melba.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/kal02_222_Melba.png",
+    "colors": "blanc & vert"
   },
   {
     "id": 223,
@@ -11147,7 +11369,8 @@
       "catch-KRko": "발그레",
       "catch-EUru": "солнышко"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/kal03_8_Sydney.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/kal03_8_Sydney.png",
+    "colors": "beige & jaune"
   },
   {
     "id": 224,
@@ -11197,7 +11420,8 @@
       "catch-KRko": "버텨",
       "catch-EUru": "напарник"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/kal04_223_Gonzo.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/kal04_223_Gonzo.png",
+    "colors": "noir & vert"
   },
   {
     "id": 225,
@@ -11247,7 +11471,8 @@
       "catch-KRko": "큐큐",
       "catch-EUru": "медведище"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/kal05_224_Ozzie.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/kal05_224_Ozzie.png",
+    "colors": "jaune & orange"
   },
   {
     "id": 226,
@@ -11297,7 +11522,8 @@
       "catch-KRko": "어어",
       "catch-EUru": "ох-хо"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/kal08_225_Canberra.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/kal08_225_Canberra.png",
+    "colors": "vert & bleu clair"
   },
   {
     "id": 227,
@@ -11347,7 +11573,8 @@
       "catch-KRko": "우와",
       "catch-EUru": "ничего"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/kal09_226_Lyman.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/kal09_226_Lyman.png",
+    "colors": "bleu clair & jaune"
   },
   {
     "id": 228,
@@ -11397,7 +11624,8 @@
       "catch-KRko": "야야야",
       "catch-EUru": "приятель"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/kal10_227_Eugene.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/kal10_227_Eugene.png",
+    "colors": "noir & gris"
   },
   {
     "id": 229,
@@ -11447,7 +11675,8 @@
       "catch-KRko": "폴짝",
       "catch-EUru": "детка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/kgr00_228_Kitt.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/kgr00_228_Kitt.png",
+    "colors": "violet & rouge"
   },
   {
     "id": 230,
@@ -11497,7 +11726,8 @@
       "catch-KRko": "응",
       "catch-EUru": "малютка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/kgr01_229_Mathilda.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/kgr01_229_Mathilda.png",
+    "colors": "blanc & rouge"
   },
   {
     "id": 231,
@@ -11547,7 +11777,8 @@
       "catch-KRko": "오롤로",
       "catch-EUru": "дитятко"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/kgr02_230_Carrie.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/kgr02_230_Carrie.png",
+    "colors": "rouge & multicolore"
   },
   {
     "id": 232,
@@ -11597,7 +11828,8 @@
       "catch-KRko": "뭘봐",
       "catch-EUru": "лапочка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/kgr05_231_Astrid.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/kgr05_231_Astrid.png",
+    "colors": "noir & multicolore"
   },
   {
     "id": 233,
@@ -11647,7 +11879,8 @@
       "catch-KRko": "이자슥",
       "catch-EUru": "прыг"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/kgr06_232_Sylvia.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/kgr06_232_Sylvia.png",
+    "colors": "jaune & vert"
   },
   {
     "id": 234,
@@ -11697,7 +11930,8 @@
       "catch-KRko": "어험",
       "catch-EUru": "карманчик"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/kgr08_233_Walt.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/kgr08_233_Walt.png",
+    "colors": "noir & gris"
   },
   {
     "id": 235,
@@ -11747,7 +11981,8 @@
       "catch-KRko": "아자",
       "catch-EUru": "хук"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/kgr09_234_Rooney.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/kgr09_234_Rooney.png",
+    "colors": "gris & noir"
   },
   {
     "id": 236,
@@ -11797,7 +12032,8 @@
       "catch-KRko": "조아요",
       "catch-EUru": "кармашек"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/kgr10_235_Marcie.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/kgr10_235_Marcie.png",
+    "colors": "rose & beige"
   },
   {
     "id": 237,
@@ -11825,15 +12061,15 @@
     "gender": "Male",
     "subtype": "B",
     "hobby": "Le sport",
-    "catch-phrase": "shredded",
+    "catch-phrase": "shrougeded",
     "icon_uri": "https://acnhapi.com/v1/icons/villagers/237",
     "image_uri": "https://acnhapi.com/v1/images/villagers/237",
     "bubble-color": "#d86808",
     "text-color": "#fffce9",
     "saying": "You're not living unless you're sweating!",
     "catch-translations": {
-      "catch-USen": "shredded",
-      "catch-EUen": "shredded",
+      "catch-USen": "shrougeded",
+      "catch-EUen": "shrougeded",
       "catch-EUde": "kumpel",
       "catch-EUes": "sabes",
       "catch-USes": "grrrau",
@@ -11847,7 +12083,8 @@
       "catch-KRko": "요～맨",
       "catch-EUru": "че-е-ел"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/lon00_236_Bud.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/lon00_236_Bud.png",
+    "colors": "vert & jaune"
   },
   {
     "id": 238,
@@ -11897,7 +12134,8 @@
       "catch-KRko": "안그냐",
       "catch-EUru": "буги-вуги"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/lon01_237_Elvis.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/lon01_237_Elvis.png",
+    "colors": "rouge & noir"
   },
   {
     "id": 239,
@@ -11947,7 +12185,8 @@
       "catch-KRko": "티라이온",
       "catch-EUru": "спокойно"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/lon02_238_Rex.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/lon02_238_Rex.png",
+    "colors": "bleu & bleu clair"
   },
   {
     "id": 240,
@@ -11997,7 +12236,8 @@
       "catch-KRko": "졸지마",
       "catch-EUru": "левушка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/lon04_239_Leopold.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/lon04_239_Leopold.png",
+    "colors": "violet & vert"
   },
   {
     "id": 241,
@@ -12047,7 +12287,8 @@
       "catch-KRko": "하하하",
       "catch-EUru": "зоосад"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/lon06_240_Mott.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/lon06_240_Mott.png",
+    "colors": "bleu & vert"
   },
   {
     "id": 242,
@@ -12097,7 +12338,8 @@
       "catch-KRko": "크릉",
       "catch-EUru": "капитально"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/lon07_241_Rory.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/lon07_241_Rory.png",
+    "colors": "bleu & rouge"
   },
   {
     "id": 243,
@@ -12147,7 +12389,8 @@
       "catch-KRko": "옳거니",
       "catch-EUru": "честь имею"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/lon08_242_Lionel.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/lon08_242_Lionel.png",
+    "colors": "vert & gris"
   },
   {
     "id": 244,
@@ -12197,7 +12440,8 @@
       "catch-KRko": "끼끼",
       "catch-EUru": "пу-пу"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/mnk01_243_Nana.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/mnk01_243_Nana.png",
+    "colors": "rose & blanc"
   },
   {
     "id": 245,
@@ -12247,7 +12491,8 @@
       "catch-KRko": "하옵니다",
       "catch-EUru": "дружок"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/mnk02_9_Simon.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/mnk02_9_Simon.png",
+    "colors": "rouge & multicolore"
   },
   {
     "id": 246,
@@ -12297,7 +12542,8 @@
       "catch-KRko": "와우",
       "catch-EUru": "шимпатяга"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/mnk03_244_Tammi.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/mnk03_244_Tammi.png",
+    "colors": "violet & vert"
   },
   {
     "id": 247,
@@ -12347,7 +12593,8 @@
       "catch-KRko": "바나나",
       "catch-EUru": "ух-эх"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/mnk04_245_Monty.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/mnk04_245_Monty.png",
+    "colors": "jaune & gris"
   },
   {
     "id": 248,
@@ -12397,7 +12644,8 @@
       "catch-KRko": "몽몽",
       "catch-EUru": "само собой"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/mnk05_246_Elise.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/mnk05_246_Elise.png",
+    "colors": "violet & rouge"
   },
   {
     "id": 249,
@@ -12447,7 +12695,8 @@
       "catch-KRko": "빠샤",
       "catch-EUru": "у-у-у"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/mnk06_247_Flip.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/mnk06_247_Flip.png",
+    "colors": "bleu & jaune"
   },
   {
     "id": 250,
@@ -12497,7 +12746,8 @@
       "catch-KRko": "우끼네",
       "catch-EUru": "щекасто"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/mnk07_248_Shari.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/mnk07_248_Shari.png",
+    "colors": "bleu clair & jaune"
   },
   {
     "id": 251,
@@ -12547,7 +12797,8 @@
       "catch-KRko": "흠냐리",
       "catch-EUru": "чавк-чавк"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/mnk08_249_Deli.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/mnk08_249_Deli.png",
+    "colors": "violet & marron"
   },
   {
     "id": 252,
@@ -12597,7 +12848,8 @@
       "catch-KRko": "찍찍",
       "catch-EUru": "пип-пип"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/mus00_250_Dora.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus00_250_Dora.png",
+    "colors": "bleu & bleu clair"
   },
   {
     "id": 253,
@@ -12647,7 +12899,8 @@
       "catch-KRko": "긍가벼",
       "catch-EUru": "фью-фью"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/mus01_251_Limberg.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus01_251_Limberg.png",
+    "colors": "vert & bleu"
   },
   {
     "id": 254,
@@ -12697,7 +12950,8 @@
       "catch-KRko": "캬학",
       "catch-EUru": "пип"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/mus02_252_Bella.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus02_252_Bella.png",
+    "colors": "noir & violet"
   },
   {
     "id": 255,
@@ -12747,7 +13001,8 @@
       "catch-KRko": "글치머",
       "catch-EUru": "сы-ы-ыр"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/mus03_253_Bree.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus03_253_Bree.png",
+    "colors": "noir & bleu"
   },
   {
     "id": 256,
@@ -12797,7 +13052,8 @@
       "catch-KRko": "쪽",
       "catch-EUru": "ревушка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/mus04_254_Samson.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus04_254_Samson.png",
+    "colors": "rouge & jaune"
   },
   {
     "id": 257,
@@ -12847,7 +13103,8 @@
       "catch-KRko": "무진장",
       "catch-EUru": "мастерски"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/mus05_255_Rod.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus05_255_Rod.png",
+    "colors": "bleu & bleu clair"
   },
   {
     "id": 258,
@@ -12897,7 +13154,8 @@
       "catch-KRko": "달짝지근",
       "catch-EUru": "сладость"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/mus08_256_Candi.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus08_256_Candi.png",
+    "colors": "bleu clair & jaune"
   },
   {
     "id": 259,
@@ -12947,7 +13205,8 @@
       "catch-KRko": "힐끔힐끔",
       "catch-EUru": "пи-и-и"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/mus09_257_Rizzo.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus09_257_Rizzo.png",
+    "colors": "noir & gris"
   },
   {
     "id": 260,
@@ -12997,7 +13256,8 @@
       "catch-KRko": "룰룰",
       "catch-EUru": "канноли"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/mus10_258_Anicotti.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus10_258_Anicotti.png",
+    "colors": "rouge & rose"
   },
   {
     "id": 261,
@@ -13047,7 +13307,8 @@
       "catch-KRko": "앗차",
       "catch-EUru": "ням-ням"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/mus12_259_Broccolo.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus12_259_Broccolo.png",
+    "colors": "multicolore & jaune"
   },
   {
     "id": 262,
@@ -13080,7 +13341,7 @@
     "image_uri": "https://acnhapi.com/v1/images/villagers/262",
     "bubble-color": "#7fa9ff",
     "text-color": "#fffce9",
-    "saying": "A cornered rat will summon the courage to bite a cat.",
+    "saying": "A cornerouge rat will summon the courage to bite a cat.",
     "catch-translations": {
       "catch-USen": "shorty",
       "catch-EUen": "shorty",
@@ -13097,7 +13358,8 @@
       "catch-KRko": "짜샤",
       "catch-EUru": "коротышка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/mus14_260_Moose.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus14_260_Moose.png",
+    "colors": "violet & rouge"
   },
   {
     "id": 263,
@@ -13147,7 +13409,8 @@
       "catch-KRko": "내말이요",
       "catch-EUru": "пи-пи-пи"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/mus15_261_Bettina.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus15_261_Bettina.png",
+    "colors": "blanc & rouge"
   },
   {
     "id": 264,
@@ -13197,7 +13460,8 @@
       "catch-KRko": "오호호",
       "catch-EUru": "писк"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/mus16_262_Greta.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus16_262_Greta.png",
+    "colors": "rose & violet"
   },
   {
     "id": 265,
@@ -13247,7 +13511,8 @@
       "catch-KRko": "그러찍",
       "catch-EUru": "бантик"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/mus17_263_Penelope.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus17_263_Penelope.png",
+    "colors": "rose & rouge"
   },
   {
     "id": 266,
@@ -13297,7 +13562,8 @@
       "catch-KRko": "꼬리꼬리",
       "catch-EUru": "сырок"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/mus18_264_Chadder.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/mus18_264_Chadder.png",
+    "colors": "noir & gris"
   },
   {
     "id": 267,
@@ -13347,7 +13613,8 @@
       "catch-KRko": "쭉쭉",
       "catch-EUru": "все пропало"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ocp00_265_Octavian.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ocp00_265_Octavian.png",
+    "colors": "noir & blanc"
   },
   {
     "id": 268,
@@ -13397,7 +13664,8 @@
       "catch-KRko": "캬캬",
       "catch-EUru": "хлюп"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ocp01_266_Marina.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ocp01_266_Marina.png",
+    "colors": "rose & rouge"
   },
   {
     "id": 269,
@@ -13447,7 +13715,8 @@
       "catch-KRko": "약히",
       "catch-EUru": "буль"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ocp02_267_Zucker.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ocp02_267_Zucker.png",
+    "colors": "bleu & jaune"
   },
   {
     "id": 270,
@@ -13497,7 +13766,8 @@
       "catch-KRko": "역시",
       "catch-EUru": "цыпленок"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ost00_268_Queenie.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ost00_268_Queenie.png",
+    "colors": "noir & gris"
   },
   {
     "id": 271,
@@ -13547,7 +13817,8 @@
       "catch-KRko": "그렇지라",
       "catch-EUru": "растяжка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ost01_269_Gladys.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ost01_269_Gladys.png",
+    "colors": "vert & rose"
   },
   {
     "id": 272,
@@ -13597,7 +13868,8 @@
       "catch-KRko": "그렇다조",
       "catch-EUru": "быстро"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ost02_270_Sandy.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ost02_270_Sandy.png",
+    "colors": "bleu clair & blanc"
   },
   {
     "id": 273,
@@ -13647,7 +13919,8 @@
       "catch-KRko": "치지직",
       "catch-EUru": "дзынь"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ost03_271_Sprocket.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ost03_271_Sprocket.png",
+    "colors": "orange & vert"
   },
   {
     "id": 274,
@@ -13697,7 +13970,8 @@
       "catch-KRko": "어머몰라",
       "catch-EUru": "дарлинг"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ost05_272_Julia.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ost05_272_Julia.png",
+    "colors": "violet & rouge"
   },
   {
     "id": 275,
@@ -13747,7 +14021,8 @@
       "catch-KRko": "오요용",
       "catch-EUru": "не потей"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ost06_273_Cranston.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ost06_273_Cranston.png",
+    "colors": "beige & marron"
   },
   {
     "id": 276,
@@ -13797,7 +14072,8 @@
       "catch-KRko": "호롤로",
       "catch-EUru": "хех"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ost07_274_Phil.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ost07_274_Phil.png",
+    "colors": "vert & rouge"
   },
   {
     "id": 277,
@@ -13847,7 +14123,8 @@
       "catch-KRko": "그랬구나",
       "catch-EUru": "вот так"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ost08_275_Blanche.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ost08_275_Blanche.png",
+    "colors": "noir & marron"
   },
   {
     "id": 278,
@@ -13875,15 +14152,15 @@
     "gender": "Female",
     "subtype": "A",
     "hobby": "Jouer",
-    "catch-phrase": "pinky",
+    "catch-phrase": "rosey",
     "icon_uri": "https://acnhapi.com/v1/icons/villagers/278",
     "image_uri": "https://acnhapi.com/v1/images/villagers/278",
     "bubble-color": "#ff6183",
     "text-color": "#fffce9",
-    "saying": "Pink is the new black.",
+    "saying": "rose is the new noir.",
     "catch-translations": {
-      "catch-USen": "pinky",
-      "catch-EUen": "pinky",
+      "catch-USen": "rosey",
+      "catch-EUen": "rosey",
       "catch-EUde": "flappflapp",
       "catch-EUes": "croqui",
       "catch-USes": "croqui",
@@ -13897,7 +14174,8 @@
       "catch-KRko": "밍고밍고",
       "catch-EUru": "розочка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ost09_276_Flora.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ost09_276_Flora.png",
+    "colors": "multicolore & rose"
   },
   {
     "id": 279,
@@ -13947,7 +14225,8 @@
       "catch-KRko": "아뜨뜨",
       "catch-EUru": "искорка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/ost10_277_Phoebe.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/ost10_277_Phoebe.png",
+    "colors": "noir & rouge"
   },
   {
     "id": 280,
@@ -13997,7 +14276,8 @@
       "catch-KRko": "다꿇어",
       "catch-EUru": "пф-ф"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pbr00_278_Apollo.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pbr00_278_Apollo.png",
+    "colors": "noir & noir"
   },
   {
     "id": 281,
@@ -14047,7 +14327,8 @@
       "catch-KRko": "엄멈머",
       "catch-EUru": "вот"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pbr01_279_Amelia.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pbr01_279_Amelia.png",
+    "colors": "noir & blanc"
   },
   {
     "id": 282,
@@ -14097,7 +14378,8 @@
       "catch-KRko": "퍼덕퍼덕",
       "catch-EUru": "глаз-алмаз"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pbr02_280_Pierce.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pbr02_280_Pierce.png",
+    "colors": "orange & jaune"
   },
   {
     "id": 283,
@@ -14147,7 +14429,8 @@
       "catch-KRko": "짜란～",
       "catch-EUru": "капитан"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pbr03_281_Buzz.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pbr03_281_Buzz.png",
+    "colors": "jaune & rouge"
   },
   {
     "id": 284,
@@ -14197,7 +14480,8 @@
       "catch-KRko": "내놔",
       "catch-EUru": "курлы"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pbr05_282_Avery.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pbr05_282_Avery.png",
+    "colors": "orange & marron"
   },
   {
     "id": 285,
@@ -14247,7 +14531,8 @@
       "catch-KRko": "크헐",
       "catch-EUru": "красава"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pbr06_283_Frank.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pbr06_283_Frank.png",
+    "colors": "marron & jaune"
   },
   {
     "id": 286,
@@ -14258,8 +14543,8 @@
       "name-EUde": "Horst",
       "name-EUes": "Arni",
       "name-USes": "Arni",
-      "name-EUfr": "Manfred",
-      "name-USfr": "Manfred",
+      "name-EUfr": "Manfrouge",
+      "name-USfr": "Manfrouge",
       "name-EUit": "Beccodì",
       "name-EUnl": "Sterling",
       "name-CNzh": "银阁",
@@ -14297,7 +14582,8 @@
       "catch-KRko": "호옷",
       "catch-EUru": "клекот"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pbr07_284_Sterling.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pbr07_284_Sterling.png",
+    "colors": "bleu & rouge"
   },
   {
     "id": 287,
@@ -14347,7 +14633,8 @@
       "catch-KRko": "수리수리",
       "catch-EUru": "крыло"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pbr08_285_Keaton.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pbr08_285_Keaton.png",
+    "colors": "bleu & blanc"
   },
   {
     "id": 288,
@@ -14397,7 +14684,8 @@
       "catch-KRko": "그래맞아",
       "catch-EUru": "перышко"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pbr09_286_Celia.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pbr09_286_Celia.png",
+    "colors": "rose & vert"
   },
   {
     "id": 289,
@@ -14447,7 +14735,8 @@
       "catch-KRko": "랄라",
       "catch-EUru": "к-к-крошка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pgn00_287_Aurora.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn00_287_Aurora.png",
+    "colors": "rose & rouge"
   },
   {
     "id": 290,
@@ -14497,7 +14786,8 @@
       "catch-KRko": "팽팽",
       "catch-EUru": "д-дружище"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pgn01_288_Roald.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn01_288_Roald.png",
+    "colors": "rouge & jaune"
   },
   {
     "id": 291,
@@ -14547,7 +14837,8 @@
       "catch-KRko": "땡땡",
       "catch-EUru": "ч-чубрик"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pgn02_289_Cube.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn02_289_Cube.png",
+    "colors": "jaune & multicolore"
   },
   {
     "id": 292,
@@ -14597,7 +14888,8 @@
       "catch-KRko": "아따",
       "catch-EUru": "ледок"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pgn03_290_Hopper.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn03_290_Hopper.png",
+    "colors": "jaune & rouge"
   },
   {
     "id": 293,
@@ -14647,7 +14939,8 @@
       "catch-KRko": "으쓱",
       "catch-EUru": "брр-хм"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pgn04_291_Friga.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn04_291_Friga.png",
+    "colors": "rose & noir"
   },
   {
     "id": 294,
@@ -14697,7 +14990,8 @@
       "catch-KRko": "우훗훗",
       "catch-EUru": "м-милашка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pgn05_292_Gwen.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn05_292_Gwen.png",
+    "colors": "vert & blanc"
   },
   {
     "id": 295,
@@ -14706,8 +15000,8 @@
       "name-USen": "Puck",
       "name-EUen": "Puck",
       "name-EUde": "Puck",
-      "name-EUes": "Fredo",
-      "name-USes": "Fredo",
+      "name-EUes": "Frougeo",
+      "name-USes": "Frougeo",
       "name-EUfr": "Hervé",
       "name-USfr": "Hervé",
       "name-EUit": "Glacido",
@@ -14747,7 +15041,8 @@
       "catch-KRko": "엣취",
       "catch-EUru": "брр"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pgn06_293_Puck.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn06_293_Puck.png",
+    "colors": "bleu & rouge"
   },
   {
     "id": 296,
@@ -14797,7 +15092,8 @@
       "catch-KRko": "뒤집어",
       "catch-EUru": "вот так вот"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pgn09_294_Wade.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn09_294_Wade.png",
+    "colors": "bleu clair & bleu"
   },
   {
     "id": 297,
@@ -14847,7 +15143,8 @@
       "catch-KRko": "에헴헴",
       "catch-EUru": "человек"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pgn10_295_Boomer.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn10_295_Boomer.png",
+    "colors": "marron & beige"
   },
   {
     "id": 298,
@@ -14897,7 +15194,8 @@
       "catch-KRko": "펭글펭글",
       "catch-EUru": "ластошлеп"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pgn11_296_Iggly.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn11_296_Iggly.png",
+    "colors": "rouge & bleu"
   },
   {
     "id": 299,
@@ -14910,7 +15208,7 @@
       "name-USes": "Tomeo",
       "name-EUfr": "Émilien",
       "name-USfr": "Émilien",
-      "name-EUit": "Freddy",
+      "name-EUit": "Frougedy",
       "name-EUnl": "Tex",
       "name-CNzh": "伏特",
       "name-TWzh": "伏特",
@@ -14947,7 +15245,8 @@
       "catch-KRko": "베이베",
       "catch-EUru": "огонек"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pgn12_297_Tex.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn12_297_Tex.png",
+    "colors": "noir & gris"
   },
   {
     "id": 300,
@@ -14997,7 +15296,8 @@
       "catch-KRko": "맞잖아",
       "catch-EUru": "чхи"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pgn13_298_Flo.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn13_298_Flo.png",
+    "colors": "rouge & violet"
   },
   {
     "id": 301,
@@ -15047,7 +15347,8 @@
       "catch-KRko": "꽁꽁",
       "catch-EUru": "пенка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pgn14_299_Sprinkle.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pgn14_299_Sprinkle.png",
+    "colors": "bleu clair & blanc"
   },
   {
     "id": 302,
@@ -15080,7 +15381,7 @@
     "image_uri": "https://acnhapi.com/v1/images/villagers/302",
     "bubble-color": "#f993ce",
     "text-color": "#fffce9",
-    "saying": "Get fired up!",
+    "saying": "Get firouge up!",
     "catch-translations": {
       "catch-USen": "nyoink",
       "catch-EUen": "nyoink",
@@ -15097,7 +15398,8 @@
       "catch-KRko": "꿀꿀",
       "catch-EUru": "хряк-бряк"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pig00_300_Curly.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig00_300_Curly.png",
+    "colors": "jaune & multicolore"
   },
   {
     "id": 303,
@@ -15147,7 +15449,8 @@
       "catch-KRko": "거라예",
       "catch-EUru": "хрюша"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pig01_10_Truffles.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig01_10_Truffles.png",
+    "colors": "vert & rouge"
   },
   {
     "id": 304,
@@ -15197,7 +15500,8 @@
       "catch-KRko": "꾸엑",
       "catch-EUru": "хряк"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pig02_301_Rasher.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig02_301_Rasher.png",
+    "colors": "bleu & noir"
   },
   {
     "id": 305,
@@ -15247,7 +15551,8 @@
       "catch-KRko": "아님말구",
       "catch-EUru": "хрюк-хрюк"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pig03_302_Hugh.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig03_302_Hugh.png",
+    "colors": "beige & jaune"
   },
   {
     "id": 306,
@@ -15297,7 +15602,8 @@
       "catch-KRko": "예예",
       "catch-EUru": "хрю-ю-ю"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pig04_303_Lucy.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig04_303_Lucy.png",
+    "colors": "rose & rouge"
   },
   {
     "id": 307,
@@ -15347,7 +15653,8 @@
       "catch-KRko": "꼬르륵",
       "catch-EUru": "хрю"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pig05_304_Crackle.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig05_304_Crackle.png",
+    "colors": "vert & multicolore"
   },
   {
     "id": 308,
@@ -15397,7 +15704,8 @@
       "catch-KRko": "이노라",
       "catch-EUru": "сосиска"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pig08_305_Cobb.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig08_305_Cobb.png",
+    "colors": "blanc & bleu"
   },
   {
     "id": 309,
@@ -15447,7 +15755,8 @@
       "catch-KRko": "쌀",
       "catch-EUru": "хрю-хряк"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pig09_306_Boris.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig09_306_Boris.png",
+    "colors": "violet & noir"
   },
   {
     "id": 310,
@@ -15497,7 +15806,8 @@
       "catch-KRko": "유후",
       "catch-EUru": "хрюля"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pig10_307_Maggie.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig10_307_Maggie.png",
+    "colors": "vert & jaune"
   },
   {
     "id": 311,
@@ -15547,7 +15857,8 @@
       "catch-KRko": "아앙",
       "catch-EUru": "хрюмпатяга"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pig11_308_Peggy.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig11_308_Peggy.png",
+    "colors": "bleu & rouge"
   },
   {
     "id": 312,
@@ -15597,7 +15908,8 @@
       "catch-KRko": "땡그랑",
       "catch-EUru": "хрюк"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pig13_309_Gala.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig13_309_Gala.png",
+    "colors": "rose & blanc"
   },
   {
     "id": 313,
@@ -15647,7 +15959,8 @@
       "catch-KRko": "떼끼에로",
       "catch-EUru": "хряк-с"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pig14_310_Chops.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig14_310_Chops.png",
+    "colors": "rouge & vert"
   },
   {
     "id": 314,
@@ -15697,7 +16010,8 @@
       "catch-KRko": "냠냠",
       "catch-EUru": "уи-и-и"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pig15_311_Kevin.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig15_311_Kevin.png",
+    "colors": "noir & rouge"
   },
   {
     "id": 315,
@@ -15747,7 +16061,8 @@
       "catch-KRko": "어우야",
       "catch-EUru": "хрюшка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pig16_312_Pancetti.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig16_312_Pancetti.png",
+    "colors": "rouge & jaune"
   },
   {
     "id": 316,
@@ -15797,7 +16112,8 @@
       "catch-KRko": "꿀꾸루",
       "catch-EUru": "хрю-хрю"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/pig17_313_Agnes.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/pig17_313_Agnes.png",
+    "colors": "rose & blanc"
   },
   {
     "id": 317,
@@ -15847,7 +16163,8 @@
       "catch-KRko": "그렇지뭐",
       "catch-EUru": "хи-хи"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rbt00_314_Bunnie.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt00_314_Bunnie.png",
+    "colors": "vert & rose"
   },
   {
     "id": 318,
@@ -15897,7 +16214,8 @@
       "catch-KRko": "룰루랄라",
       "catch-EUru": "малыш"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rbt01_315_Dotty.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt01_315_Dotty.png",
+    "colors": "bleu & noir"
   },
   {
     "id": 319,
@@ -15947,7 +16265,8 @@
       "catch-KRko": "삐용",
       "catch-EUru": "прыг-скок"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rbt02_316_Coco.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt02_316_Coco.png",
+    "colors": "beige & vert"
   },
   {
     "id": 320,
@@ -15997,7 +16316,8 @@
       "catch-KRko": "닌닌",
       "catch-EUru": "заяссс"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rbt03_317_Snake.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt03_317_Snake.png",
+    "colors": "noir & bleu"
   },
   {
     "id": 321,
@@ -16047,7 +16367,8 @@
       "catch-KRko": "쿨럭",
       "catch-EUru": "мон зайшу"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rbt04_318_Gaston.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt04_318_Gaston.png",
+    "colors": "marron & orange"
   },
   {
     "id": 322,
@@ -16097,7 +16418,8 @@
       "catch-KRko": "꺄오",
       "catch-EUru": "зайчик мой"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rbt05_319_Gabi.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt05_319_Gabi.png",
+    "colors": "marron & rouge"
   },
   {
     "id": 323,
@@ -16147,7 +16469,8 @@
       "catch-KRko": "울랄라",
       "catch-EUru": "зайчишка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rbt06_320_Pippy.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt06_320_Pippy.png",
+    "colors": "vert & marron"
   },
   {
     "id": 324,
@@ -16197,7 +16520,8 @@
       "catch-KRko": "라던데",
       "catch-EUru": "зайчонок"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rbt07_321_Tiffany.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt07_321_Tiffany.png",
+    "colors": "noir & rouge"
   },
   {
     "id": 325,
@@ -16247,7 +16571,8 @@
       "catch-KRko": "땡글",
       "catch-EUru": "зайпончик"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rbt08_322_Genji.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt08_322_Genji.png",
+    "colors": "vert & violet"
   },
   {
     "id": 326,
@@ -16280,7 +16605,7 @@
     "image_uri": "https://acnhapi.com/v1/images/villagers/326",
     "bubble-color": "#ffffff",
     "text-color": "#848484",
-    "saying": "You can always take the red-eye.",
+    "saying": "You can always take the rouge-eye.",
     "catch-translations": {
       "catch-USen": "li'l ears",
       "catch-EUen": "li'l ears",
@@ -16297,7 +16622,8 @@
       "catch-KRko": "보통이지",
       "catch-EUru": "ушки"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rbt09_323_Ruby.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt09_323_Ruby.png",
+    "colors": "bleu clair & rose"
   },
   {
     "id": 327,
@@ -16347,7 +16673,8 @@
       "catch-KRko": "그렇잖아",
       "catch-EUru": "зайчище"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rbt10_324_Doc.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt10_324_Doc.png",
+    "colors": "gris & beige"
   },
   {
     "id": 328,
@@ -16397,7 +16724,8 @@
       "catch-KRko": "아으셔",
       "catch-EUru": "скок-поскок"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rbt11_325_Claude.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt11_325_Claude.png",
+    "colors": "noir & multicolore"
   },
   {
     "id": 329,
@@ -16447,7 +16775,8 @@
       "catch-KRko": "쇼봉",
       "catch-EUru": "морковка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rbt12_326_Francine.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt12_326_Francine.png",
+    "colors": "bleu & noir"
   },
   {
     "id": 330,
@@ -16497,7 +16826,8 @@
       "catch-KRko": "샤방",
       "catch-EUru": "золотце"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rbt13_327_Chrissy.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt13_327_Chrissy.png",
+    "colors": "rose & blanc"
   },
   {
     "id": 331,
@@ -16547,7 +16877,8 @@
       "catch-KRko": "뿌우",
       "catch-EUru": "топ-топ"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rbt14_328_Hopkins.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt14_328_Hopkins.png",
+    "colors": "bleu & jaune"
   },
   {
     "id": 332,
@@ -16597,7 +16928,8 @@
       "catch-KRko": "아미고",
       "catch-EUru": "амиго"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rbt15_329_O_Hare.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt15_329_O_Hare.png",
+    "colors": "bleu & bleu clair"
   },
   {
     "id": 333,
@@ -16647,7 +16979,8 @@
       "catch-KRko": "진짜진짜",
       "catch-EUru": "карамелька"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rbt16_330_Carmen.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt16_330_Carmen.png",
+    "colors": "vert & beige"
   },
   {
     "id": 334,
@@ -16697,7 +17030,8 @@
       "catch-KRko": "어뜨케",
       "catch-EUru": "вкусняшка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rbt17_331_Bonbon.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt17_331_Bonbon.png",
+    "colors": "bleu clair & jaune"
   },
   {
     "id": 335,
@@ -16747,7 +17081,8 @@
       "catch-KRko": "나도나도",
       "catch-EUru": "зайчелло"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rbt18_332_Cole.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt18_332_Cole.png",
+    "colors": "orange & multicolore"
   },
   {
     "id": 336,
@@ -16797,7 +17132,8 @@
       "catch-KRko": "거봐라",
       "catch-EUru": "зайцехвост"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rbt19_333_Mira.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rbt19_333_Mira.png",
+    "colors": "rouge & jaune"
   },
   {
     "id": 337,
@@ -16847,7 +17183,8 @@
       "catch-KRko": "아뿔소",
       "catch-EUru": "бабах"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rhn00_334_Tank.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rhn00_334_Tank.png",
+    "colors": "rouge & vert"
   },
   {
     "id": 338,
@@ -16897,7 +17234,8 @@
       "catch-KRko": "훗",
       "catch-EUru": "босс"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rhn01_335_Rhonda.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rhn01_335_Rhonda.png",
+    "colors": "violet & noir"
   },
   {
     "id": 339,
@@ -16947,7 +17285,8 @@
       "catch-KRko": "빠직",
       "catch-EUru": "бродяга"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rhn02_336_Spike.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rhn02_336_Spike.png",
+    "colors": "noir & gris"
   },
   {
     "id": 340,
@@ -16997,7 +17336,8 @@
       "catch-KRko": "뿔뿔",
       "catch-EUru": "шнобель"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rhn04_337_Hornsby.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rhn04_337_Hornsby.png",
+    "colors": "vert & marron"
   },
   {
     "id": 341,
@@ -17047,7 +17387,8 @@
       "catch-KRko": "베리베리",
       "catch-EUru": "кексик"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rhn07_338_Merengue.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rhn07_338_Merengue.png",
+    "colors": "blanc & rouge"
   },
   {
     "id": 342,
@@ -17097,7 +17438,8 @@
       "catch-KRko": "킁킁",
       "catch-EUru": "йоу"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/rhn08_339_Ren�e.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/rhn08_339_Ren�e.png",
+    "colors": "violet & jaune"
   },
   {
     "id": 343,
@@ -17147,7 +17489,8 @@
       "catch-KRko": "쩝",
       "catch-EUru": "бе-е"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/shp00_340_Vesta.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp00_340_Vesta.png",
+    "colors": "orange & rouge"
   },
   {
     "id": 344,
@@ -17197,7 +17540,8 @@
       "catch-KRko": "앤쥬",
       "catch-EUru": "мила-ашка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/shp01_341_Baabara.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp01_341_Baabara.png",
+    "colors": "violet & bleu"
   },
   {
     "id": 345,
@@ -17247,7 +17591,8 @@
       "catch-KRko": "메에에",
       "catch-EUru": "ребрышко"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/shp02_342_Eunice.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp02_342_Eunice.png",
+    "colors": "beige & orange"
   },
   {
     "id": 346,
@@ -17297,7 +17642,8 @@
       "catch-KRko": "울",
       "catch-EUru": "бэ-дабинь"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/shp03_11_Stella.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp03_11_Stella.png",
+    "colors": "jaune & beige"
   },
   {
     "id": 347,
@@ -17347,7 +17693,8 @@
       "catch-KRko": "포근포근",
       "catch-EUru": "бэ-эби"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/shp04_343_Cashmere.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp04_343_Cashmere.png",
+    "colors": "violet & beige"
   },
   {
     "id": 348,
@@ -17397,7 +17744,8 @@
       "catch-KRko": "됐거든",
       "catch-EUru": "пасемся"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/shp07_344_Willow.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp07_344_Willow.png",
+    "colors": "blanc & rose"
   },
   {
     "id": 349,
@@ -17447,7 +17795,8 @@
       "catch-KRko": "자기야",
       "catch-EUru": "завитушка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/shp08_345_Curlos.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp08_345_Curlos.png",
+    "colors": "rouge & vert"
   },
   {
     "id": 350,
@@ -17497,7 +17846,8 @@
       "catch-KRko": "꺄르르",
       "catch-EUru": "овечка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/shp09_346_Wendy.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp09_346_Wendy.png",
+    "colors": "rouge & vert"
   },
   {
     "id": 351,
@@ -17547,7 +17897,8 @@
       "catch-KRko": "달려",
       "catch-EUru": "сосенка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/shp10_347_Timbra.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp10_347_Timbra.png",
+    "colors": "vert & marron"
   },
   {
     "id": 352,
@@ -17597,7 +17948,8 @@
       "catch-KRko": "포테토",
       "catch-EUru": "мутончик"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/shp11_348_Frita.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp11_348_Frita.png",
+    "colors": "jaune & rouge"
   },
   {
     "id": 353,
@@ -17630,7 +17982,7 @@
     "image_uri": "https://acnhapi.com/v1/images/villagers/353",
     "bubble-color": "#515151",
     "text-color": "#fffce9",
-    "saying": "There's a black sheep in every family.",
+    "saying": "There's a noir sheep in every family.",
     "catch-translations": {
       "catch-USen": "nightshade",
       "catch-EUen": "nightshade",
@@ -17647,7 +17999,8 @@
       "catch-KRko": "수고",
       "catch-EUru": "травинка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/shp12_349_Muffy.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp12_349_Muffy.png",
+    "colors": "noir & violet"
   },
   {
     "id": 354,
@@ -17697,7 +18050,8 @@
       "catch-KRko": "므흐흐",
       "catch-EUru": "бе-бе"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/shp13_350_Pietro.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp13_350_Pietro.png",
+    "colors": "multicolore & rouge"
   },
   {
     "id": 355,
@@ -17747,7 +18101,8 @@
       "catch-KRko": "뿜뿜",
       "catch-EUru": "точно-точно"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/shp15_351_Dom.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/shp15_351_Dom.png",
+    "colors": "rouge & multicolore"
   },
   {
     "id": 356,
@@ -17797,7 +18152,8 @@
       "catch-KRko": "거얌",
       "catch-EUru": "лень"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/squ00_352_Peanut.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ00_352_Peanut.png",
+    "colors": "rouge & multicolore"
   },
   {
     "id": 357,
@@ -17847,7 +18203,8 @@
       "catch-KRko": "헤헤헤",
       "catch-EUru": "крошка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/squ01_353_Blaire.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ01_353_Blaire.png",
+    "colors": "orange & marron"
   },
   {
     "id": 358,
@@ -17897,7 +18254,8 @@
       "catch-KRko": "예용",
       "catch-EUru": "дружище"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/squ02_354_Filbert.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ02_354_Filbert.png",
+    "colors": "bleu & blanc"
   },
   {
     "id": 359,
@@ -17947,7 +18305,8 @@
       "catch-KRko": "쯧쯧",
       "catch-EUru": "бурундук"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/squ03_355_Pecan.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ03_355_Pecan.png",
+    "colors": "violet & beige"
   },
   {
     "id": 360,
@@ -17997,7 +18356,8 @@
       "catch-KRko": "송송",
       "catch-EUru": "орешек"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/squ04_356_Nibbles.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ04_356_Nibbles.png",
+    "colors": "rouge & jaune"
   },
   {
     "id": 361,
@@ -18047,7 +18407,8 @@
       "catch-KRko": "흠냐",
       "catch-EUru": "коллега"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/squ05_357_Agent%20S.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ05_357_Agent%20S.png",
+    "colors": "bleu & noir"
   },
   {
     "id": 362,
@@ -18097,7 +18458,8 @@
       "catch-KRko": "휴",
       "catch-EUru": "уа-а-а"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/squ06_358_Caroline.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ06_358_Caroline.png",
+    "colors": "multicolore & blanc"
   },
   {
     "id": 363,
@@ -18147,7 +18509,8 @@
       "catch-KRko": "까꿍",
       "catch-EUru": "мускатик"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/squ07_359_Sally.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ07_359_Sally.png",
+    "colors": "blanc & beige"
   },
   {
     "id": 364,
@@ -18197,7 +18560,8 @@
       "catch-KRko": "콰광",
       "catch-EUru": "вж-ж-ж"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/squ08_360_Static.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ08_360_Static.png",
+    "colors": "noir & jaune"
   },
   {
     "id": 365,
@@ -18247,7 +18611,8 @@
       "catch-KRko": "우훗",
       "catch-EUru": "ах-ах"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/squ09_361_Mint.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ09_361_Mint.png",
+    "colors": "rose & violet"
   },
   {
     "id": 366,
@@ -18297,7 +18662,8 @@
       "catch-KRko": "사각사각",
       "catch-EUru": "арахис"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/squ10_362_Ricky.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ10_362_Ricky.png",
+    "colors": "bleu & rouge"
   },
   {
     "id": 367,
@@ -18347,7 +18713,8 @@
       "catch-KRko": "랄랄라",
       "catch-EUru": "ух ты"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/squ11_363_Cally.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ11_363_Cally.png",
+    "colors": "rouge & vert"
   },
   {
     "id": 368,
@@ -18397,7 +18764,8 @@
       "catch-KRko": "굿굿",
       "catch-EUru": "ладно"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/squ13_364_Tasha.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ13_364_Tasha.png",
+    "colors": "beige & gris"
   },
   {
     "id": 369,
@@ -18447,7 +18815,8 @@
       "catch-KRko": "퓨우",
       "catch-EUru": "хрум"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/squ14_365_Sylvana.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ14_365_Sylvana.png",
+    "colors": "vert & violet"
   },
   {
     "id": 370,
@@ -18497,7 +18866,8 @@
       "catch-KRko": "도톨도톨",
       "catch-EUru": "чок-чок"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/squ15_366_Poppy.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ15_366_Poppy.png",
+    "colors": "vert & jaune"
   },
   {
     "id": 371,
@@ -18547,7 +18917,8 @@
       "catch-KRko": "땡글땡글",
       "catch-EUru": "треники"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/squ16_367_Sheldon.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ16_367_Sheldon.png",
+    "colors": "vert & jaune"
   },
   {
     "id": 372,
@@ -18597,7 +18968,8 @@
       "catch-KRko": "어차피",
       "catch-EUru": "тихоня"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/squ17_368_Marshal.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ17_368_Marshal.png",
+    "colors": "bleu clair & bleu"
   },
   {
     "id": 373,
@@ -18647,7 +19019,8 @@
       "catch-KRko": "알아알아",
       "catch-EUru": "фундук"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/squ18_369_Hazel.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/squ18_369_Hazel.png",
+    "colors": "rouge & jaune"
   },
   {
     "id": 374,
@@ -18697,7 +19070,8 @@
       "catch-KRko": "근데",
       "catch-EUru": "гр-р-рольф"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/tig00_370_Rolf.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/tig00_370_Rolf.png",
+    "colors": "bleu & noir"
   },
   {
     "id": 375,
@@ -18747,7 +19121,8 @@
       "catch-KRko": "내참",
       "catch-EUru": "манго"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/tig01_371_Rowan.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/tig01_371_Rowan.png",
+    "colors": "bleu clair & gris"
   },
   {
     "id": 376,
@@ -18797,7 +19172,8 @@
       "catch-KRko": "으르렁",
       "catch-EUru": "р-рык"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/tig02_372_Tybalt.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/tig02_372_Tybalt.png",
+    "colors": "bleu & violet"
   },
   {
     "id": 377,
@@ -18847,7 +19223,8 @@
       "catch-KRko": "쪼옥쪽",
       "catch-EUru": "р-р-рф"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/tig03_373_Bangle.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/tig03_373_Bangle.png",
+    "colors": "jaune & vert"
   },
   {
     "id": 378,
@@ -18897,7 +19274,8 @@
       "catch-KRko": "어흥",
       "catch-EUru": "р-разминка"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/tig04_374_Leonardo.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/tig04_374_Leonardo.png",
+    "colors": "rouge & bleu"
   },
   {
     "id": 379,
@@ -18947,7 +19325,8 @@
       "catch-KRko": "잇힝",
       "catch-EUru": "о-ля-ля"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/tig05_375_Claudia.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/tig05_375_Claudia.png",
+    "colors": "violet & blanc"
   },
   {
     "id": 380,
@@ -18997,7 +19376,8 @@
       "catch-KRko": "그래호",
       "catch-EUru": "хлоп-хлоп"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/tig06_376_Bianca.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/tig06_376_Bianca.png",
+    "colors": "rose & orange"
   },
   {
     "id": 381,
@@ -19047,7 +19427,8 @@
       "catch-KRko": "그렇잖여",
       "catch-EUru": "фыр-р-рф"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/wol00_377_Chief.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/wol00_377_Chief.png",
+    "colors": "blanc & gris"
   },
   {
     "id": 382,
@@ -19097,7 +19478,8 @@
       "catch-KRko": "봐봐",
       "catch-EUru": "ау-у-у"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/wol01_378_Lobo.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/wol01_378_Lobo.png",
+    "colors": "noir & beige"
   },
   {
     "id": 383,
@@ -19147,7 +19529,8 @@
       "catch-KRko": "거봐",
       "catch-EUru": "ау-рр"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/wol02_379_Wolfgang.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/wol02_379_Wolfgang.png",
+    "colors": "noir & vert"
   },
   {
     "id": 384,
@@ -19197,7 +19580,8 @@
       "catch-KRko": "멋져",
       "catch-EUru": "цап"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/wol03_380_Whitney.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/wol03_380_Whitney.png",
+    "colors": "bleu & bleu clair"
   },
   {
     "id": 385,
@@ -19247,7 +19631,8 @@
       "catch-KRko": "음음",
       "catch-EUru": "ом-м-м..."
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/wol04_381_Dobie.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/wol04_381_Dobie.png",
+    "colors": "marron & beige"
   },
   {
     "id": 386,
@@ -19297,7 +19682,8 @@
       "catch-KRko": "유행이야",
       "catch-EUru": "хрусть"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/wol05_382_Freya.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/wol05_382_Freya.png",
+    "colors": "vert & bleu"
   },
   {
     "id": 387,
@@ -19347,7 +19733,8 @@
       "catch-KRko": "콜록콜록",
       "catch-EUru": "грызь"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/wol06_383_Fang.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/wol06_383_Fang.png",
+    "colors": "blanc & bleu clair"
   },
   {
     "id": 388,
@@ -19397,7 +19784,8 @@
       "catch-KRko": "그러하다",
       "catch-EUru": "вздор"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/wol08_384_Vivian.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/wol08_384_Vivian.png",
+    "colors": "gris & violet"
   },
   {
     "id": 389,
@@ -19447,7 +19835,8 @@
       "catch-KRko": "후와와",
       "catch-EUru": "пилот"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/wol09_385_Skye.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/wol09_385_Skye.png",
+    "colors": "bleu & blanc"
   },
   {
     "id": 390,
@@ -19497,7 +19886,8 @@
       "catch-KRko": "오우예",
       "catch-EUru": "вожак"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/wol10_386_Kyle.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/wol10_386_Kyle.png",
+    "colors": "noir & blanc"
   },
   {
     "id": 391,
@@ -19547,6 +19937,7 @@
       "catch-KRko": "아하핫",
       "catch-EUru": "фокстрот"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/wol12_387_Audie.png"
+    "house": "https://acnhcdn.com/drivesync/render/houses/wol12_387_Audie.png",
+    "colors": "vert & blanc"
   }
 ]

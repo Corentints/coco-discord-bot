@@ -42,6 +42,11 @@ module.exports = {
 							value: villager['hobby'],
 							inline: true,
 						},
+						{
+							name: 'Couleurs favorites',
+							value: villager['colors'].charAt(0).toUpperCase() + villager['colors'].slice(1),
+							inline: false,
+						},
 					)
 					.setColor(villager['bubble-color'])
 					.setTitle(villager['name']['name-EUfr']);
