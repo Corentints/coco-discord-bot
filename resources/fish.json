@@ -1,0 +1,4814 @@
+[
+  {
+    "id": 1,
+    "file-name": "bitterling",
+    "name": {
+      "name-USen": "bitterling",
+      "name-EUfr": "bouvière",
+      "name-EUru": "горчак"
+    },
+    "availability": {
+      "month-northern": "Novembre - Mars",
+      "month-southern": "Mai - Septembre",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Rivière",
+      "rarity": "Commun",
+      "month-array-northern": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "month-array-southern": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Très petit",
+    "price": 900,
+    "price-cj": 1350,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/1"
+  },
+  {
+    "id": 2,
+    "file-name": "pale_chub",
+    "name": {
+      "name-USen": "pale chub",
+      "name-EUfr": "chevaine",
+      "name-EUru": "светлый закко"
+    },
+    "availability": {
+      "month-northern": "Toute l'année",
+      "month-southern": "Toute l'année",
+      "time": "9h - 16h",
+      "isAllDay": false,
+      "isAllYear": true,
+      "location": "Rivière",
+      "rarity": "Commun",
+      "month-array-northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month-array-southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "time-array": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    "shadow": "Très petit",
+    "price": 200,
+    "price-cj": 300,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/2"
+  },
+  {
+    "id": 3,
+    "file-name": "crucian_carp",
+    "name": {
+      "name-USen": "crucian carp",
+      "name-EUfr": "carassin",
+      "name-EUru": "карась"
+    },
+    "availability": {
+      "month-northern": "Toute l'année",
+      "month-southern": "Toute l'année",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": true,
+      "location": "Rivière",
+      "rarity": "Commun",
+      "month-array-northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month-array-southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Petit",
+    "price": 160,
+    "price-cj": 240,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/3"
+  },
+  {
+    "id": 4,
+    "file-name": "dace",
+    "name": {
+      "name-USen": "dace",
+      "name-EUfr": "vandoise",
+      "name-EUru": "елец"
+    },
+    "availability": {
+      "month-northern": "Toute l'année",
+      "month-southern": "Toute l'année",
+      "time": "16h - 9h",
+      "isAllDay": false,
+      "isAllYear": true,
+      "location": "Rivière",
+      "rarity": "Commun",
+      "month-array-northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month-array-southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "time-array": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "shadow": "Moyen",
+    "price": 240,
+    "price-cj": 360,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/4"
+  },
+  {
+    "id": 5,
+    "file-name": "carp",
+    "name": {
+      "name-USen": "carp",
+      "name-EUfr": "carpe",
+      "name-EUru": "сазан"
+    },
+    "availability": {
+      "month-northern": "Toute l'année",
+      "month-southern": "Toute l'année",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": true,
+      "location": "Étang",
+      "rarity": "Commun",
+      "month-array-northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month-array-southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Moyen",
+    "price": 300,
+    "price-cj": 450,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/5"
+  },
+  {
+    "id": 6,
+    "file-name": "koi",
+    "name": {
+      "name-USen": "koi",
+      "name-EUfr": "carpe koï",
+      "name-EUru": "карп кои"
+    },
+    "availability": {
+      "month-northern": "Toute l'année",
+      "month-southern": "Toute l'année",
+      "time": "16h - 9h",
+      "isAllDay": false,
+      "isAllYear": true,
+      "location": "Étang",
+      "rarity": "Peu commun",
+      "month-array-northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month-array-southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "time-array": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "shadow": "Moyen",
+    "price": 4000,
+    "price-cj": 6000,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/6"
+  },
+  {
+    "id": 7,
+    "file-name": "goldfish",
+    "name": {
+      "name-USen": "goldfish",
+      "name-EUfr": "poisson rouge",
+      "name-EUru": "золотая рыбка"
+    },
+    "availability": {
+      "month-northern": "Toute l'année",
+      "month-southern": "Toute l'année",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": true,
+      "location": "Étang",
+      "rarity": "Commun",
+      "month-array-northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month-array-southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Très petit",
+    "price": 1300,
+    "price-cj": 1950,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/7"
+  },
+  {
+    "id": 8,
+    "file-name": "pop-eyed_goldfish",
+    "name": {
+      "name-USen": "pop-eyed goldfish",
+      "name-EUfr": "cyprin doré",
+      "name-EUru": "телескоп"
+    },
+    "availability": {
+      "month-northern": "Toute l'année",
+      "month-southern": "Toute l'année",
+      "time": "9h - 16h",
+      "isAllDay": false,
+      "isAllYear": true,
+      "location": "Étang",
+      "rarity": "Commun",
+      "month-array-northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month-array-southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "time-array": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    "shadow": "Très petit",
+    "price": 1300,
+    "price-cj": 1950,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/8"
+  },
+  {
+    "id": 9,
+    "file-name": "ranchu_goldfish",
+    "name": {
+      "name-USen": "ranchu goldfish",
+      "name-EUfr": "ranchu",
+      "name-EUru": "ранчу"
+    },
+    "availability": {
+      "month-northern": "Toute l'année",
+      "month-southern": "Toute l'année",
+      "time": "9h - 16h",
+      "isAllDay": false,
+      "isAllYear": true,
+      "location": "Étang",
+      "rarity": "Peu commun",
+      "month-array-northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month-array-southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "time-array": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    "shadow": "Petit",
+    "price": 4500,
+    "price-cj": 6750,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/9"
+  },
+  {
+    "id": 10,
+    "file-name": "killifish",
+    "name": {
+      "name-USen": "killifish",
+      "name-EUfr": "fondule barré",
+      "name-EUru": "оризия"
+    },
+    "availability": {
+      "month-northern": "Avril - Août",
+      "month-southern": "Octobre - Février",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Étang",
+      "rarity": "Commun",
+      "month-array-northern": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "month-array-southern": [
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Très petit",
+    "price": 300,
+    "price-cj": 450,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/10"
+  },
+  {
+    "id": 11,
+    "file-name": "crawfish",
+    "name": {
+      "name-USen": "crawfish",
+      "name-EUfr": "écrevisse",
+      "name-EUru": "рак"
+    },
+    "availability": {
+      "month-northern": "Avril - Septembre",
+      "month-southern": "Octobre - Mars",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Étang",
+      "rarity": "Commun",
+      "month-array-northern": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "month-array-southern": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Petit",
+    "price": 200,
+    "price-cj": 300,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/11"
+  },
+  {
+    "id": 12,
+    "file-name": "soft-shelled_turtle",
+    "name": {
+      "name-USen": "soft-shelled turtle",
+      "name-EUfr": "tortue trionyx",
+      "name-EUru": "трионикс"
+    },
+    "availability": {
+      "month-northern": "Août - Septembre",
+      "month-southern": "Février - Mars",
+      "time": "16h - 9h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Rivière",
+      "rarity": "Peu commun",
+      "month-array-northern": [
+        8,
+        9
+      ],
+      "month-array-southern": [
+        2,
+        3
+      ],
+      "time-array": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "shadow": "Moyen",
+    "price": 3750,
+    "price-cj": 5625,
+    "alt-catch-phrase": [
+      "I caught a soft-shelled turtle! I should take a shellfie!"
+    ],
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/12"
+  },
+  {
+    "id": 13,
+    "file-name": "snapping_turtle",
+    "name": {
+      "name-USen": "snapping turtle",
+      "name-EUfr": "tortue serpentine",
+      "name-EUru": "каймановая черепаха"
+    },
+    "availability": {
+      "month-northern": "Avril - Octobre",
+      "month-southern": "Octobre - Avril",
+      "time": "21h - 4h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Rivière",
+      "rarity": "Commun",
+      "month-array-northern": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "month-array-southern": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "time-array": [
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "shadow": "Grand",
+    "price": 5000,
+    "price-cj": 7500,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/13"
+  },
+  {
+    "id": 14,
+    "file-name": "tadpole",
+    "name": {
+      "name-USen": "tadpole",
+      "name-EUfr": "têtard",
+      "name-EUru": "головастик"
+    },
+    "availability": {
+      "month-northern": "Mars - Juillet",
+      "month-southern": "Septembre - Janvier",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Étang",
+      "rarity": "Commun",
+      "month-array-northern": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "month-array-southern": [
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Très petit",
+    "price": 100,
+    "price-cj": 150,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/14"
+  },
+  {
+    "id": 15,
+    "file-name": "frog",
+    "name": {
+      "name-USen": "frog",
+      "name-EUfr": "grenouille",
+      "name-EUru": "лягушка"
+    },
+    "availability": {
+      "month-northern": "Mai - Août",
+      "month-southern": "Novembre - Février",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Étang",
+      "rarity": "Commun",
+      "month-array-northern": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "month-array-southern": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Petit",
+    "price": 120,
+    "price-cj": 180,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/15"
+  },
+  {
+    "id": 16,
+    "file-name": "freshwater_goby",
+    "name": {
+      "name-USen": "freshwater goby",
+      "name-EUfr": "gobie d'eau douce",
+      "name-EUru": "одонтобутис"
+    },
+    "availability": {
+      "month-northern": "Toute l'année",
+      "month-southern": "Toute l'année",
+      "time": "16h - 9h",
+      "isAllDay": false,
+      "isAllYear": true,
+      "location": "Rivière",
+      "rarity": "Commun",
+      "month-array-northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month-array-southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "time-array": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "shadow": "Petit",
+    "price": 400,
+    "price-cj": 600,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/16"
+  },
+  {
+    "id": 17,
+    "file-name": "loach",
+    "name": {
+      "name-USen": "loach",
+      "name-EUfr": "loche d'étang",
+      "name-EUru": "вьюн"
+    },
+    "availability": {
+      "month-northern": "Mars - Mai",
+      "month-southern": "Septembre - Novembre",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Rivière",
+      "rarity": "Commun",
+      "month-array-northern": [
+        3,
+        4,
+        5
+      ],
+      "month-array-southern": [
+        9,
+        10,
+        11
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Petit",
+    "price": 400,
+    "price-cj": 600,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/17"
+  },
+  {
+    "id": 18,
+    "file-name": "catfish",
+    "name": {
+      "name-USen": "catfish",
+      "name-EUfr": "silure",
+      "name-EUru": "сом"
+    },
+    "availability": {
+      "month-northern": "Mai - Octobre",
+      "month-southern": "Novembre - Avril",
+      "time": "16h - 9h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Étang",
+      "rarity": "Commun",
+      "month-array-northern": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "month-array-southern": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "time-array": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "shadow": "Moyen",
+    "price": 800,
+    "price-cj": 1200,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/18"
+  },
+  {
+    "id": 19,
+    "file-name": "giant_snakehead",
+    "name": {
+      "name-USen": "giant snakehead",
+      "name-EUfr": "tête-de-serpent",
+      "name-EUru": "змееголов"
+    },
+    "availability": {
+      "month-northern": "Juin - Août",
+      "month-southern": "Décembre - Février",
+      "time": "9h - 16h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Étang",
+      "rarity": "Rare",
+      "month-array-northern": [
+        6,
+        7,
+        8
+      ],
+      "month-array-southern": [
+        12,
+        1,
+        2
+      ],
+      "time-array": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    "shadow": "Grand",
+    "price": 5500,
+    "price-cj": 8250,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/19"
+  },
+  {
+    "id": 20,
+    "file-name": "bluegill",
+    "name": {
+      "name-USen": "bluegill",
+      "name-EUfr": "crapet",
+      "name-EUru": "солнечник"
+    },
+    "availability": {
+      "month-northern": "Toute l'année",
+      "month-southern": "Toute l'année",
+      "time": "9h - 16h",
+      "isAllDay": false,
+      "isAllYear": true,
+      "location": "Rivière",
+      "rarity": "Commun",
+      "month-array-northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month-array-southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "time-array": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    "shadow": "Petit",
+    "price": 180,
+    "price-cj": 270,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/20"
+  },
+  {
+    "id": 21,
+    "file-name": "yellow_perch",
+    "name": {
+      "name-USen": "yellow perch",
+      "name-EUfr": "perche jaune",
+      "name-EUru": "желтый окунь"
+    },
+    "availability": {
+      "month-northern": "Octobre - Mars",
+      "month-southern": "Avril - Septembre",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Rivière",
+      "rarity": "Commun",
+      "month-array-northern": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "month-array-southern": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Moyen",
+    "price": 300,
+    "price-cj": 450,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/21"
+  },
+  {
+    "id": 22,
+    "file-name": "black_bass",
+    "name": {
+      "name-USen": "black bass",
+      "name-EUfr": "bar",
+      "name-EUru": "большеротый окунь"
+    },
+    "availability": {
+      "month-northern": "Toute l'année",
+      "month-southern": "Toute l'année",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": true,
+      "location": "Rivière",
+      "rarity": "Commun",
+      "month-array-northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month-array-southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Moyen",
+    "price": 400,
+    "price-cj": 600,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/22"
+  },
+  {
+    "id": 23,
+    "file-name": "tilapia",
+    "name": {
+      "name-USen": "tilapia",
+      "name-EUfr": "tilapia",
+      "name-EUru": "тилапия"
+    },
+    "availability": {
+      "month-northern": "Juin - Octobre",
+      "month-southern": "Décembre - Avril",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Rivière",
+      "rarity": "Commun",
+      "month-array-northern": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "month-array-southern": [
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Moyen",
+    "price": 800,
+    "price-cj": 1200,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/23"
+  },
+  {
+    "id": 24,
+    "file-name": "pike",
+    "name": {
+      "name-USen": "pike",
+      "name-EUfr": "brochet",
+      "name-EUru": "щука"
+    },
+    "availability": {
+      "month-northern": "Septembre - Décembre",
+      "month-southern": "Mars - Juin",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Rivière",
+      "rarity": "Peu commun",
+      "month-array-northern": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "month-array-southern": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Grand",
+    "price": 1800,
+    "price-cj": 2700,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/24"
+  },
+  {
+    "id": 25,
+    "file-name": "Étang_smelt",
+    "name": {
+      "name-USen": "Étang smelt",
+      "name-EUfr": "éperlan",
+      "name-EUru": "малая корюшка"
+    },
+    "availability": {
+      "month-northern": "Décembre - Février",
+      "month-southern": "Juin - Août",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Rivière",
+      "rarity": "Commun",
+      "month-array-northern": [
+        12,
+        1,
+        2
+      ],
+      "month-array-southern": [
+        6,
+        7,
+        8
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Petit",
+    "price": 400,
+    "price-cj": 600,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/25"
+  },
+  {
+    "id": 26,
+    "file-name": "sweetfish",
+    "name": {
+      "name-USen": "sweetfish",
+      "name-EUfr": "ayu",
+      "name-EUru": "айю"
+    },
+    "availability": {
+      "month-northern": "Juillet - Septembre",
+      "month-southern": "Janvier - Mars",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Rivière",
+      "rarity": "Commun",
+      "month-array-northern": [
+        7,
+        8,
+        9
+      ],
+      "month-array-southern": [
+        1,
+        2,
+        3
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Moyen",
+    "price": 900,
+    "price-cj": 1350,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/26"
+  },
+  {
+    "id": 27,
+    "file-name": "cherry_salmon",
+    "name": {
+      "name-USen": "cherry salmon",
+      "name-EUfr": "saumon masou",
+      "name-EUru": "сима"
+    },
+    "availability": {
+      "month-northern": "Mars - Juin \n& Septembre - Novembre",
+      "month-southern": "Mars - Mai \n& Septembre - Décembre",
+      "time": "16h - 9h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Rivière (Falaise)",
+      "rarity": "Commun",
+      "month-array-northern": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "month-array-southern": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12
+      ],
+      "time-array": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "shadow": "Moyen",
+    "price": 1000,
+    "price-cj": 1500,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/27"
+  },
+  {
+    "id": 28,
+    "file-name": "char",
+    "name": {
+      "name-USen": "char",
+      "name-EUfr": "omble",
+      "name-EUru": "голец"
+    },
+    "availability": {
+      "month-northern": "Mars - Juin \n& Septembre - Novembre",
+      "month-southern": "Mars - Mai \n& Septembre - Décembre",
+      "time": "16h - 9h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Rivière (Falaise) \n& Étang",
+      "rarity": "Peu commun",
+      "month-array-northern": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "month-array-southern": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12
+      ],
+      "time-array": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "shadow": "Moyen",
+    "price": 3800,
+    "price-cj": 5700,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/28"
+  },
+  {
+    "id": 29,
+    "file-name": "golden_trout",
+    "name": {
+      "name-USen": "golden trout",
+      "name-EUfr": "truite dorée",
+      "name-EUru": "золотая форель"
+    },
+    "availability": {
+      "month-northern": "Mars - Mai \n& Septembre - Novembre",
+      "month-southern": "Mars - Mai \n& Septembre - Novembre",
+      "time": "16h - 9h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Rivière (Falaise)",
+      "rarity": "Ultra-rare",
+      "month-array-northern": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11
+      ],
+      "month-array-southern": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11
+      ],
+      "time-array": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "shadow": "Moyen",
+    "price": 15000,
+    "price-cj": 22500,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/29"
+  },
+  {
+    "id": 30,
+    "file-name": "stringfish",
+    "name": {
+      "name-USen": "stringfish",
+      "name-EUfr": "dai yu",
+      "name-EUru": "таймень"
+    },
+    "availability": {
+      "month-northern": "Décembre - Mars",
+      "month-southern": "Juin - Septembre",
+      "time": "16h - 9h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Rivière (Falaise)",
+      "rarity": "Ultra-rare",
+      "month-array-northern": [
+        12,
+        1,
+        2,
+        3
+      ],
+      "month-array-southern": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "time-array": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "shadow": "Grand",
+    "price": 15000,
+    "price-cj": 22500,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/30"
+  },
+  {
+    "id": 31,
+    "file-name": "salmon",
+    "name": {
+      "name-USen": "salmon",
+      "name-EUfr": "saumon",
+      "name-EUru": "лосось"
+    },
+    "availability": {
+      "month-northern": "Septembre",
+      "month-southern": "Mars",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Rivière (embouchures)",
+      "rarity": "Commun",
+      "month-array-northern": [
+        9
+      ],
+      "month-array-southern": [
+        3
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Moyen",
+    "price": 700,
+    "price-cj": 1050,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/31"
+  },
+  {
+    "id": 32,
+    "file-name": "king_salmon",
+    "name": {
+      "name-USen": "king salmon",
+      "name-EUfr": "saumon roi",
+      "name-EUru": "чавыча"
+    },
+    "availability": {
+      "month-northern": "Septembre",
+      "month-southern": "Mars",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Rivière (embouchures)",
+      "rarity": "Peu commun",
+      "month-array-northern": [
+        9
+      ],
+      "month-array-southern": [
+        3
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Géant",
+    "price": 1800,
+    "price-cj": 2700,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/32"
+  },
+  {
+    "id": 33,
+    "file-name": "mitten_crab",
+    "name": {
+      "name-USen": "mitten crab",
+      "name-EUfr": "crabe chinois",
+      "name-EUru": "мохнорукий краб"
+    },
+    "availability": {
+      "month-northern": "Septembre - Novembre",
+      "month-southern": "Mars - Mai",
+      "time": "16h - 9h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Rivière",
+      "rarity": "Peu commun",
+      "month-array-northern": [
+        9,
+        10,
+        11
+      ],
+      "month-array-southern": [
+        3,
+        4,
+        5
+      ],
+      "time-array": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "shadow": "Petit",
+    "price": 2000,
+    "price-cj": 3000,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/33"
+  },
+  {
+    "id": 34,
+    "file-name": "guppy",
+    "name": {
+      "name-USen": "guppy",
+      "name-EUfr": "guppy",
+      "name-EUru": "гуппи"
+    },
+    "availability": {
+      "month-northern": "Avril - Novembre",
+      "month-southern": "Octobre - Mai",
+      "time": "9h - 16h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Rivière",
+      "rarity": "Commun",
+      "month-array-northern": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "month-array-southern": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "time-array": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    "shadow": "Très petit",
+    "price": 1300,
+    "price-cj": 1950,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/34"
+  },
+  {
+    "id": 35,
+    "file-name": "nibble_fish",
+    "name": {
+      "name-USen": "nibble fish",
+      "name-EUfr": "poisson docteur",
+      "name-EUru": "рыба-доктор"
+    },
+    "availability": {
+      "month-northern": "Mai - Septembre",
+      "month-southern": "Novembre - Mars",
+      "time": "9h - 16h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Rivière",
+      "rarity": "Peu commun",
+      "month-array-northern": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "month-array-southern": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "time-array": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    "shadow": "Très petit",
+    "price": 1500,
+    "price-cj": 2250,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/35"
+  },
+  {
+    "id": 36,
+    "file-name": "angelfish",
+    "name": {
+      "name-USen": "angelfish",
+      "name-EUfr": "poisson-ange",
+      "name-EUru": "скалярия"
+    },
+    "availability": {
+      "month-northern": "Mai - Octobre",
+      "month-southern": "Novembre - Avril",
+      "time": "16h - 9h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Rivière",
+      "rarity": "Peu commun",
+      "month-array-northern": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "month-array-southern": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "time-array": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "shadow": "Petit",
+    "price": 3000,
+    "price-cj": 4500,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/36"
+  },
+  {
+    "id": 37,
+    "file-name": "betta",
+    "name": {
+      "name-USen": "betta",
+      "name-EUfr": "combattant",
+      "name-EUru": "сиамский петушок"
+    },
+    "availability": {
+      "month-northern": "Mai - Octobre",
+      "month-southern": "Novembre - Avril",
+      "time": "9h - 16h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Rivière",
+      "rarity": "Peu commun",
+      "month-array-northern": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "month-array-southern": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "time-array": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    "shadow": "Petit",
+    "price": 2500,
+    "price-cj": 3750,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/37"
+  },
+  {
+    "id": 38,
+    "file-name": "neon_tetra",
+    "name": {
+      "name-USen": "neon tetra",
+      "name-EUfr": "néon bleu",
+      "name-EUru": "голубой неон"
+    },
+    "availability": {
+      "month-northern": "Avril - Novembre",
+      "month-southern": "Octobre - Mai",
+      "time": "9h - 16h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Rivière",
+      "rarity": "Commun",
+      "month-array-northern": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "month-array-southern": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "time-array": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    "shadow": "Très petit",
+    "price": 500,
+    "price-cj": 750,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/38"
+  },
+  {
+    "id": 39,
+    "file-name": "rainbowfish",
+    "name": {
+      "name-USen": "rainbowfish",
+      "name-EUfr": "poisson arc-en-ciel",
+      "name-EUru": "радужница"
+    },
+    "availability": {
+      "month-northern": "Mai - Octobre",
+      "month-southern": "Novembre - Avril",
+      "time": "9h - 16h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Rivière",
+      "rarity": "Commun",
+      "month-array-northern": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "month-array-southern": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "time-array": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    "shadow": "Très petit",
+    "price": 800,
+    "price-cj": 1200,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/39"
+  },
+  {
+    "id": 40,
+    "file-name": "piranha",
+    "name": {
+      "name-USen": "piranha",
+      "name-EUfr": "piranha",
+      "name-EUru": "пиранья"
+    },
+    "availability": {
+      "month-northern": "Juin - Septembre",
+      "month-southern": "Décembre - Mars",
+      "time": "9h - 16h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Rivière",
+      "rarity": "Rare",
+      "month-array-northern": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "month-array-southern": [
+        12,
+        1,
+        2,
+        3
+      ],
+      "time-array": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "shadow": "Petit",
+    "price": 2500,
+    "price-cj": 3750,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/40"
+  },
+  {
+    "id": 41,
+    "file-name": "arowana",
+    "name": {
+      "name-USen": "arowana",
+      "name-EUfr": "arowana",
+      "name-EUru": "аравана"
+    },
+    "availability": {
+      "month-northern": "Juin - Septembre",
+      "month-southern": "Décembre - Mars",
+      "time": "16h - 9h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Rivière",
+      "rarity": "Rare",
+      "month-array-northern": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "month-array-southern": [
+        12,
+        1,
+        2,
+        3
+      ],
+      "time-array": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "shadow": "Moyen",
+    "price": 10000,
+    "price-cj": 15000,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/41"
+  },
+  {
+    "id": 42,
+    "file-name": "dorado",
+    "name": {
+      "name-USen": "dorado",
+      "name-EUfr": "dorado",
+      "name-EUru": "дорадо"
+    },
+    "availability": {
+      "month-northern": "Juin - Septembre",
+      "month-southern": "Décembre - Mars",
+      "time": "4h - 21h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Rivière",
+      "rarity": "Ultra-rare",
+      "month-array-northern": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "month-array-southern": [
+        12,
+        1,
+        2,
+        3
+      ],
+      "time-array": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    "shadow": "Grand",
+    "price": 15000,
+    "price-cj": 22500,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/42"
+  },
+  {
+    "id": 43,
+    "file-name": "gar",
+    "name": {
+      "name-USen": "gar",
+      "name-EUfr": "gar",
+      "name-EUru": "панцирная щука"
+    },
+    "availability": {
+      "month-northern": "Juin - Septembre",
+      "month-southern": "Décembre - Mars",
+      "time": "16h - 9h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Étang",
+      "rarity": "Rare",
+      "month-array-northern": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "month-array-southern": [
+        12,
+        1,
+        2,
+        3
+      ],
+      "time-array": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "shadow": "Grand",
+    "price": 6000,
+    "price-cj": 9000,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/43"
+  },
+  {
+    "id": 44,
+    "file-name": "arapaima",
+    "name": {
+      "name-USen": "arapaima",
+      "name-EUfr": "arapaïma",
+      "name-EUru": "арапаима"
+    },
+    "availability": {
+      "month-northern": "Juin - Septembre",
+      "month-southern": "Décembre - Mars",
+      "time": "16h - 9h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Rivière",
+      "rarity": "Rare",
+      "month-array-northern": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "month-array-southern": [
+        12,
+        1,
+        2,
+        3
+      ],
+      "time-array": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "shadow": "Géant",
+    "price": 10000,
+    "price-cj": 15000,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/44"
+  },
+  {
+    "id": 45,
+    "file-name": "saddled_bichir",
+    "name": {
+      "name-USen": "saddled bichir",
+      "name-EUfr": "bichir",
+      "name-EUru": "многопер Эндлихера"
+    },
+    "availability": {
+      "month-northern": "Juin - Septembre",
+      "month-southern": "Décembre - Mars",
+      "time": "21h - 4h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Rivière",
+      "rarity": "Peu commun",
+      "month-array-northern": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "month-array-southern": [
+        12,
+        1,
+        2,
+        3
+      ],
+      "time-array": [
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "shadow": "Moyen",
+    "price": 4000,
+    "price-cj": 6000,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/45"
+  },
+  {
+    "id": 46,
+    "file-name": "sturgeon",
+    "name": {
+      "name-USen": "sturgeon",
+      "name-EUfr": "esturgeon",
+      "name-EUru": "осетр"
+    },
+    "availability": {
+      "month-northern": "Septembre - Mars",
+      "month-southern": "Mars - Septembre",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Rivière (embouchures)",
+      "rarity": "Peu commun",
+      "month-array-northern": [
+        9,
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "month-array-southern": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Géant",
+    "price": 10000,
+    "price-cj": 15000,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/46"
+  },
+  {
+    "id": 47,
+    "file-name": "sea_butterfly",
+    "name": {
+      "name-USen": "sea butterfly",
+      "name-EUfr": "clione",
+      "name-EUru": "морской ангел"
+    },
+    "availability": {
+      "month-northern": "Décembre - Mars",
+      "month-southern": "Juin - Septembre",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Océan",
+      "rarity": "Commun",
+      "month-array-northern": [
+        12,
+        1,
+        2,
+        3
+      ],
+      "month-array-southern": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Très petit",
+    "price": 1000,
+    "price-cj": 1500,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/47"
+  },
+  {
+    "id": 48,
+    "file-name": "sea_horse",
+    "name": {
+      "name-USen": "sea horse",
+      "name-EUfr": "hippocampe",
+      "name-EUru": "морской конек"
+    },
+    "availability": {
+      "month-northern": "Avril - Novembre",
+      "month-southern": "Octobre - Mai",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Océan",
+      "rarity": "Commun",
+      "month-array-northern": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "month-array-southern": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Très petit",
+    "price": 1100,
+    "price-cj": 1650,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/48"
+  },
+  {
+    "id": 49,
+    "file-name": "clownfish",
+    "name": {
+      "name-USen": "clown fish",
+      "name-EUfr": "poisson-clown",
+      "name-EUru": "рыба-клоун"
+    },
+    "availability": {
+      "month-northern": "Avril - Septembre",
+      "month-southern": "Octobre - Mars",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Océan",
+      "rarity": "Commun",
+      "month-array-northern": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "month-array-southern": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Très petit",
+    "price": 650,
+    "price-cj": 975,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/49"
+  },
+  {
+    "id": 50,
+    "file-name": "surgeonfish",
+    "name": {
+      "name-USen": "surgeonfish",
+      "name-EUfr": "poisson chirurgien",
+      "name-EUru": "флаговый хирург"
+    },
+    "availability": {
+      "month-northern": "Avril - Septembre",
+      "month-southern": "Octobre - Mars",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Océan",
+      "rarity": "Commun",
+      "month-array-northern": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "month-array-southern": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Petit",
+    "price": 1000,
+    "price-cj": 1500,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/50"
+  },
+  {
+    "id": 51,
+    "file-name": "butterfly_fish",
+    "name": {
+      "name-USen": "butterfly fish",
+      "name-EUfr": "poisson-papillon",
+      "name-EUru": "рыба-бабочка"
+    },
+    "availability": {
+      "month-northern": "Avril - Septembre",
+      "month-southern": "Octobre - Mars",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Océan",
+      "rarity": "Commun",
+      "month-array-northern": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "month-array-southern": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Petit",
+    "price": 1000,
+    "price-cj": 1500,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/51"
+  },
+  {
+    "id": 52,
+    "file-name": "napoleonfish",
+    "name": {
+      "name-USen": "Napoleonfish",
+      "name-EUfr": "napoléon",
+      "name-EUru": "рыба-наполеон"
+    },
+    "availability": {
+      "month-northern": "Juillet - Août",
+      "month-southern": "Janvier - Février",
+      "time": "4h - 21h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Océan",
+      "rarity": "Rare",
+      "month-array-northern": [
+        7,
+        8
+      ],
+      "month-array-southern": [
+        1,
+        2
+      ],
+      "time-array": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    "shadow": "Géant",
+    "price": 10000,
+    "price-cj": 15000,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/52"
+  },
+  {
+    "id": 53,
+    "file-name": "zebra_turkeyfish",
+    "name": {
+      "name-USen": "zebra turkeyfish",
+      "name-EUfr": "poisson-scorpion",
+      "name-EUru": "крылатка"
+    },
+    "availability": {
+      "month-northern": "Avril - Novembre",
+      "month-southern": "Octobre - Mai",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Océan",
+      "rarity": "Commun",
+      "month-array-northern": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "month-array-southern": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Moyen",
+    "price": 500,
+    "price-cj": 750,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/53"
+  },
+  {
+    "id": 54,
+    "file-name": "blowfish",
+    "name": {
+      "name-USen": "blowfish",
+      "name-EUfr": "poisson-ballon",
+      "name-EUru": "бурый скалозуб"
+    },
+    "availability": {
+      "month-northern": "Novembre - Février",
+      "month-southern": "Mai - Août",
+      "time": "21h - 4h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Océan",
+      "rarity": "Peu commun",
+      "month-array-northern": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "month-array-southern": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "time-array": [
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "shadow": "Moyen",
+    "price": 5000,
+    "price-cj": 7500,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/54"
+  },
+  {
+    "id": 55,
+    "file-name": "puffer_fish",
+    "name": {
+      "name-USen": "puffer fish",
+      "name-EUfr": "poisson-porc-épic",
+      "name-EUru": "еж-рыба"
+    },
+    "availability": {
+      "month-northern": "Juillet - Septembre",
+      "month-southern": "Janvier - Mars",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Océan",
+      "rarity": "Commun",
+      "month-array-northern": [
+        7,
+        8,
+        9
+      ],
+      "month-array-southern": [
+        1,
+        2,
+        3
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Moyen",
+    "price": 250,
+    "price-cj": 375,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/55"
+  },
+  {
+    "id": 56,
+    "file-name": "anchovy",
+    "name": {
+      "name-USen": "anchovy",
+      "name-EUfr": "anchois",
+      "name-EUru": "хамса"
+    },
+    "availability": {
+      "month-northern": "Toute l'année",
+      "month-southern": "Toute l'année",
+      "time": "4h - 21h",
+      "isAllDay": false,
+      "isAllYear": true,
+      "location": "Océan",
+      "rarity": "Commun",
+      "month-array-northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month-array-southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "time-array": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    "shadow": "Petit",
+    "price": 200,
+    "price-cj": 300,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/56"
+  },
+  {
+    "id": 57,
+    "file-name": "horse_mackerel",
+    "name": {
+      "name-USen": "horse mackerel",
+      "name-EUfr": "chinchard",
+      "name-EUru": "ставрида"
+    },
+    "availability": {
+      "month-northern": "Toute l'année",
+      "month-southern": "Toute l'année",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": true,
+      "location": "Océan",
+      "rarity": "Commun",
+      "month-array-northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month-array-southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Petit",
+    "price": 150,
+    "price-cj": 225,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/57"
+  },
+  {
+    "id": 58,
+    "file-name": "barred_knifejaw",
+    "name": {
+      "name-USen": "barred knifejaw",
+      "name-EUfr": "scarus",
+      "name-EUru": "полосатый оплегнат"
+    },
+    "availability": {
+      "month-northern": "Mars - Novembre",
+      "month-southern": "Septembre - Mai",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Océan",
+      "rarity": "Peu commun",
+      "month-array-northern": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "month-array-southern": [
+        9,
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Moyen",
+    "price": 5000,
+    "price-cj": 7500,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/58"
+  },
+  {
+    "id": 59,
+    "file-name": "sea_bass",
+    "name": {
+      "name-USen": "sea bass",
+      "name-EUfr": "bar commun",
+      "name-EUru": "морской судак"
+    },
+    "availability": {
+      "month-northern": "Toute l'année",
+      "month-southern": "Toute l'année",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": true,
+      "location": "Océan",
+      "rarity": "Commun",
+      "month-array-northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month-array-southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Grand",
+    "price": 400,
+    "price-cj": 600,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/59"
+  },
+  {
+    "id": 60,
+    "file-name": "red_snapper",
+    "name": {
+      "name-USen": "red snapper",
+      "name-EUfr": "vivaneau",
+      "name-EUru": "красный луциан"
+    },
+    "availability": {
+      "month-northern": "Toute l'année",
+      "month-southern": "Toute l'année",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": true,
+      "location": "Océan",
+      "rarity": "Commun",
+      "month-array-northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month-array-southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Moyen",
+    "price": 3000,
+    "price-cj": 4500,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/60"
+  },
+  {
+    "id": 61,
+    "file-name": "dab",
+    "name": {
+      "name-USen": "dab",
+      "name-EUfr": "limande",
+      "name-EUru": "камбала"
+    },
+    "availability": {
+      "month-northern": "Octobre - Avril",
+      "month-southern": "Avril - Octobre",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Océan",
+      "rarity": "Commun",
+      "month-array-northern": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "month-array-southern": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Moyen",
+    "price": 300,
+    "price-cj": 450,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/61"
+  },
+  {
+    "id": 62,
+    "file-name": "olive_flounder",
+    "name": {
+      "name-USen": "olive flounder",
+      "name-EUfr": "cardeau",
+      "name-EUru": "ложный палтус"
+    },
+    "availability": {
+      "month-northern": "Toute l'année",
+      "month-southern": "Toute l'année",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": true,
+      "location": "Océan",
+      "rarity": "Commun",
+      "month-array-northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month-array-southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Grand",
+    "price": 800,
+    "price-cj": 1200,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/62"
+  },
+  {
+    "id": 63,
+    "file-name": "squid",
+    "name": {
+      "name-USen": "squid",
+      "name-EUfr": "calmar",
+      "name-EUru": "кальмар"
+    },
+    "availability": {
+      "month-northern": "Décembre - Août",
+      "month-southern": "Juin - Février",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Océan",
+      "rarity": "Commun",
+      "month-array-northern": [
+        12,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "month-array-southern": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Moyen",
+    "price": 500,
+    "price-cj": 750,
+    "alt-catch-phrase": [
+      "I caught a squid! I had an inkling I might!",
+      "I caught a squid! Do they...not actually \"bloop\"?"
+    ],
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/63"
+  },
+  {
+    "id": 64,
+    "file-name": "moray_eel",
+    "name": {
+      "name-USen": "moray eel",
+      "name-EUfr": "murène",
+      "name-EUru": "мурена"
+    },
+    "availability": {
+      "month-northern": "Août - Octobre",
+      "month-southern": "Février - Avril",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Océan",
+      "rarity": "Peu commun",
+      "month-array-northern": [
+        8,
+        9,
+        10
+      ],
+      "month-array-southern": [
+        2,
+        3,
+        4
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Narrow",
+    "price": 2000,
+    "price-cj": 3000,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/64"
+  },
+  {
+    "id": 65,
+    "file-name": "ribbon_eel",
+    "name": {
+      "name-USen": "ribbon eel",
+      "name-EUfr": "murène ruban bleue",
+      "name-EUru": "носатая мурена"
+    },
+    "availability": {
+      "month-northern": "Juin - Octobre",
+      "month-southern": "Décembre - Avril",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Océan",
+      "rarity": "Commun",
+      "month-array-northern": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "month-array-southern": [
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Narrow",
+    "price": 600,
+    "price-cj": 900,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/65"
+  },
+  {
+    "id": 66,
+    "file-name": "tuna",
+    "name": {
+      "name-USen": "tuna",
+      "name-EUfr": "thon",
+      "name-EUru": "тунец"
+    },
+    "availability": {
+      "month-northern": "Novembre - Avril",
+      "month-southern": "Mai - Octobre",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Ponton",
+      "rarity": "Rare",
+      "month-array-northern": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "month-array-southern": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Géant",
+    "price": 7000,
+    "price-cj": 10500,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/66"
+  },
+  {
+    "id": 67,
+    "file-name": "blue_marlin",
+    "name": {
+      "name-USen": "blue marlin",
+      "name-EUfr": "marlin bleu",
+      "name-EUru": "голубой марлин"
+    },
+    "availability": {
+      "month-northern": "Novembre - Avril \n& Juillet - Septembre",
+      "month-southern": "Mai - Octobre \n& Janvier - Mars",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Ponton",
+      "rarity": "Rare",
+      "month-array-northern": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        7,
+        8,
+        9
+      ],
+      "month-array-southern": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        1,
+        2,
+        3
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Géant",
+    "price": 10000,
+    "price-cj": 15000,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/67"
+  },
+  {
+    "id": 68,
+    "file-name": "giant_trevally",
+    "name": {
+      "name-USen": "giant trevally",
+      "name-EUfr": "carangue grosse tête",
+      "name-EUru": "гигантский каранкс"
+    },
+    "availability": {
+      "month-northern": "Mai - Octobre",
+      "month-southern": "Novembre - Avril",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Ponton",
+      "rarity": "Peu commun",
+      "month-array-northern": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "month-array-southern": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Grand",
+    "price": 4500,
+    "price-cj": 6750,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/68"
+  },
+  {
+    "id": 69,
+    "file-name": "mahi-mahi",
+    "name": {
+      "name-USen": "mahi-mahi",
+      "name-EUfr": "coryphène",
+      "name-EUru": "корифена"
+    },
+    "availability": {
+      "month-northern": "Mai - Octobre",
+      "month-southern": "Novembre - Avril",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Ponton",
+      "rarity": "Rare",
+      "month-array-northern": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "month-array-southern": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Grand",
+    "price": 6000,
+    "price-cj": 9000,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/69"
+  },
+  {
+    "id": 70,
+    "file-name": "ocean_sunfish",
+    "name": {
+      "name-USen": "ocean sunfish",
+      "name-EUfr": "lune de mer",
+      "name-EUru": "луна-рыба"
+    },
+    "availability": {
+      "month-northern": "Juillet - Septembre",
+      "month-southern": "Janvier - Mars",
+      "time": "4h - 21h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Océan",
+      "rarity": "Peu commun",
+      "month-array-northern": [
+        7,
+        8,
+        9
+      ],
+      "month-array-southern": [
+        1,
+        2,
+        3
+      ],
+      "time-array": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    "shadow": "Géant (aileron)",
+    "price": 4000,
+    "price-cj": 6000,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/70"
+  },
+  {
+    "id": 71,
+    "file-name": "ray",
+    "name": {
+      "name-USen": "ray",
+      "name-EUfr": "raie",
+      "name-EUru": "красный хвостокол"
+    },
+    "availability": {
+      "month-northern": "Août - Novembre",
+      "month-southern": "Février - Mai",
+      "time": "4h - 21h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Océan",
+      "rarity": "Peu commun",
+      "month-array-northern": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "month-array-southern": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "time-array": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    "shadow": "Grand",
+    "price": 3000,
+    "price-cj": 4500,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/71"
+  },
+  {
+    "id": 72,
+    "file-name": "saw_shark",
+    "name": {
+      "name-USen": "saw shark",
+      "name-EUfr": "requin scie",
+      "name-EUru": "акула-пилонос"
+    },
+    "availability": {
+      "month-northern": "Juin - Septembre",
+      "month-southern": "Décembre - Mars",
+      "time": "16h - 9h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Océan",
+      "rarity": "Rare",
+      "month-array-northern": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "month-array-southern": [
+        12,
+        1,
+        2,
+        3
+      ],
+      "time-array": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "shadow": "Géant (Aileron)",
+    "price": 12000,
+    "price-cj": 18000,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/72"
+  },
+  {
+    "id": 73,
+    "file-name": "hammerhead_shark",
+    "name": {
+      "name-USen": "hammerhead shark",
+      "name-EUfr": "requin marteau",
+      "name-EUru": "рыба-молот"
+    },
+    "availability": {
+      "month-northern": "Juin - Septembre",
+      "month-southern": "Décembre - Mars",
+      "time": "16h - 9h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Océan",
+      "rarity": "Peu commun",
+      "month-array-northern": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "month-array-southern": [
+        12,
+        1,
+        2,
+        3
+      ],
+      "time-array": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "shadow": "Géant (Aileron)",
+    "price": 8000,
+    "price-cj": 12000,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/73"
+  },
+  {
+    "id": 74,
+    "file-name": "great_white_shark",
+    "name": {
+      "name-USen": "great white shark",
+      "name-EUfr": "grand requin blanc",
+      "name-EUru": "большая белая акула"
+    },
+    "availability": {
+      "month-northern": "Juin - Septembre",
+      "month-southern": "Décembre - Mars",
+      "time": "16h - 9h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Océan",
+      "rarity": "Rare",
+      "month-array-northern": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "month-array-southern": [
+        12,
+        1,
+        2,
+        3
+      ],
+      "time-array": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "shadow": "Géant (Aileron)",
+    "price": 15000,
+    "price-cj": 22500,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/74"
+  },
+  {
+    "id": 75,
+    "file-name": "whale_shark",
+    "name": {
+      "name-USen": "whale shark",
+      "name-EUfr": "requin-baleine",
+      "name-EUru": "китовая акула"
+    },
+    "availability": {
+      "month-northern": "Juin - Septembre",
+      "month-southern": "Décembre - Mars",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Océan",
+      "rarity": "Rare",
+      "month-array-northern": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "month-array-southern": [
+        12,
+        1,
+        2,
+        3
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Géant (Aileron)",
+    "price": 13000,
+    "price-cj": 19500,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/75"
+  },
+  {
+    "id": 76,
+    "file-name": "suckerfish",
+    "name": {
+      "name-USen": "suckerfish",
+      "name-EUfr": "rémora rayé",
+      "name-EUru": "прилипала"
+    },
+    "availability": {
+      "month-northern": "Juin - Septembre",
+      "month-southern": "Décembre - Mars",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Océan",
+      "rarity": "Peu commun",
+      "month-array-northern": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "month-array-southern": [
+        12,
+        1,
+        2,
+        3
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Moyen (Aileron)",
+    "price": 1500,
+    "price-cj": 2250,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/76"
+  },
+  {
+    "id": 77,
+    "file-name": "football_fish",
+    "name": {
+      "name-USen": "football fish",
+      "name-EUfr": "poisson lanterne",
+      "name-EUru": "гимантолоф"
+    },
+    "availability": {
+      "month-northern": "Novembre - Mars",
+      "month-southern": "Mai - Septembre",
+      "time": "16h - 9h",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Océan",
+      "rarity": "Peu commun",
+      "month-array-northern": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "month-array-southern": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "time-array": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "shadow": "Moyen",
+    "price": 2500,
+    "price-cj": 3750,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/77"
+  },
+  {
+    "id": 78,
+    "file-name": "oarfish",
+    "name": {
+      "name-USen": "oarfish",
+      "name-EUfr": "poisson-ruban",
+      "name-EUru": "сельдяной король"
+    },
+    "availability": {
+      "month-northern": "Décembre - Mai",
+      "month-southern": "Juin - Novembre",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Océan",
+      "rarity": "Rare",
+      "month-array-northern": [
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "month-array-southern": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Géant",
+    "price": 9000,
+    "price-cj": 13500,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/78"
+  },
+  {
+    "id": 79,
+    "file-name": "barreleye",
+    "name": {
+      "name-USen": "barreleye",
+      "name-EUfr": "macropinna",
+      "name-EUru": "опистопрокт"
+    },
+    "availability": {
+      "month-northern": "Toute l'année",
+      "month-southern": "Toute l'année",
+      "time": "21h - 4h",
+      "isAllDay": false,
+      "isAllYear": true,
+      "location": "Océan",
+      "rarity": "Ultra-rare",
+      "month-array-northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month-array-southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "time-array": [
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "shadow": "Petit",
+    "price": 15000,
+    "price-cj": 22500,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/79"
+  },
+  {
+    "id": 80,
+    "file-name": "coelacanth",
+    "name": {
+      "name-USen": "coelacanth",
+      "name-EUfr": "coelacanthe",
+      "name-EUru": "латимерия"
+    },
+    "availability": {
+      "month-northern": "Toute l'année",
+      "month-southern": "Toute l'année",
+      "time": "Toute la journée",
+      "isAllDay": true,
+      "isAllYear": true,
+      "location": "Océan (+ pluie ou neige)",
+      "rarity": "Ultra-rare",
+      "month-array-northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month-array-southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "time-array": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "shadow": "Géant",
+    "price": 15000,
+    "price-cj": 22500,
+    "icon_uri": "https://acnhapi.com/v1/icons/fish/80"
+  }
+]

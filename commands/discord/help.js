@@ -26,6 +26,7 @@ module.exports = {
 						inline: true,
 					},
 				)
+				.addField('Informations sur un poisson', '`!poisson <nom du poisson>`')
 				.addFields({
 					name: 'Anecdote aléatoire Animal Crossing',
 					value: '`!info`',
