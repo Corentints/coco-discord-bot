@@ -506,7 +506,7 @@
       "catch-KRko": "음",
       "catch-EUru": "махрово"
     },
-    "house": "https://acnhcdn.com/drivesync/render/houses/bea02_388_Curt.png",
+    "house": "https://acnhcdn.com/drivesync/render/houses/bea01_20_rosey.png",
     "colors": "bleu & blanc"
   },
   {
@@ -19955,11 +19955,11 @@
       "name-EUnl": "Sasha",
       "name-CNzh": "蜜雪儿",
       "name-TWzh": "蜜雪兒",
-      "name-JPja": "ミッチェル", 
+      "name-JPja": "ミッチェル",
       "name-KRko": "미첼",
       "name-EUru": "Геррит"
     },
-    "personality": "Paresseux",
+    "personality": "Paresseuse",
     "birthday-string": "May 19st",
     "birthday": "19/5",
     "species": "Lapin",
@@ -20112,7 +20112,7 @@
       "name-CNzh": "羽毛",
       "name-TWzh": "羽毛"
     },
-    "personality": "Sportif",
+    "personality": "Sportive",
     "birthday-string": "August 11st",
     "birthday": "11/08",
     "species": "Bird",
@@ -20624,7 +20624,7 @@
     "personality": "Normale",
     "birthday-string": "September 11th",
     "birthday": "11/09",
-    "species": "Ecureuil",
+    "species": "Écureuil",
     "gender": "Female",
     "subtype": "B",
     "hobby": "Mode",
@@ -20672,7 +20672,7 @@
       "name-CNzh": "天圣",
       "name-TWzh": "天聖"
     },
-    "personality": "Sportif",
+    "personality": "Sportive",
     "birthday-string": "August 18st",
     "birthday": "18/08",
     "species": "Singe",
@@ -20723,7 +20723,7 @@
       "name-CNzh": "信雄",
       "name-TWzh": "信雄"
     },
-    "personality": "Paresseux",
+    "personality": "Paresseuse",
     "birthday-string": "December 24th",
     "birthday": "24/12",
     "species": "Manchot",
@@ -20754,7 +20754,7 @@
     },
     "house": "",
     "colors": "jaune & gris"
-  },  
+  },
   {
     "id": 408,
     "file-name": "elp11",
@@ -20777,7 +20777,7 @@
     "personality": "Vive",
     "birthday-string": "March 6st",
     "birthday": "6/03",
-    "species": "Elephant",
+    "species": "Éléphant",
     "gender": "Female",
     "subtype": "A",
     "hobby": "Jeu",
@@ -20878,7 +20878,7 @@
     },
     "personality": "Normale",
     "birthday-string": "December 25th",
-    "birthday": "/",
+    "birthday": "25/12",
     "species": "Brebis",
     "gender": "Female",
     "subtype": "A",
@@ -20927,7 +20927,7 @@
       "name-CNzh": "玛丁",
       "name-TWzh": "瑪丁"
     },
-    "personality": "Paresseux",
+    "personality": "Paresseuse",
     "birthday-string": "April 16th",
     "birthday": "16/04",
     "species": "Ourson",
